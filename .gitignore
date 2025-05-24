@@ -1,16 +1,27 @@
-# Ambiente virtual
-.venv/
-venv/
-ENV/
-
-# Arquivos Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
-# Arquivos de sessão
-session.json
+# Cookies e arquivos de dados
+cookies.json
+nao_seguem_de_volta.txt
 
-# Arquivos do sistema
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema
 .DS_Store
 Thumbs.db 
