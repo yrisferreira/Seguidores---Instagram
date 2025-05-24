@@ -1,2 +1,3 @@
-2025/05/23-21:51:24.794 3c598 Creating DB /Users/yrisfereira/Documents/automacao/chrome_profile/Default/shared_proto_db/metadata since it was missing.
-2025/05/23-21:51:24.805 3c598 Reusing MANIFEST /Users/yrisfereira/Documents/automacao/chrome_profile/Default/shared_proto_db/metadata/MANIFEST-000001
+2025/05/23-23:01:41.448 4c784 Reusing MANIFEST /Users/yrisfereira/Documents/automacao/chrome_profile/Default/shared_proto_db/metadata/MANIFEST-000001
+2025/05/23-23:01:41.448 4c784 Recovering log #3
+2025/05/23-23:01:41.449 4c784 Reusing old log /Users/yrisfereira/Documents/automacao/chrome_profile/Default/shared_proto_db/metadata/000003.log 

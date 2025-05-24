@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png",
+         "64": "data/icons/64.png"
+      },
+      "default_popup": "data/popup/popup.html",
+      "default_title": "Tab Auto Refresh"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "description": "Automatically refresh tabs based on custom time intervals",
+   "homepage_url": "https://mybrowseraddon.com/tab-auto-refresh.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgHOLAufKPXWWsegdReYapukhc5xsszMQ3iywXZdWtW9khGqgUzbLH5PJ0r4+NPxuoYbu7ZKE7jBa/xkIQOowVo93RI4/PP3jHb18RyaRhMkXwBW+vUahX07ibQhM4uF1WckxkBE1rsVcn0aoAatizGPybHWENtx0qLgmw85pBOWiMv1Wz4RrtM/gZFFdfTzlxVJLZlYlU6kowTg6A16btd8n5koHKsWRIa5sKdkiCu7CGfc0NkZC8L/C8MZKepyzWKii7K4C434VoVPGkU7hLOC6gtzc5VA61pNA0DTyPGjWZtYdLlcJHEEIDwisZC4GFb9vQuWeSjo8VtAt7rMw0QIDAQAB",
+   "manifest_version": 3,
+   "name": "Tab Auto Refresh",
+   "offline_enabled": true,
+   "permissions": [ "tabs", "alarms", "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.1"
+}

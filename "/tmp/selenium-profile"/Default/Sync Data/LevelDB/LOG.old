@@ -1,0 +1,5 @@
+2025/05/23-23:07:51.995 4e696 Creating DB /Users/yrisfereira/Documents/automacao/"/tmp/selenium-profile"/Default/Sync Data/LevelDB since it was missing.
+2025/05/23-23:07:52.006 4e696 Reusing MANIFEST /Users/yrisfereira/Documents/automacao/"/tmp/selenium-profile"/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/05/23-23:08:49.952 4e69a Level-0 table #5: started
+2025/05/23-23:08:49.959 4e69a Level-0 table #5: 134756 bytes OK
+2025/05/23-23:08:49.961 4e69a Delete type=0 #3

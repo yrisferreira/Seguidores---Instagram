@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "Akun"
+   },
+   "active": {
+      "message": "Tab Aktif"
+   },
+   "active_subscription": {
+      "message": "Aktif"
+   },
+   "active_title": {
+      "message": "Daftar Tab Aktif"
+   },
+   "add_email": {
+      "message": "Tambahkan Email"
+   },
+   "add_keywords": {
+      "message": "Tambahkan Kata Kunci Target Default"
+   },
+   "add_new": {
+      "message": "Tambah Baru"
+   },
+   "advanced": {
+      "message": "Lanjutan"
+   },
+   "alert_msg1": {
+      "message": "Pengaturan berhasil disetel ulang"
+   },
+   "alert_msg2": {
+      "message": "Selamat! Auto Refresh Plus Berhasil Dipasang"
+   },
+   "alert_tabs_desc": {
+      "message": "Tampilkan tab peringatan di popup ekstensi untuk melihat pembaruan atau perubahan yang dilakukan oleh pemantau halaman. Fitur ini menyediakan cara yang nyaman untuk tetap terinformasi, terutama saat Anda memiliki banyak tab terbuka."
+   },
+   "alert_tabs_title": {
+      "message": "Tampilkan Tab Peringatan di Popup Ekstensi"
+   },
+   "all": {
+      "message": "Semua"
+   },
+   "allow_incognito": {
+      "message": "Izinkan di Mode Penyamaran"
+   },
+   "annual_plan": {
+      "message": "Paket Tahunan"
+   },
+   "any_change": {
+      "message": "Perubahan Apapun"
+   },
+   "any_msg": {
+      "message": "Auto Refresh Plus akan memberi tahu Anda tentang setiap perubahan di situs web ini."
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Otomatis menyegarkan halaman dengan fitur pemantauan halaman yang kuat."
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Pemantau Halaman"
+   },
+   "are_you_sure": {
+      "message": "Apakah Anda yakin ingin menghapus?"
+   },
+   "as_msg4": {
+      "message": "Auto Refresh Plus akan otomatis memulai fungsi memuat ulang halaman ketika URL ini dibuka di browser Anda. Ini juga akan membuka semua URL ini saat browser dihidupkan ulang dan mulai menyegarkan secara otomatis pada interval yang diinginkan."
+   },
+   "as_title": {
+      "message": "URL Mulai Otomatis"
+   },
+   "assign_hotkeys": {
+      "message": "Tetapkan Tombol Pintas"
+   },
+   "ast": {
+      "message": "Timer Hitung Mundur"
+   },
+   "ast_msg1": {
+      "message": "Mulai otomatis menyegarkan saat membuka URL ini. Satu URL per baris, misalnya,"
+   },
+   "ast_msg2": {
+      "message": "Mulai otomatis menyegarkan URL ini saat browser dihidupkan ulang."
+   },
+   "ast_specific_time": {
+      "message": "Pilih Waktu Spesifik"
+   },
+   "auto_clicker": {
+      "message": "Klik Otomatis"
+   },
+   "auto_clicker_msg1": {
+      "message": "Klik link secara otomatis"
+   },
+   "auto_clicker_msg2": {
+      "message": "(Jika teks monitor atau ekspresi reguler memiliki tautan)"
+   },
+   "auto_start": {
+      "message": "Mulai Otomatis"
+   },
+   "bad": {
+      "message": "Buruk"
+   },
+   "blacklist": {
+      "message": "Daftar Hitam"
+   },
+   "bulk_keywords_msg": {
+      "message": "Untuk kata kunci massal, gunakan spasi setelah setiap koma"
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cancel_timer": {
+      "message": "Batalkan Timer"
+   },
+   "canonical_url": {
+      "message": "URL Kanonik"
+   },
+   "change_site_desc": {
+      "message": "Jika URL situs web berubah saat Auto Refresh Plus berjalan, itu akan diperbarui secara otomatis untuk mengikuti URL baru atau tetap di URL asli. Ini memastikan bahwa halaman terus diperbarui dengan benar tanpa gangguan."
+   },
+   "change_site_title": {
+      "message": "Penanganan Perubahan / Pengalihan URL"
+   },
+   "choose_plan": {
+      "message": "Pilih Paket Anda"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "id"
+   },
+   "congratulations": {
+      "message": "Selamat"
+   },
+   "contact_us": {
+      "message": "Hubungi Kami"
+   },
+   "continue_without_login": {
+      "message": "Lanjutkan Tanpa Login"
+   },
+   "contribution": {
+      "message": "Kontribusi"
+   },
+   "copyright": {
+      "message": "Hak cipta dilindungi undang-undang."
+   },
+   "countdown": {
+      "message": "Hitung Mundur"
+   },
+   "countdown_mode": {
+      "message": "Mode Hitung Mundur"
+   },
+   "cs_t1": {
+      "message": "Saat membuka URL"
+   },
+   "cs_t2": {
+      "message": "Pada setiap penyegaran halaman"
+   },
+   "cs_t3": {
+      "message": "Saat pemantau halaman menemukan teks target"
+   },
+   "cs_t4": {
+      "message": "Saat pemantau halaman kehilangan teks target"
+   },
+   "cs_t5": {
+      "message": "Saat ada perubahan"
+   },
+   "cs_t6": {
+      "message": "Sisipkan sebelum halaman dimuat"
+   },
+   "cs_t7": {
+      "message": "Sisipkan setelah halaman dimuat"
+   },
+   "custom": {
+      "message": "Kustom"
+   },
+   "custom_monitor": {
+      "message": "Monitor Kustom"
+   },
+   "custom_scripts": {
+      "message": "Skrip Kustom"
+   },
+   "date": {
+      "message": "Tanggal"
+   },
+   "deep_source": {
+      "message": "Sumber Dalam"
+   },
+   "default_target_input": {
+      "message": "Mendukung beberapa teks/ekspresi reguler, tekan Enter untuk menambahkan yang lain."
+   },
+   "default_target_text": {
+      "message": "Teks Target Default"
+   },
+   "default_timerinterval": {
+      "message": "Interval Timer Default"
+   },
+   "delete": {
+      "message": "Hapus"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus mendeteksi perubahan di situs web ini."
+   },
+   "detect_any_change_title": {
+      "message": "Pemantau Halaman"
+   },
+   "developer_mode": {
+      "message": "Mode pengembang tidak diizinkan."
+   },
+   "developer_mode_msg": {
+      "message": "Untuk alasan keamanan dan stabilitas, mode pengembang tidak diizinkan.\u003Cbr> Silakan unduh dan instal ekstensi dari toko resmi untuk memastikan Anda memiliki versi terbaru dan paling aman."
+   },
+   "devices": {
+      "message": "Perangkat"
+   },
+   "dismiss": {
+      "message": "Abaikan"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "donate": {
+      "message": "Donasi"
+   },
+   "donation": {
+      "message": "Donasi"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>Salam dari tim Auto Refresh Plus.\u003C/b> \u003Cbr>Jika Anda merasa Auto Refresh Plus berguna, pertimbangkan untuk menyumbang kepada penulis."
+   },
+   "donation_msg2": {
+      "message": "Saya sudah melakukannya."
+   },
+   "done": {
+      "message": "Selesai"
+   },
+   "download_in_store": {
+      "message": "Unduh di Toko"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_alert": {
+      "message": "Notifikasi Peringatan Email"
+   },
+   "email_msg": {
+      "message": "Harap diperhatikan, pengaturan ini hanya untuk menambahkan email. Untuk menerima pemberitahuan email, aktifkan \u003Cb>Terima Pemberitahuan Email\u003C/b> di popup ekstensi > bagian monitor halaman untuk setiap halaman web."
+   },
+   "email_sent_to": {
+      "message": "Kode verifikasi telah dikirim ke"
+   },
+   "enable_ri": {
+      "message": "Aktifkan Interval Acak"
+   },
+   "enable_tf": {
+      "message": "Aktifkan Fitur Ini"
+   },
+   "enter_code_title": {
+      "message": "Masukkan Verifikasi Kode"
+   },
+   "enter_email": {
+      "message": "Masukkan Alamat Email"
+   },
+   "exact": {
+      "message": "URL yang Tepat"
+   },
+   "expire": {
+      "message": "Kedaluwarsa"
+   },
+   "export": {
+      "message": "Ekspor"
+   },
+   "export_desc": {
+      "message": "Untuk menjaga pengaturan Anda, ekspor konfigurasi Auto Refresh Plus Anda dan kembalikan nanti di komputer yang sama atau berbeda."
+   },
+   "export_option": {
+      "message": "Opsi Ekspor"
+   },
+   "export_settings": {
+      "message": "Cadangan Pengaturan"
+   },
+   "extension_updated": {
+      "message": "Ekstensi diperbarui ke"
+   },
+   "feature_1": {
+      "message": "Sinkronkan Pengaturan di Beberapa Perangkat"
+   },
+   "feature_2": {
+      "message": "Tampilkan Timer Visual"
+   },
+   "feature_3": {
+      "message": "Dukungan Skrip Kustom"
+   },
+   "feature_4": {
+      "message": "Dan Lainnya..."
+   },
+   "feature_request": {
+      "message": "Permintaan Fitur"
+   },
+   "find_mtr_msg": {
+      "message": "Temukan Teks Monitor di"
+   },
+   "focus_description": {
+      "message": "Aktifkan fokus jendela saat Pemantau Halaman menemukan atau kehilangan kata kunci. Fitur ini memastikan bahwa jendela secara otomatis muncul di depan layar Anda setiap kali kata kunci yang ditentukan terdeteksi atau hilang."
+   },
+   "focus_title": {
+      "message": "Aktifkan Fokus Jendela pada Deteksi Kata Kunci"
+   },
+   "found": {
+      "message": "Ditemukan"
+   },
+   "free": {
+      "message": "Gratis"
+   },
+   "full_page": {
+      "message": "Penyegaran Halaman Penuh"
+   },
+   "full_page_help": {
+      "message": "Auto Refresh Plus akan memberi tahu Anda ketika ada perubahan terjadi di halaman web ini."
+   },
+   "good": {
+      "message": "Baik"
+   },
+   "great": {
+      "message": "Hebat!"
+   },
+   "hard_refresh": {
+      "message": "Penyegaran Keras"
+   },
+   "hard_refresh_msg": {
+      "message": "(Muat ulang halaman tanpa mengandalkan data yang di-cache)"
+   },
+   "help_center": {
+      "message": "Pusat Bantuan"
+   },
+   "home": {
+      "message": "Beranda"
+   },
+   "hotkeys": {
+      "message": "Tombol Pintas"
+   },
+   "hotkeys_msg1": {
+      "message": "Mulai Interval Waktu"
+   },
+   "hotkeys_msg2": {
+      "message": "Mulai Interval Acak"
+   },
+   "hotkeys_msg3": {
+      "message": "Mulai Mode Timer"
+   },
+   "hotkeys_msg4": {
+      "message": "Hentikan Interval"
+   },
+   "hotkeys_msg5": {
+      "message": "Matikan Suara Pemberitahuan"
+   },
+   "hotkeys_title": {
+      "message": "Tetapkan Tombol Pintas"
+   },
+   "hour": {
+      "message": "Jam"
+   },
+   "hours": {
+      "message": "Jam"
+   },
+   "howto": {
+      "message": "Cara"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plus menawarkan solusi khusus untuk kebutuhan unik bisnis Anda. Tim kami dapat membuat skrip khusus untuk melakukan tindakan tertentu pada halaman web. Perlu diketahui bahwa solusi khusus disediakan dengan biaya tambahan, dengan harga berdasarkan kompleksitas. Hubungi kami untuk mendiskusikan kebutuhan Anda lebih lanjut."
+   },
+   "idea_cs_general_desc": {
+      "message": "Jika skrip Anda juga memenuhi kebutuhan pengguna lain, kami akan menulisnya secara gratis dan menerbitkannya secara publik di marketplace skrip Auto Refresh Plus."
+   },
+   "idea_cs_title": {
+      "message": "Apakah Anda memiliki ide untuk skrip khusus?"
+   },
+   "idea_custom_scripts_business": {
+      "message": "Solusi Khusus untuk Bisnis dengan Kebutuhan Unik"
+   },
+   "idea_custom_scripts_general": {
+      "message": "Ide Umum Publik"
+   },
+   "ignore_input_field": {
+      "message": "Abaikan Interaksi Kolom Input"
+   },
+   "ignore_input_field_desc": {
+      "message": "Lanjutkan penyegaran bahkan ketika Anda mengklik atau mengetik di kolom input."
+   },
+   "images": {
+      "message": "Gambar"
+   },
+   "import": {
+      "message": "Impor"
+   },
+   "import_desc": {
+      "message": "Untuk mempertahankan pengaturan Anda, impor konfigurasi Auto Refresh Plus Anda dengan menggunakan tombol impor. Ini memungkinkan Anda untuk memulihkan pengaturan Anda di komputer yang sama atau berbeda."
+   },
+   "import_option": {
+      "message": "Opsi Impor"
+   },
+   "interactions_msg": {
+      "message": "Auto Refresh Plus akan menghentikan penyegaran halaman jika Anda mengklik mouse atau menggunakan keyboard. Aktifkan fitur ini di sini untuk semua situs web, atau aktifkan untuk halaman/situs web individu dari popup ekstensi."
+   },
+   "interactions_msg_opt": {
+      "message": "Otomatis menjeda penyegaran jika Anda berinteraksi dengan halaman atau mulai mengetik di bidang input."
+   },
+   "interactions_title_opt": {
+      "message": "Hentikan Penyegaran pada Interaksi Pengguna"
+   },
+   "invalid_code_email": {
+      "message": "Kode verifikasi yang diberikan tidak valid."
+   },
+   "just_now": {
+      "message": "Baru Saja"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus aktif, tetapi fitur utama hilang."
+   },
+   "keyword_found": {
+      "message": "Kata kunci ditemukan"
+   },
+   "lang_code": {
+      "message": "id"
+   },
+   "logout": {
+      "message": "Keluar"
+   },
+   "lost": {
+      "message": "Hilang"
+   },
+   "loved": {
+      "message": "Suka Sekali!"
+   },
+   "manage_plan": {
+      "message": "Kelola Paket"
+   },
+   "max": {
+      "message": "Maks"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "Menit"
+   },
+   "minutes": {
+      "message": "Menit"
+   },
+   "monitor_full_page": {
+      "message": "Pantau Halaman Penuh"
+   },
+   "month": {
+      "message": "Bulan"
+   },
+   "monthly_plan": {
+      "message": "Paket Bulanan"
+   },
+   "msg_pm": {
+      "message": "Tidak Ada Tab untuk Ditampilkan"
+   },
+   "name_required": {
+      "message": "Nama diperlukan."
+   },
+   "never_playsound": {
+      "message": "Jangan Pernah Memutar Suara"
+   },
+   "new_url": {
+      "message": "URL Baru"
+   },
+   "no_credit_card": {
+      "message": "Tidak Memerlukan Kartu Kredit"
+   },
+   "not_allowed": {
+      "message": "Anda tidak diizinkan untuk menggunakannya di sini."
+   },
+   "not_allowed_to_use": {
+      "message": "Anda tidak diizinkan untuk menggunakan fitur ini."
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus telah $action$ teks target Anda.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "Teks Target!"
+   },
+   "notification_settings": {
+      "message": "Pengaturan Notifikasi"
+   },
+   "notifications": {
+      "message": "Notifikasi"
+   },
+   "notifications_moved_msg": {
+      "message": "Pengaturan notifikasi telah dipindahkan ke bagian terpisah"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "okay": {
+      "message": "Oke"
+   },
+   "open_link_tab": {
+      "message": "Buka Tautan di Tab Baru"
+   },
+   "opt_msg1": {
+      "message": "Segarkan saat Membuka URL"
+   },
+   "opt_msg10": {
+      "message": "Saat notifikasi tiba, suara pendek akan diputar untuk memberi tahu Anda. Anda dapat menyesuaikan pengaturan ini dengan mematikan suara atau memilih suara lain untuk diputar untuk notifikasi."
+   },
+   "opt_msg11": {
+      "message": "Sesuaikan durasi maksimum suara yang diputar saat notifikasi tiba."
+   },
+   "opt_msg12": {
+      "message": "Terima notifikasi email saat situs web berubah sesuai dengan pengaturan pemantau halaman Anda. Ini memastikan Anda tetap terinformasi tentang perubahan tanpa perlu terus-menerus memeriksa situs."
+   },
+   "opt_msg13": {
+      "message": "Jalankan Skrip Kustom di Halaman"
+   },
+   "opt_msg14": {
+      "message": "Jika Anda suka bermain dengan otomatisasi, scraping, mengubah perilaku situs web default, dan memiliki pengetahuan dasar tentang JavaScript, ada banyak hal yang dapat Anda lakukan di sini."
+   },
+   "opt_msg15": {
+      "message": "Pola URL Apa yang Diizinkan"
+   },
+   "opt_msg16": {
+      "message": "Untuk mencocokkan HTTP dan HTTPS, cukup tulis example.com"
+   },
+   "opt_msg17": {
+      "message": "Untuk mencocokkan setiap halaman di domain, tulis example.com/*"
+   },
+   "opt_msg18": {
+      "message": "Untuk mencocokkan setiap halaman di domain dan subdomainnya, tulis *.example.com/*"
+   },
+   "opt_msg19": {
+      "message": "Atur Pintasan Keyboard Kustom Anda untuk Tindakan Auto Refresh Plus"
+   },
+   "opt_msg2": {
+      "message": "Mulai Segarkan Otomatis Saat URL Ini Dibuka"
+   },
+   "opt_msg20": {
+      "message": "Setel Ulang Pengaturan Auto Refresh Plus"
+   },
+   "opt_msg21": {
+      "message": "\u003Cb>Apakah Anda yakin\u003C/b> ingin mengembalikan semua pengaturan Auto Refresh Plus ke default?"
+   },
+   "opt_msg22": {
+      "message": "Selamat! Auto Refresh Plus Berhasil Dipasang"
+   },
+   "opt_msg3": {
+      "message": "Masukkan satu atau beberapa kata kunci di sini, dan segera setelah ada yang ditemukan di halaman web, Auto Refresh Plus akan mulai menyegarkan halaman secara otomatis pada frekuensi interval default."
+   },
+   "opt_msg4": {
+      "message": "Masukkan URL spesifik di sini untuk menyegarkan URL ini, bukan tab saat ini yang Anda gunakan. Jadi, misalnya, jika Anda menyimpan Google.com ke pengaturan dan kemudian mulai menyegarkan otomatis saat berada di Yahoo.com, Google.com akan disegarkan, bukan halaman yang Anda lihat."
+   },
+   "opt_msg5": {
+      "message": "Aktifkan Mode Hitung Mundur"
+   },
+   "opt_msg6": {
+      "message": "Lakukan penyegaran halaman pada halaman tertentu setelah waktu tertentu berlalu, timer hitung mundur Auto Refresh Plus memungkinkan Anda melakukannya. Cukup aktifkan dan atur waktunya, dan timer hitung mundur akan dimulai. Setelah hitung mundur mencapai nol, Auto Refresh Plus akan mulai menyegarkan halaman lagi pada interval default yang ditetapkan."
+   },
+   "opt_msg7": {
+      "message": "Mode Hitung Mundur Ditambahkan di Popup Auto Refresh Plus"
+   },
+   "opt_msg8": {
+      "message": "Tambahkan kata kunci pemantauan default di sini. Anda juga dapat menambahkan kata kunci kustom untuk setiap situs web dari popup ekstensi."
+   },
+   "opt_msg9": {
+      "message": "Dapatkan pemberitahuan otomatis ketika halaman web tertentu menemukan atau kehilangan kata kunci yang Anda tentukan."
+   },
+   "options": {
+      "message": "Opsi"
+   },
+   "other_options": {
+      "message": "Opsi Lainnya"
+   },
+   "other_products": {
+      "message": "Produk Lainnya"
+   },
+   "page_monitor": {
+      "message": "Pantau Halaman"
+   },
+   "paused": {
+      "message": "Dijeda"
+   },
+   "play_for": {
+      "message": "Mainkan Untuk"
+   },
+   "play_onlyonce": {
+      "message": "Mainkan Sekali Saja"
+   },
+   "play_sound": {
+      "message": "Pengaturan Pemutaran Suara Notifikasi Push"
+   },
+   "playsound_candidate": {
+      "message": "Putar Suara Kandidat 1 (1 Detik)"
+   },
+   "playsound_candidate2": {
+      "message": "Putar Suara Kandidat 2 (6 Detik)"
+   },
+   "playsound_msg1": {
+      "message": "Putar Suara dari URL"
+   },
+   "please_rateus": {
+      "message": "Tolong Beri Nilai Kami"
+   },
+   "please_upgrade": {
+      "message": "Silakan tingkatkan paket Anda."
+   },
+   "pm_input1": {
+      "message": "Contoh: terjual habis kadaluarsa"
+   },
+   "pm_msg2": {
+      "message": "Putar Sampai Saya Klik Kotak Pemberitahuan"
+   },
+   "pmp": {
+      "message": "Pola Pemantauan Halaman"
+   },
+   "pmp_msg1": {
+      "message": "Pemberitahuan Popup Setelah \u003Cb>MENEMUKAN\u003C/b> Teks Target (atau regex)"
+   },
+   "pmp_msg2": {
+      "message": "Pemberitahuan Popup Setelah \u003Cb>KEHILANGAN\u003C/b> Teks Target (atau regex)"
+   },
+   "predefined": {
+      "message": "Telah Ditentukan"
+   },
+   "predefined_text": {
+      "message": "Teks yang Telah Ditentukan"
+   },
+   "predefined_url": {
+      "message": "URL yang Telah Ditentukan"
+   },
+   "predefined_url_alert": {
+      "message": "Mengaktifkan fitur \"Segarkan URL yang Ditentukan\" akan membatasi semua fungsi penyegaran otomatis hanya untuk URL yang Anda tulis di input ini. Anda tidak akan dapat menyegarkan URL lain saat fitur ini aktif."
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "r_browser": {
+      "message": "Segarkan Saat Memulai Ulang Browser"
+   },
+   "random_interval": {
+      "message": "Interval Acak"
+   },
+   "random_interval_warning": {
+      "message": "Nilai minimum harus lebih kecil dari nilai maksimum."
+   },
+   "rate_us": {
+      "message": "Beri Kami Nilai"
+   },
+   "rateus_title": {
+      "message": "Beri Nilai Ekstensi Ini"
+   },
+   "ratings": {
+      "message": "Penilaian"
+   },
+   "ratings_msg": {
+      "message": "Silakan beri kami lima bintang di toko web."
+   },
+   "ratings_msg2": {
+      "message": "Tentu! Mari Mulai"
+   },
+   "read_more": {
+      "message": "Baca lebih lanjut"
+   },
+   "receive_emails_alerts": {
+      "message": "Terima Pemberitahuan Email"
+   },
+   "refresh_number": {
+      "message": "Atur Jumlah Penyegaran"
+   },
+   "refresh_number_msg": {
+      "message": "(Atur berapa kali Anda ingin menyegarkan.)"
+   },
+   "refresh_type": {
+      "message": "Tipe Penyegaran"
+   },
+   "remove_email": {
+      "message": "Hapus Email"
+   },
+   "reset": {
+      "message": "Setel Ulang Pengaturan"
+   },
+   "reset_alert_msg": {
+      "message": "Apakah Anda yakin ingin mengatur ulang semua pengaturan ke nilai default mereka? Tindakan ini tidak dapat dibatalkan. Jika Anda yakin, ketik \u003Cb>RESET\u003C/b> di bidang input di bawah ini."
+   },
+   "restart_msg": {
+      "message": "Lanjutkan Penyegaran pada Deteksi Kata Kunci"
+   },
+   "restart_opt_msg": {
+      "message": "Auto Refresh Plus akan terus menyegarkan halaman meskipun menemukan atau kehilangan kata kunci yang dipantau. Ini akan tetap memicu notifikasi, email, atau bel tergantung pada pengaturan pemantau halaman Anda."
+   },
+   "retain_desc": {
+      "message": "Pilih durasi waktu untuk mempertahankan catatan Tab yang Diberitahukan sebelum secara otomatis menghilang."
+   },
+   "retain_title": {
+      "message": "Pertahankan Tab yang Diberitahukan"
+   },
+   "rpp": {
+      "message": "Segarkan Halaman yang Telah Ditentukan"
+   },
+   "rpp_body": {
+      "message": "Segarkan Konten Halaman yang Telah Ditentukan"
+   },
+   "rpp_msg1": {
+      "message": "(misalnya, google.com)"
+   },
+   "rpp_title": {
+      "message": "Segarkan Halaman yang Telah Ditentukan"
+   },
+   "rpt": {
+      "message": "Segarkan Teks yang Telah Ditentukan"
+   },
+   "rpt_body": {
+      "message": "Segarkan Konten Teks yang Telah Ditentukan"
+   },
+   "rpt_input1": {
+      "message": "Mendukung beberapa teks/regex, tekan Enter untuk menambahkan lainnya."
+   },
+   "rpt_title": {
+      "message": "Segarkan Teks yang Telah Ditentukan"
+   },
+   "save": {
+      "message": "Simpan"
+   },
+   "scroll_to_keyword": {
+      "message": "Gulir ke Lokasi Kata Kunci"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "Gulir otomatis halaman ke lokasi kata kunci yang ditentukan saat ditemukan."
+   },
+   "seconds": {
+      "message": "Detik"
+   },
+   "select_countdown": {
+      "message": "Pilih Hitung Mundur"
+   },
+   "select_date": {
+      "message": "Pilih Tanggal"
+   },
+   "select_time": {
+      "message": "Pilih Waktu"
+   },
+   "sendtopm": {
+      "message": "Kirim ke Page Monitor"
+   },
+   "set_autoclick": {
+      "message": "Atur AutoClick"
+   },
+   "set_hotkey": {
+      "message": "Tetapkan Hotkey"
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "settings_exported": {
+      "message": "Pengaturan Berhasil Diekspor"
+   },
+   "settings_imported": {
+      "message": "Pengaturan Berhasil Diimpor"
+   },
+   "show_tab": {
+      "message": "Tampilkan Tab"
+   },
+   "sign_in": {
+      "message": "Masuk"
+   },
+   "sign_up": {
+      "message": "Daftar"
+   },
+   "sign_up_desc": {
+      "message": "Daftar sekarang untuk membuka kunci berikut:"
+   },
+   "sound_length": {
+      "message": "Panjang Suara"
+   },
+   "source": {
+      "message": "Sumber"
+   },
+   "source_msg": {
+      "message": "(Temukan di dalam teks inline di kode sumber HTML.)"
+   },
+   "specific_timemode": {
+      "message": "Mode Waktu Spesifik (misalnya, 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Mulai"
+   },
+   "start_timer": {
+      "message": "Mulai Timer"
+   },
+   "start_timer_body": {
+      "message": "Mulai Konten Timer"
+   },
+   "start_timer_title": {
+      "message": "Mulai Timer"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "stop": {
+      "message": "Berhenti"
+   },
+   "stop_refresh_click": {
+      "message": "Hentikan Penyegaran saat Klik Mouse"
+   },
+   "stop_refresh_click_desc": {
+      "message": "Hentikan penyegaran otomatis setiap kali Anda mengklik mouse."
+   },
+   "stop_refresh_keyboard": {
+      "message": "Hentikan Penyegaran saat Penggunaan Keyboard"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "Hentikan penyegaran otomatis setiap kali Anda menekan tombol."
+   },
+   "stop_sound": {
+      "message": "Hentikan Suara"
+   },
+   "subscribe_pay": {
+      "message": "Berlangganan dan Bayar"
+   },
+   "success": {
+      "message": "Pengaturan Berhasil Disimpan"
+   },
+   "supported_expressions": {
+      "message": "Ekspresi yang Didukung"
+   },
+   "tabs_alerts": {
+      "message": "Tab dengan Pemberitahuan"
+   },
+   "tabs_refreshing": {
+      "message": "Tab Aktif Menyegarkan"
+   },
+   "temporary_pause": {
+      "message": "Hentikan Sementara Penyegaran Otomatis pada Interaksi untuk Jangka Waktu Tertentu"
+   },
+   "temporary_pause_desc": {
+      "message": "Hentikan penyegaran otomatis saat klik mouse atau aktivitas keyboard untuk jangka waktu tertentu, dan aktifkan kembali secara otomatis jika tidak ada interaksi yang terdeteksi selama waktu itu."
+   },
+   "test_play": {
+      "message": "Uji Putar"
+   },
+   "thankyou": {
+      "message": "Terima Kasih"
+   },
+   "ti_msg1": {
+      "message": "Atur waktu default untuk setiap penyegaran halaman. Anda dapat memilih interval waktu yang telah ditentukan atau memberikan interval waktu kustom dari popup ekstensi."
+   },
+   "ti_msg2": {
+      "message": "Acak interval waktu setiap penyegaran halaman yang dilakukan oleh Auto Refresh Plus. Yang perlu Anda lakukan adalah memilih durasi waktu minimum dan maksimum, dan ekstensi akan melakukan penyegaran halaman otomatis antara rentang yang ditentukan."
+   },
+   "ti_msg3": {
+      "message": "Fungsi Interval Acak Ditambahkan di Popup Auto Refresh Plus"
+   },
+   "time": {
+      "message": "Waktu"
+   },
+   "time_interval": {
+      "message": "Interval Waktu"
+   },
+   "timer_mode": {
+      "message": "Mode Timer"
+   },
+   "unlimited": {
+      "message": "Tidak Terbatas"
+   },
+   "unsubscribe": {
+      "message": "Berhenti Berlangganan"
+   },
+   "unsubscribe_alert": {
+      "message": "Apakah Anda yakin ingin berhenti berlangganan?"
+   },
+   "unsubscribe_success": {
+      "message": "Berhasil Berhenti Berlangganan"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus Diperbarui ke Versi"
+   },
+   "up_msg2": {
+      "message": "Tambahkan Mode Restart di Opsi"
+   },
+   "up_msg3": {
+      "message": "Tambahkan Mode Interaksi di Opsi"
+   },
+   "up_msg4": {
+      "message": "Menu-Kontekstual untuk Menambahkan Teks ke Pemantauan Halaman"
+   },
+   "up_msg5": {
+      "message": "Segarkan Tanpa Penyegaran Penuh di Halaman"
+   },
+   "up_msg6": {
+      "message": "Tambahkan Pemantauan Tab"
+   },
+   "up_msg7": {
+      "message": "Tambahkan Penghitung Visual"
+   },
+   "up_msg8": {
+      "message": "Bug Kecil Diperbaiki"
+   },
+   "up_msg9": {
+      "message": "Saya Mengerti"
+   },
+   "use_default": {
+      "message": "Gunakan Kata Kunci Default"
+   },
+   "verify": {
+      "message": "Verifikasi"
+   },
+   "verify_email_msg": {
+      "message": "Email Berhasil Diverifikasi"
+   },
+   "visual": {
+      "message": "Visual"
+   },
+   "visual_msg": {
+      "message": "(Temukan di dalam teks yang Anda lihat di layar visual.)"
+   },
+   "visual_timer_desc": {
+      "message": "Kontrol di mana timer visual muncul di halaman. Pilih posisi tampilan yang paling sesuai untuk menampilkan penghitung visual."
+   },
+   "visual_timer_msg": {
+      "message": "Tampilkan Timer Visual di Halaman Web"
+   },
+   "visual_timer_msg_opt": {
+      "message": "Secara default, aktifkan timer visual untuk semua halaman yang akan Anda segarkan. Jika dinonaktifkan, Anda dapat mengaktifkan fitur ini secara individual dari popup ekstensi."
+   },
+   "visual_timer_title": {
+      "message": "Kontrol Posisi Timer Visual"
+   },
+   "visual_timer_title_opt": {
+      "message": "Aktifkan Timer Visual Secara Default"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "whats_new": {
+      "message": "Apa yang Baru?"
+   },
+   "whitelist": {
+      "message": "Daftar Putih"
+   },
+   "wildcard_not_supported": {
+      "message": "URL wildcard tidak didukung saat memulai ulang browser."
+   },
+   "without_full": {
+      "message": "Penyegaran XHR"
+   },
+   "without_msg1": {
+      "message": "Tidak Ada"
+   },
+   "without_msg2": {
+      "message": "Bagaimana Cara Auto Klik Tombol?"
+   },
+   "xhr_page_help": {
+      "message": "Ambil data dari URL tanpa harus melakukan penyegaran halaman penuh. Ini memungkinkan halaman web untuk memperbarui hanya sebagian dari halaman tanpa mengganggu apa yang sedang dilakukan pengguna."
+   },
+   "xhr_refresh": {
+      "message": "Penyegaran XHR"
+   },
+   "year": {
+      "message": "Tahun"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "Anda telah melampaui batas fitur ini."
+   },
+   "you_have_an_account": {
+      "message": "Punya Akun?"
+   },
+   "your_plan": {
+      "message": "Paket Anda"
+   }
+}

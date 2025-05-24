@@ -1,2 +1,3 @@
-2025/05/23-21:51:24.346 3c5f0 Creating DB /Users/yrisfereira/Documents/automacao/chrome_profile/Default/Session Storage since it was missing.
-2025/05/23-21:51:24.358 3c5f0 Reusing MANIFEST /Users/yrisfereira/Documents/automacao/chrome_profile/Default/Session Storage/MANIFEST-000001
+2025/05/23-23:01:41.240 4c7e0 Reusing MANIFEST /Users/yrisfereira/Documents/automacao/chrome_profile/Default/Session Storage/MANIFEST-000001
+2025/05/23-23:01:41.241 4c7e0 Recovering log #3
+2025/05/23-23:01:41.242 4c7e0 Reusing old log /Users/yrisfereira/Documents/automacao/chrome_profile/Default/Session Storage/000003.log 

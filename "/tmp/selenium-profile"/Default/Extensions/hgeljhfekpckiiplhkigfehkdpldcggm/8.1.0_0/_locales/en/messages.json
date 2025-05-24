@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "Account"
+   },
+   "active": {
+      "message": "Active Tabs"
+   },
+   "active_subscription": {
+      "message": "Active"
+   },
+   "active_title": {
+      "message": "Active Tab List"
+   },
+   "add_email": {
+      "message": "Add Email"
+   },
+   "add_keywords": {
+      "message": "Add Default Target Keywords"
+   },
+   "add_new": {
+      "message": "Add New"
+   },
+   "advanced": {
+      "message": "Advanced"
+   },
+   "alert_msg1": {
+      "message": "Settings reset successfully"
+   },
+   "alert_msg2": {
+      "message": "Congrats! Auto Refresh Plus Installed Successfully"
+   },
+   "alert_tabs_desc": {
+      "message": "Show alert tabs in the extension popup to see any updates or changes made by the page monitor. This feature provides a convenient way to stay informed, especially when you have many tabs open."
+   },
+   "alert_tabs_title": {
+      "message": "Show Alert Tabs in Extension Popup"
+   },
+   "all": {
+      "message": "All"
+   },
+   "allow_incognito": {
+      "message": "Allow in Incognito"
+   },
+   "annual_plan": {
+      "message": "Annual Plan"
+   },
+   "any_change": {
+      "message": "Any Change"
+   },
+   "any_msg": {
+      "message": "Auto Refresh Plus will notify you when any change occurs on this website."
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Refresh the page automatically with powerful page monitor features."
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Page Monitor"
+   },
+   "are_you_sure": {
+      "message": "Are you sure you want to delete?"
+   },
+   "as_msg4": {
+      "message": "Auto Refresh Plus will auto-start the page reload function when these URLs are opened in your browser. It also opens all of these URLs when your browser restarts and begins auto-refreshing at the desired interval."
+   },
+   "as_title": {
+      "message": "Auto Start URLs"
+   },
+   "assign_hotkeys": {
+      "message": "Assign Hotkeys"
+   },
+   "ast": {
+      "message": "Countdown Timer"
+   },
+   "ast_msg1": {
+      "message": "Automatically start refreshing when these URLs are opened. One URL per line, e.g.,"
+   },
+   "ast_msg2": {
+      "message": "Autostart refreshing these URLs when the browser restarts."
+   },
+   "ast_specific_time": {
+      "message": "Select the Specific Time"
+   },
+   "auto_clicker": {
+      "message": "Auto Clicker"
+   },
+   "auto_clicker_msg1": {
+      "message": "Auto click on link"
+   },
+   "auto_clicker_msg2": {
+      "message": "(If monitored text or regex has a link)"
+   },
+   "auto_start": {
+      "message": "Autostart"
+   },
+   "bad": {
+      "message": "Bad"
+   },
+   "blacklist": {
+      "message": "Blacklist"
+   },
+   "bulk_keywords_msg": {
+      "message": "For bulk keywords, use a space after each comma"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cancel_timer": {
+      "message": "Cancel Timer"
+   },
+   "canonical_url": {
+      "message": "Canonical URL"
+   },
+   "change_site_desc": {
+      "message": "If the website's URL changes while Auto Refresh Plus is running, it will automatically update to follow the new URL or stay on the original URL. This ensures that the page continues to refresh correctly without any interruptions."
+   },
+   "change_site_title": {
+      "message": "URL Changes / Redirection Handling"
+   },
+   "choose_plan": {
+      "message": "Choose Your Plan"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "en"
+   },
+   "congratulations": {
+      "message": "Congratulations"
+   },
+   "contact_us": {
+      "message": "Contact Us"
+   },
+   "continue_without_login": {
+      "message": "Continue Without Login"
+   },
+   "contribution": {
+      "message": "Contribution"
+   },
+   "copyright": {
+      "message": "All rights reserved."
+   },
+   "countdown": {
+      "message": "Countdown"
+   },
+   "countdown_mode": {
+      "message": "Countdown Mode"
+   },
+   "cs_t1": {
+      "message": "When URL Opens"
+   },
+   "cs_t2": {
+      "message": "On Each Page Refresh"
+   },
+   "cs_t3": {
+      "message": "When Page Monitor Finds Target Text"
+   },
+   "cs_t4": {
+      "message": "When Page Monitor Loses Target Text"
+   },
+   "cs_t5": {
+      "message": "When Any Change Occurs"
+   },
+   "cs_t6": {
+      "message": "Inject Before Page Load"
+   },
+   "cs_t7": {
+      "message": "Inject After Page Load"
+   },
+   "custom": {
+      "message": "Custom"
+   },
+   "custom_monitor": {
+      "message": "Custom Monitor"
+   },
+   "custom_scripts": {
+      "message": "Custom Scripts"
+   },
+   "date": {
+      "message": "Date"
+   },
+   "deep_source": {
+      "message": "Deep Source"
+   },
+   "default_target_input": {
+      "message": "Multiple text/regex supported, press Enter to add another."
+   },
+   "default_target_text": {
+      "message": "Default Target Text"
+   },
+   "default_timerinterval": {
+      "message": "Default Time Interval"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus has detected a change on this website."
+   },
+   "detect_any_change_title": {
+      "message": "Page Monitor"
+   },
+   "developer_mode": {
+      "message": "Developer mode is not allowed."
+   },
+   "developer_mode_msg": {
+      "message": "For security and stability reasons, developer mode is not permitted.\u003Cbr> Please download and install the extension from the official store to ensure you have latest and most secure version"
+   },
+   "devices": {
+      "message": "Devices"
+   },
+   "dismiss": {
+      "message": "Dismiss"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "donation": {
+      "message": "Donation"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>Hi from the Auto Refresh Plus team.\u003C/b> \u003Cbr>If you found Auto Refresh Plus helpful, please consider a donation to the author."
+   },
+   "donation_msg2": {
+      "message": "I've already done it."
+   },
+   "done": {
+      "message": "Done"
+   },
+   "download_in_store": {
+      "message": "Install From Webstore"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_alert": {
+      "message": "Email Alert Notifications"
+   },
+   "email_msg": {
+      "message": "Please note, this setting is only for adding an email. To receive email alerts, enable \u003Cb>Receive Email Alert\u003C/b> in the extension popup > Page monitor section for each webpage."
+   },
+   "email_sent_to": {
+      "message": "A verification code has been sent to"
+   },
+   "enable_ri": {
+      "message": "Enable Random Interval"
+   },
+   "enable_tf": {
+      "message": "Enable This Feature"
+   },
+   "enter_code_title": {
+      "message": "Enter Code Verification"
+   },
+   "enter_email": {
+      "message": "Enter Email Address"
+   },
+   "exact": {
+      "message": "Exact URL"
+   },
+   "expire": {
+      "message": "Expire"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "export_desc": {
+      "message": "To preserve your settings, export your Auto Refresh Plus configuration and restore it later on the same or a different computer."
+   },
+   "export_option": {
+      "message": "Export Option"
+   },
+   "export_settings": {
+      "message": "Settings Backup"
+   },
+   "extension_updated": {
+      "message": "Extension updated to"
+   },
+   "feature_1": {
+      "message": "Sync Settings in Multiple Devices"
+   },
+   "feature_2": {
+      "message": "Display Visual Timer"
+   },
+   "feature_3": {
+      "message": "Custom Scripts Support"
+   },
+   "feature_4": {
+      "message": "And More..."
+   },
+   "feature_request": {
+      "message": "Feature Requests"
+   },
+   "find_mtr_msg": {
+      "message": "Find Monitor Text In"
+   },
+   "focus_description": {
+      "message": "Enable window focus when Page Monitor finds or loses a keyword. This feature ensures that the window automatically comes to the forefront of your screen whenever the specified keyword is detected or lost."
+   },
+   "focus_title": {
+      "message": "Enable Window Focus on Keyword Detection"
+   },
+   "found": {
+      "message": "Found"
+   },
+   "free": {
+      "message": "Free"
+   },
+   "full_page": {
+      "message": "Full Page Refresh"
+   },
+   "full_page_help": {
+      "message": "Auto Refresh Plus will notify you when any change occurs on this webpage."
+   },
+   "good": {
+      "message": "Good"
+   },
+   "great": {
+      "message": "Great!"
+   },
+   "hard_refresh": {
+      "message": "Hard Refresh"
+   },
+   "hard_refresh_msg": {
+      "message": "(Reload the page without relying on cached data)"
+   },
+   "help_center": {
+      "message": "Help Center"
+   },
+   "home": {
+      "message": "Home"
+   },
+   "hotkeys": {
+      "message": "Hotkeys"
+   },
+   "hotkeys_msg1": {
+      "message": "Start Time Interval"
+   },
+   "hotkeys_msg2": {
+      "message": "Start Random Interval"
+   },
+   "hotkeys_msg3": {
+      "message": "Start Timer Mode"
+   },
+   "hotkeys_msg4": {
+      "message": "Stop Interval"
+   },
+   "hotkeys_msg5": {
+      "message": "Kill Notification Sound"
+   },
+   "hotkeys_title": {
+      "message": "Assign Hotkeys"
+   },
+   "hour": {
+      "message": "Hour"
+   },
+   "hours": {
+      "message": "Hours"
+   },
+   "howto": {
+      "message": "How To"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plus offers tailored solutions for your business's unique requirements. Our team can create custom scripts to execute specific actions on webpages. Note that custom solutions are provided at an additional cost, with pricing based on complexity. Contact us to discuss your needs further."
+   },
+   "idea_cs_general_desc": {
+      "message": "If your script also fulfills other users needs, we will write it for free and publish it publicly on the Auto Refresh Plus script marketplace."
+   },
+   "idea_cs_title": {
+      "message": "Do you have any ideas for custom scripts?"
+   },
+   "idea_custom_scripts_business": {
+      "message": "Custom Solutions for Businesses with Unique Needs"
+   },
+   "idea_custom_scripts_general": {
+      "message": "General Public Idea"
+   },
+   "ignore_input_field": {
+      "message": "Ignore Input Field Interactions"
+   },
+   "ignore_input_field_desc": {
+      "message": "Continue refreshing even when you click or type inside input fields."
+   },
+   "images": {
+      "message": "Images"
+   },
+   "import": {
+      "message": "Import"
+   },
+   "import_desc": {
+      "message": "To retain your settings, import your Auto Refresh Plus configuration by using the import button. This allows you to restore your settings on either the same or a different computer."
+   },
+   "import_option": {
+      "message": "Import Option"
+   },
+   "interactions_msg": {
+      "message": "Auto Refresh Plus will pause refreshing the page if you click the mouse or use the keyboard. Enable this feature here for all websites, or enable it for individual pages/websites from the extension popup."
+   },
+   "interactions_msg_opt": {
+      "message": "Automatically pause refreshing if you interact with the page or start typing in an input field."
+   },
+   "interactions_title_opt": {
+      "message": "Stop Refresh on User Interaction"
+   },
+   "invalid_code_email": {
+      "message": "The provided verification code is invalid."
+   },
+   "just_now": {
+      "message": "Just Now"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus is active, but key features are missing."
+   },
+   "keyword_found": {
+      "message": "Keyword found"
+   },
+   "lang_code": {
+      "message": "en"
+   },
+   "logout": {
+      "message": "Logout"
+   },
+   "lost": {
+      "message": "Lost"
+   },
+   "loved": {
+      "message": "Loved It!"
+   },
+   "manage_plan": {
+      "message": "Manage Plan"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "Minute"
+   },
+   "minutes": {
+      "message": "Minutes"
+   },
+   "monitor_full_page": {
+      "message": "Monitor Full Page"
+   },
+   "month": {
+      "message": "Month"
+   },
+   "monthly_plan": {
+      "message": "Monthly Plan"
+   },
+   "msg_pm": {
+      "message": "No Tabs to Show"
+   },
+   "name_required": {
+      "message": "Name is required."
+   },
+   "never_playsound": {
+      "message": "Never Play Sound"
+   },
+   "new_url": {
+      "message": "New URL"
+   },
+   "no_credit_card": {
+      "message": "No Credit Card Required"
+   },
+   "not_allowed": {
+      "message": "You are not allowed to use it here."
+   },
+   "not_allowed_to_use": {
+      "message": "You are not allowed to use this feature."
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus has $action$ your target text.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "The Target Text!"
+   },
+   "notification_settings": {
+      "message": "Notification Settings"
+   },
+   "notifications": {
+      "message": "Notifications"
+   },
+   "notifications_moved_msg": {
+      "message": "Notification settings have been moved to a separate section"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "okay": {
+      "message": "Okay"
+   },
+   "open_link_tab": {
+      "message": "Open Link in New Tab"
+   },
+   "opt_msg1": {
+      "message": "Refresh on URLs Opening"
+   },
+   "opt_msg10": {
+      "message": "When a notification arrives, a short sound will play to alert you. You can customize this setting by turning the sound off or choosing a different sound to play for notifications."
+   },
+   "opt_msg11": {
+      "message": "Customize the maximum duration of the sound that plays when a notification arrives."
+   },
+   "opt_msg12": {
+      "message": "Receive email notifications when a website changes according to your page monitor settings. This ensures you stay updated with any modifications without constantly checking the site."
+   },
+   "opt_msg13": {
+      "message": "Execute Custom Scripts on the Page"
+   },
+   "opt_msg14": {
+      "message": "If you love playing with automation, scraping, changing default website behavior, and have some basic knowledge of JavaScript, there’s a lot you can do here."
+   },
+   "opt_msg15": {
+      "message": "What URL Patterns Are Allowed"
+   },
+   "opt_msg16": {
+      "message": "To match both HTTP and HTTPS, just write \u003Cb>`example.com`\u003C/b>"
+   },
+   "opt_msg17": {
+      "message": "To match every page on a domain, write \u003Cb>`example.com/*`\u003C/b>"
+   },
+   "opt_msg18": {
+      "message": "To match every page on a domain and its subdomains, write \u003Cb>`*.example.com/*`\u003C/b>"
+   },
+   "opt_msg19": {
+      "message": "Set Your Custom Keyboard Shortcuts for Auto Refresh Plus Actions"
+   },
+   "opt_msg2": {
+      "message": "Autostart Refresh When Any of These URLs Open"
+   },
+   "opt_msg20": {
+      "message": "Reset Auto Refresh Plus Settings"
+   },
+   "opt_msg21": {
+      "message": "Resetting your Auto Refresh Plus settings will revert all customizations and configurations to their default state. This includes the loss of all personalized settings, saved session data, and site-specific preferences. Please note that this action is irreversible, and once reset, it is not possible to recover the previous configurations. Proceed with caution"
+   },
+   "opt_msg22": {
+      "message": "Congrats! Auto Refresh Plus Installed Successfully"
+   },
+   "opt_msg3": {
+      "message": "Insert one or multiple keywords here, and as soon as any are found on the web page, Auto Refresh Plus will begin auto page refreshing at the default interval frequency."
+   },
+   "opt_msg4": {
+      "message": "Enter a specific URL here to refresh this URL, rather than the current tab you’re using. So, for example, if you save Google.com into the settings and then start the auto-refresh while on Yahoo.com, Google.com will be refreshing, rather than the page you’re looking at."
+   },
+   "opt_msg5": {
+      "message": "Enable Countdown Mode"
+   },
+   "opt_msg6": {
+      "message": "Perform a page refresh on a specific page after a certain amount of time has passed, Auto Refresh Plus’s countdown timer lets you do it. Simply enable and set the time, and the countdown timer will begin. Once the countdown reaches zero, Auto Refresh Plus will begin refreshing the page again at the set default intervals."
+   },
+   "opt_msg7": {
+      "message": "Countdown Mode Added in Auto Refresh Plus Popup"
+   },
+   "opt_msg8": {
+      "message": "Add default monitoring keywords here. You can also add custom keywords for each website from the extension popup."
+   },
+   "opt_msg9": {
+      "message": "Automatically get notified when any given webpage has found or lost your defined keyword."
+   },
+   "options": {
+      "message": "Options"
+   },
+   "other_options": {
+      "message": "Other Options"
+   },
+   "other_products": {
+      "message": "Other Products"
+   },
+   "page_monitor": {
+      "message": "Page Monitor"
+   },
+   "paused": {
+      "message": "Paused"
+   },
+   "play_for": {
+      "message": "Play For"
+   },
+   "play_onlyonce": {
+      "message": "Play Only Once"
+   },
+   "play_sound": {
+      "message": "Push Notification Sound Playback Settings"
+   },
+   "playsound_candidate": {
+      "message": "Play Sound Candidate 1 (1 Second)"
+   },
+   "playsound_candidate2": {
+      "message": "Play Sound Candidate 2 (6 Seconds)"
+   },
+   "playsound_msg1": {
+      "message": "Play Sound from URL"
+   },
+   "please_rateus": {
+      "message": "Please Rate Us"
+   },
+   "please_upgrade": {
+      "message": "Please upgrade your plan."
+   },
+   "pm_input1": {
+      "message": "Example: sold ended expired"
+   },
+   "pm_msg2": {
+      "message": "Play Until I Click the Notification Box"
+   },
+   "pmp": {
+      "message": "Page Monitor Pattern"
+   },
+   "pmp_msg1": {
+      "message": "Popup Notification Once It \u003Cb>FINDS\u003C/b> the Target Text (or regex)"
+   },
+   "pmp_msg2": {
+      "message": "Popup Notification Once It \u003Cb>LOSES\u003C/b> the Target Text (or regex)"
+   },
+   "predefined": {
+      "message": "Predefined"
+   },
+   "predefined_text": {
+      "message": "Predefined Text"
+   },
+   "predefined_url": {
+      "message": "Predefined URL"
+   },
+   "predefined_url_alert": {
+      "message": "Enabling the \"Refresh Predefined URL\" feature will limit all auto-refresh functions to the specified URL only that you write  in this input. You will not be able to refresh any other URLs when this feature is active."
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "r_browser": {
+      "message": "Refresh on Browser Restart"
+   },
+   "random_interval": {
+      "message": "Random Interval"
+   },
+   "random_interval_warning": {
+      "message": "Min value should be less than max value."
+   },
+   "rate_us": {
+      "message": "Rate Us"
+   },
+   "rateus_title": {
+      "message": "Rate This Extension"
+   },
+   "ratings": {
+      "message": "Ratings"
+   },
+   "ratings_msg": {
+      "message": "Please rate us five stars on the webstore."
+   },
+   "ratings_msg2": {
+      "message": "Sure! Let's Begin"
+   },
+   "read_more": {
+      "message": "Read more"
+   },
+   "receive_emails_alerts": {
+      "message": "Receive Email Alerts"
+   },
+   "refresh_number": {
+      "message": "Set Refresh Number"
+   },
+   "refresh_number_msg": {
+      "message": "(Set how many times you want to refresh.)"
+   },
+   "refresh_type": {
+      "message": "Refresh Type"
+   },
+   "remove_email": {
+      "message": "Remove Email"
+   },
+   "reset": {
+      "message": "Reset Settings"
+   },
+   "reset_alert_msg": {
+      "message": "Are you sure you want to reset all settings to their default values? This action cannot be undone. If you are sure, please type \u003Cb>RESET\u003C/b> in the input field below."
+   },
+   "restart_msg": {
+      "message": "Continue Refreshing on Keyword Detection"
+   },
+   "restart_opt_msg": {
+      "message": "Auto Refresh Plus will continue to refresh the page even if it finds or loses the monitored keyword. It will still trigger a notification, email, or bell depending on your page monitor's settings."
+   },
+   "retain_desc": {
+      "message": "Select the time duration to retain the record of Alerted Tabs before they automatically disappear."
+   },
+   "retain_title": {
+      "message": "Retain Alerted Tabs"
+   },
+   "rpp": {
+      "message": "Refresh Predefined Page"
+   },
+   "rpp_body": {
+      "message": "Refresh Predefined Page Content"
+   },
+   "rpp_msg1": {
+      "message": "(e.g., google.com)"
+   },
+   "rpp_title": {
+      "message": "Refresh Predefined Page"
+   },
+   "rpt": {
+      "message": "Refresh Predefined Text"
+   },
+   "rpt_body": {
+      "message": "Refresh Predefined Text Content"
+   },
+   "rpt_input1": {
+      "message": "Multiple text/regex supported, press Enter to add another."
+   },
+   "rpt_title": {
+      "message": "Refresh Predefined Text"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "scroll_to_keyword": {
+      "message": "Scroll to Keyword Location"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "Automatically scroll the page to the location of the specified keyword when it is found."
+   },
+   "seconds": {
+      "message": "Seconds"
+   },
+   "select_countdown": {
+      "message": "Select Countdown"
+   },
+   "select_date": {
+      "message": "Select Date"
+   },
+   "select_time": {
+      "message": "Select Time"
+   },
+   "sendtopm": {
+      "message": "Send to Page Monitor"
+   },
+   "set_autoclick": {
+      "message": "Set AutoClick"
+   },
+   "set_hotkey": {
+      "message": "Set Hotkey"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "settings_exported": {
+      "message": "Settings Exported Successfully"
+   },
+   "settings_imported": {
+      "message": "Settings Imported Successfully"
+   },
+   "show_tab": {
+      "message": "Show Tab"
+   },
+   "sign_in": {
+      "message": "Sign In"
+   },
+   "sign_up": {
+      "message": "Sign Up"
+   },
+   "sign_up_desc": {
+      "message": "Sign up now to unlock the following:"
+   },
+   "sound_length": {
+      "message": "Sound Length"
+   },
+   "source": {
+      "message": "Source"
+   },
+   "source_msg": {
+      "message": "(Find inside the inline text in HTML source code.)"
+   },
+   "specific_timemode": {
+      "message": "Specific Time Mode (e.g., 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Start"
+   },
+   "start_timer": {
+      "message": "Start Timer"
+   },
+   "start_timer_body": {
+      "message": "Start Timer Content"
+   },
+   "start_timer_title": {
+      "message": "Start Timer"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "stop_refresh_click": {
+      "message": "Stop Refreshing on Mouse Click"
+   },
+   "stop_refresh_click_desc": {
+      "message": "Pause the auto-refresh whenever you click the mouse."
+   },
+   "stop_refresh_keyboard": {
+      "message": "Stop Refreshing on Keyboard Interaction"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "Pause the auto-refresh whenever you press any key."
+   },
+   "stop_sound": {
+      "message": "Stop Sound"
+   },
+   "subscribe_pay": {
+      "message": "Subscribe and Pay"
+   },
+   "success": {
+      "message": "Settings Saved Successfully"
+   },
+   "supported_expressions": {
+      "message": "Supported Expressions"
+   },
+   "tabs_alerts": {
+      "message": "Tabs with Alerts"
+   },
+   "tabs_refreshing": {
+      "message": "Active Tabs Refreshing"
+   },
+   "temporary_pause": {
+      "message": "Temporarily Pause Auto-Refresh on Interaction for a Specified Period"
+   },
+   "temporary_pause_desc": {
+      "message": "Pause the auto-refresh on mouse click or keyboard activity for a specified period, and automatically re-enable it if no interaction is detected during that time."
+   },
+   "test_play": {
+      "message": "Test Play"
+   },
+   "thankyou": {
+      "message": "Thank You"
+   },
+   "ti_msg1": {
+      "message": "Set the default time for every page refresh. You can select either the predefined time intervals or provide your custom time interval from the extension popup."
+   },
+   "ti_msg2": {
+      "message": "Randomize the time interval of each page refresh that Auto Refresh Plus makes. All that you need to do is choose a minimum and maximum time duration, and the extension will perform automatic page refreshes between the defined range."
+   },
+   "ti_msg3": {
+      "message": "Random Interval Function Added in Auto Refresh Plus Popup"
+   },
+   "time": {
+      "message": "Time"
+   },
+   "time_interval": {
+      "message": "Time Interval"
+   },
+   "timer_mode": {
+      "message": "Timer Mode"
+   },
+   "unlimited": {
+      "message": "Unlimited"
+   },
+   "unsubscribe": {
+      "message": "Unsubscribe"
+   },
+   "unsubscribe_alert": {
+      "message": "Are you sure you want to unsubscribe?"
+   },
+   "unsubscribe_success": {
+      "message": "Unsubscribed Successfully"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus Updated to Version"
+   },
+   "up_msg2": {
+      "message": "Add Restart Mode in Options"
+   },
+   "up_msg3": {
+      "message": "Add Interaction Mode in Options"
+   },
+   "up_msg4": {
+      "message": "Context-Menu for Adding Text to Page Monitor"
+   },
+   "up_msg5": {
+      "message": "Refresh Without Full Refresh in Page"
+   },
+   "up_msg6": {
+      "message": "Added Tab Monitor"
+   },
+   "up_msg7": {
+      "message": "Added Visual Counter"
+   },
+   "up_msg8": {
+      "message": "Minor Bugs Fixed"
+   },
+   "up_msg9": {
+      "message": "I Understand"
+   },
+   "use_default": {
+      "message": "Use Default Keywords"
+   },
+   "verify": {
+      "message": "Verify"
+   },
+   "verify_email_msg": {
+      "message": "Email Verified Successfully"
+   },
+   "visual": {
+      "message": "Visual"
+   },
+   "visual_msg": {
+      "message": "(Find inside the text you see on the visual screen.)"
+   },
+   "visual_timer_desc": {
+      "message": "Control where the visual timer appears on the page. Choose the display position that suits you best for showing the visual counter."
+   },
+   "visual_timer_msg": {
+      "message": "Show Visual Timer on the Webpage"
+   },
+   "visual_timer_msg_opt": {
+      "message": "By default, enable visual timer for all pages you will refresh. If disabled, you can enable this feature individually from the extension popup."
+   },
+   "visual_timer_title": {
+      "message": "Visual Timer Position Control"
+   },
+   "visual_timer_title_opt": {
+      "message": "Enable Visual Timer by Default"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "whats_new": {
+      "message": "What's New?"
+   },
+   "whitelist": {
+      "message": "Whitelist"
+   },
+   "wildcard_not_supported": {
+      "message": "Wildcard URLs are not supported on Browser restart."
+   },
+   "without_full": {
+      "message": "XHR Refresh"
+   },
+   "without_msg1": {
+      "message": "Nil"
+   },
+   "without_msg2": {
+      "message": "How Does Auto Click a Button?"
+   },
+   "xhr_page_help": {
+      "message": "Retrieve data from a URL without having to do a full page refresh. This enables a web page to update just part of a page without disrupting what the user is doing."
+   },
+   "xhr_refresh": {
+      "message": "XHR Refresh"
+   },
+   "year": {
+      "message": "Year"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "You have exceeded the limit of this feature."
+   },
+   "you_have_an_account": {
+      "message": "Have an Account?"
+   },
+   "your_plan": {
+      "message": "Your Plan"
+   }
+}

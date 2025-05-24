@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "Hesap"
+   },
+   "active": {
+      "message": "Aktif Sekmeler"
+   },
+   "active_subscription": {
+      "message": "Aktif"
+   },
+   "active_title": {
+      "message": "Aktif Sekme Listesi"
+   },
+   "add_email": {
+      "message": "E-posta Ekle"
+   },
+   "add_keywords": {
+      "message": "Varsayılan Hedef Anahtar Kelimeleri Ekle"
+   },
+   "add_new": {
+      "message": "Yeni ekle"
+   },
+   "advanced": {
+      "message": "İleri"
+   },
+   "alert_msg1": {
+      "message": "Ayarlar başarıyla sıfırlandı"
+   },
+   "alert_msg2": {
+      "message": "Tebrikler! Auto Refresh Plus Başarıyla Yüklendi"
+   },
+   "alert_tabs_desc": {
+      "message": "Sayfa monitörü tarafından yapılan güncellemeleri veya değişiklikleri görmek için uzantı açılır penceresinde uyarı sekmelerini gösterin. Bu özellik, özellikle birçok sekme açık olduğunda bilgileri güncel tutmanın uygun bir yolunu sağlar."
+   },
+   "alert_tabs_title": {
+      "message": "Uzantı Açılır Penceresinde Uyarı Sekmelerini Göster"
+   },
+   "all": {
+      "message": "Hepsi"
+   },
+   "allow_incognito": {
+      "message": "Gizli modda izin ver"
+   },
+   "annual_plan": {
+      "message": "Yıllık Plan"
+   },
+   "any_change": {
+      "message": "Herhangi bir değişiklik"
+   },
+   "any_msg": {
+      "message": "Auto Refresh Plus, bu web sitesinde herhangi bir değişiklik olduğunda sizi bilgilendirecektir."
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Güçlü sayfa takip özellikleri ile sayfayı otomatik olarak yenileyin"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Sayfa Takip"
+   },
+   "are_you_sure": {
+      "message": "Silmek istediğinizden emin misiniz?"
+   },
+   "as_msg4": {
+      "message": "Auto Refresh Plus, bu URL'ler tarayıcınızda açıldığında, sayfa yeniden yükleme işlevini otomatik olarak başlatır. Ayrıca, tarayıcınız yeniden başladığında, tüm bu URL'leri açar ve istediğiniz sıklıkta otomatik yenilemeye başlar."
+   },
+   "as_title": {
+      "message": "URl'leri otomatik başlat"
+   },
+   "assign_hotkeys": {
+      "message": "Kısayol Tuşları Ata"
+   },
+   "ast": {
+      "message": "Geri sayım sayacı"
+   },
+   "ast_msg1": {
+      "message": "Bu URL'ler açıldığında otomatik olarak yenilemeye başlayın. Örn. satır başına bir URL."
+   },
+   "ast_msg2": {
+      "message": "Otomatik başlatma, tarayıcı yeniden başlatıldığında bu URL'leri yeniler"
+   },
+   "ast_specific_time": {
+      "message": "Belirli bir zamanı seçin"
+   },
+   "auto_clicker": {
+      "message": "Otomatik tıklayıcı"
+   },
+   "auto_clicker_msg1": {
+      "message": "Bağlantıya otomatik tıklama"
+   },
+   "auto_clicker_msg2": {
+      "message": "(Takip edilen metin veya normal ifadenin bir bağlantısı varsa)"
+   },
+   "auto_start": {
+      "message": "Otomatik başlatma"
+   },
+   "bad": {
+      "message": "Kötü"
+   },
+   "blacklist": {
+      "message": "Kara liste"
+   },
+   "bulk_keywords_msg": {
+      "message": "Toplu anahtar kelimeler için her virgülden sonra bir boşluk kullanın"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "cancel_timer": {
+      "message": "Zamanlayıcıyı İptal Et"
+   },
+   "canonical_url": {
+      "message": "Kanonik URL"
+   },
+   "change_site_desc": {
+      "message": "Auto Refresh Plus çalışırken web sitesinin URL'si değişirse, yeni URL'yi takip edecek veya orijinal URL'de kalacak şekilde otomatik olarak güncellenir. Bu, sayfanın kesintisiz olarak doğru şekilde yenilenmesini sağlar."
+   },
+   "change_site_title": {
+      "message": "URL Değişiklikleri / Yönlendirme İşleme"
+   },
+   "choose_plan": {
+      "message": "Planınızı Seçin"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "en"
+   },
+   "congratulations": {
+      "message": "Tebrikler"
+   },
+   "contact_us": {
+      "message": "Bize Ulaşın"
+   },
+   "continue_without_login": {
+      "message": "Giriş Yapmadan Devam Et"
+   },
+   "contribution": {
+      "message": "Katkı"
+   },
+   "copyright": {
+      "message": "Tüm hakları saklıdır"
+   },
+   "countdown": {
+      "message": "Geri sayım"
+   },
+   "countdown_mode": {
+      "message": "Geri Sayım Modu"
+   },
+   "cs_t1": {
+      "message": "URL açıldığında"
+   },
+   "cs_t2": {
+      "message": "Her sayfada yenileme"
+   },
+   "cs_t3": {
+      "message": "Sayfa izleyicisi hedef metni BULURSA"
+   },
+   "cs_t4": {
+      "message": "Sayfa izleyicisi hedef metni KAYBEDERSE"
+   },
+   "cs_t5": {
+      "message": "Herhangi bir değişiklik olursa"
+   },
+   "cs_t6": {
+      "message": "Sayfa yüklenmeden önce ekle"
+   },
+   "cs_t7": {
+      "message": "Sayfa yüklendikten sonra ekle"
+   },
+   "custom": {
+      "message": "Özel"
+   },
+   "custom_monitor": {
+      "message": "Özel takip"
+   },
+   "custom_scripts": {
+      "message": "Özel Komut Dosyaları"
+   },
+   "date": {
+      "message": "Tarih"
+   },
+   "deep_source": {
+      "message": "Derin kaynak"
+   },
+   "default_target_input": {
+      "message": "Başka bir enter düğmesine basmak için birden fazla metin/regex desteklenir,"
+   },
+   "default_target_text": {
+      "message": "Varsayılan hedef metni"
+   },
+   "default_timerinterval": {
+      "message": "Varsayılan Zaman Aralığı"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus, bu web sitesinde bir değişiklik tespit etti"
+   },
+   "detect_any_change_title": {
+      "message": "Sayfa Takibi"
+   },
+   "developer_mode": {
+      "message": "Geliştirici modu izin verilmez."
+   },
+   "developer_mode_msg": {
+      "message": "Güvenlik ve stabilite nedenleriyle geliştirici modu izin verilmez.\u003Cbr> En son ve en güvenli sürüme sahip olduğunuzdan emin olmak için lütfen uzantıyı resmi mağazadan indirin ve yükleyin."
+   },
+   "devices": {
+      "message": "Cihazlar"
+   },
+   "dismiss": {
+      "message": "Yoksay"
+   },
+   "domain": {
+      "message": "Alan Adı"
+   },
+   "donate": {
+      "message": "Bağış Yap"
+   },
+   "donation": {
+      "message": "Bağış"
+   },
+   "donation_msg": {
+      "message": "\u003CB>Auto Refresh Plus ekibinden selamlar. \u003C/B>\u003Cbr>Auto Refresh Plus'ı faydalı bulduysanız, lütfen yazara bir bağış yapmayı düşünün."
+   },
+   "donation_msg2": {
+      "message": "Zaten yaptım"
+   },
+   "done": {
+      "message": "Tamamlandı"
+   },
+   "download_in_store": {
+      "message": "Mağazadan İndir"
+   },
+   "email": {
+      "message": "E-posta"
+   },
+   "email_alert": {
+      "message": "E-posta Uyarı Bildirimleri"
+   },
+   "email_msg": {
+      "message": "Lütfen bu ayarın yalnızca bir e-posta eklemek için olduğunu unutmayın. E-posta uyarıları almak için uzantı açılır penceresinde \u003Cb>E-posta Almaya İzin Ver\u003C/b> seçeneğini her web sayfası için Sayfa İzleyici bölümünde etkinleştirin."
+   },
+   "email_sent_to": {
+      "message": "Doğrulama kodu gönderildi"
+   },
+   "enable_ri": {
+      "message": "Rastgele Aralığı Etkinleştir"
+   },
+   "enable_tf": {
+      "message": "Bu özelliği etkinleştir"
+   },
+   "enter_code_title": {
+      "message": "Doğrulama kodunu gir"
+   },
+   "enter_email": {
+      "message": "E-posta Adresini Girin"
+   },
+   "exact": {
+      "message": "Tam URL"
+   },
+   "expire": {
+      "message": "Sona Eriyor"
+   },
+   "export": {
+      "message": "Dışa Aktar"
+   },
+   "export_desc": {
+      "message": "Ayarlarını korumak için Auto Refresh Plus yapılandırmasını dışa aktar ve aynı veya farklı bir bilgisayarda daha sonra geri yükle"
+   },
+   "export_option": {
+      "message": "Dışa Aktarma Seçeneği"
+   },
+   "export_settings": {
+      "message": "Ayarları Yedekle"
+   },
+   "extension_updated": {
+      "message": "Uzantı güncellendi"
+   },
+   "feature_1": {
+      "message": "Birden Çok Cihazda Ayarları Senkronize Edin"
+   },
+   "feature_2": {
+      "message": "Görsel Zamanlayıcıyı Göster"
+   },
+   "feature_3": {
+      "message": "Özel Komut Dosyaları Desteği"
+   },
+   "feature_4": {
+      "message": "Ve Daha Fazlası..."
+   },
+   "feature_request": {
+      "message": "Özellik Talepleri"
+   },
+   "find_mtr_msg": {
+      "message": "Takip Metnini bul"
+   },
+   "focus_description": {
+      "message": "Sayfa Monitörü anahtar kelimeyi bulduğunda veya kaybettiğinde pencere odağını etkinleştirin. Bu özellik, belirtilen anahtar kelime algılandığında veya kaybolduğunda pencerenin otomatik olarak ekranınızın ön planına gelmesini sağlar."
+   },
+   "focus_title": {
+      "message": "Anahtar Kelime Algılandığında Pencereyi Odakla"
+   },
+   "found": {
+      "message": "Bulundu"
+   },
+   "free": {
+      "message": "Ücretsiz"
+   },
+   "full_page": {
+      "message": "Tam sayfa yenileme"
+   },
+   "full_page_help": {
+      "message": "Auto Refresh Plus, bu web sayfasında herhangi bir değişiklik olduğunda sizi bilgilendirecektir."
+   },
+   "good": {
+      "message": "İyi"
+   },
+   "great": {
+      "message": "Harika!"
+   },
+   "hard_refresh": {
+      "message": "Sert Yenileme"
+   },
+   "hard_refresh_msg": {
+      "message": "(Önbelleğe alınmış verilere güvenmeden sayfayı yeniden yükleyin)"
+   },
+   "help_center": {
+      "message": "Yardım Masası"
+   },
+   "home": {
+      "message": "Ana Sayfa"
+   },
+   "hotkeys": {
+      "message": "Kısayollar"
+   },
+   "hotkeys_msg1": {
+      "message": "Zaman Aralığı Başlat"
+   },
+   "hotkeys_msg2": {
+      "message": "Rastgele Aralık Başlat"
+   },
+   "hotkeys_msg3": {
+      "message": "Zamanlayıcı modunu başlat"
+   },
+   "hotkeys_msg4": {
+      "message": "Aralığı durdur"
+   },
+   "hotkeys_msg5": {
+      "message": "Bildirim sesini sustur"
+   },
+   "hotkeys_title": {
+      "message": "Kısayolları Ata"
+   },
+   "hour": {
+      "message": "Saat"
+   },
+   "hours": {
+      "message": "Saatler"
+   },
+   "howto": {
+      "message": "Nasıl yapılır"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plus, işletmenizin benzersiz gereksinimleri için özel çözümler sunar. Ekibimiz, web sayfalarında belirli eylemleri gerçekleştirmek için özel scriptler oluşturabilir. Özel çözümlerin ek bir maliyetle sağlandığını ve fiyatların karmaşıklığa göre belirlendiğini unutmayın. İhtiyaçlarınızı daha ayrıntılı olarak tartışmak için bizimle iletişime geçin."
+   },
+   "idea_cs_general_desc": {
+      "message": "Scriptiniz diğer kullanıcıların ihtiyaçlarını da karşılıyorsa, onu ücretsiz olarak yazar ve Auto Refresh Plus script pazarında yayınlarız."
+   },
+   "idea_cs_title": {
+      "message": "Özel scriptler için bir fikriniz var mı?"
+   },
+   "idea_custom_scripts_business": {
+      "message": "Benzersiz İhtiyaçları Olan İşletmeler İçin Özel Çözümler"
+   },
+   "idea_custom_scripts_general": {
+      "message": "Genel Kamu Fikri"
+   },
+   "ignore_input_field": {
+      "message": "Giriş Alanı Etkileşimlerini Yoksay"
+   },
+   "ignore_input_field_desc": {
+      "message": "Giriş alanlarına tıklasanız veya yazsanız bile yenilemeyi sürdürün."
+   },
+   "images": {
+      "message": "Resimler"
+   },
+   "import": {
+      "message": "İçe Aktar"
+   },
+   "import_desc": {
+      "message": "Ayarlarını korumak için Auto Refresh Plus yapılandırmasını içe aktar, bunun için içe aktarma düğmesini kullan. Bu, ayarlarını aynı veya farklı bir bilgisayarda geri yüklemenizi sağlar"
+   },
+   "import_option": {
+      "message": "İçe Aktarma Seçeneği"
+   },
+   "interactions_msg": {
+      "message": "Auto Refresh Plus, fareyi tıkladığınızda veya klavyeyi kullandığınızda sayfanın yenilenmesini durdurur. Bu özelliği burada tüm web siteleri için veya uzantı açılır penceresinden belirli sayfalar/web siteleri için etkinleştirin."
+   },
+   "interactions_msg_opt": {
+      "message": "Sayfayla etkileşime geçtiğinizde veya giriş alanında yazmaya başladığınızda otomatik yenilemeyi duraklatın."
+   },
+   "interactions_title_opt": {
+      "message": "Kullanıcı Etkileşiminde Yenilemeyi Durdur"
+   },
+   "invalid_code_email": {
+      "message": "Sağlanan doğrulama kodu geçersiz"
+   },
+   "just_now": {
+      "message": "Şu anda"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus aktif, ancak ana özellikler eksik."
+   },
+   "keyword_found": {
+      "message": "Anahtar kelime bulundu"
+   },
+   "lang_code": {
+      "message": "tr"
+   },
+   "logout": {
+      "message": "Çıkış Yap"
+   },
+   "lost": {
+      "message": "Kayıp"
+   },
+   "loved": {
+      "message": "Onu sevdim!"
+   },
+   "manage_plan": {
+      "message": "Planı Yönet"
+   },
+   "max": {
+      "message": "Maks"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "Dakika"
+   },
+   "minutes": {
+      "message": "Dakika"
+   },
+   "monitor_full_page": {
+      "message": "Tüm sayfayı takip et"
+   },
+   "month": {
+      "message": "Ay"
+   },
+   "monthly_plan": {
+      "message": "Aylık Plan"
+   },
+   "msg_pm": {
+      "message": "Gösterilecek sekme yok"
+   },
+   "name_required": {
+      "message": "Ad gerekli."
+   },
+   "never_playsound": {
+      "message": "Sesleri asla çalma"
+   },
+   "new_url": {
+      "message": "Yeni URL"
+   },
+   "no_credit_card": {
+      "message": "Kredi Kartı Gerekmez"
+   },
+   "not_allowed": {
+      "message": "Burada kullanmanıza izin verilmiyor."
+   },
+   "not_allowed_to_use": {
+      "message": "Bu özelliği kullanmanıza izin verilmiyor."
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus'ın hedef metinde $action$ var",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "Hedef metin!"
+   },
+   "notification_settings": {
+      "message": "Bildirim Ayarları"
+   },
+   "notifications": {
+      "message": "Bildirimler"
+   },
+   "notifications_moved_msg": {
+      "message": "Bildirim ayarları ayrı bir bölüme taşındı"
+   },
+   "ok": {
+      "message": "Tamam"
+   },
+   "okay": {
+      "message": "Peki"
+   },
+   "open_link_tab": {
+      "message": "Linki yeni sekmede aç"
+   },
+   "opt_msg1": {
+      "message": "URL'ler açıldığında yenilenir"
+   },
+   "opt_msg10": {
+      "message": "Bir bildirim geldiğinde, sizi uyarmak için kısa bir ses çalacaktır. Bu ayarı, sesi kapatarak veya bildirimler için çalınacak farklı bir ses seçerek özelleştirebilirsiniz."
+   },
+   "opt_msg11": {
+      "message": "Bildirim geldiğinde çalınacak sesin maksimum süresini özelleştirin."
+   },
+   "opt_msg12": {
+      "message": "Bir web sitesi sayfa izleyicisi ayarlarınıza göre değiştiğinde e-posta bildirimleri alın. Bu, siteyi sürekli kontrol etmeden yapılan değişikliklerden haberdar olmanızı sağlar."
+   },
+   "opt_msg13": {
+      "message": "Özel komut dosyalarını sayfada yürütün"
+   },
+   "opt_msg14": {
+      "message": "Otomasyonla oynamayı, kazımayı, varsayılan web sitesi davranışını değiştirmeyi seviyorsanız ve bir miktar temel JavaScript bilgisine sahipseniz, burada yapabileceğiniz çok şey var."
+   },
+   "opt_msg15": {
+      "message": "Hangi URL kalıplarına izin verilir"
+   },
+   "opt_msg16": {
+      "message": "Hem HTTP hem de HTTPS'yi eşleştirmek için example.com yazmanız yeterlidir."
+   },
+   "opt_msg17": {
+      "message": "Bir etki alanındaki her sayfayı eşleştirmek için example.com/* yazın"
+   },
+   "opt_msg18": {
+      "message": "Bir alan adı ve alt alan adlarındaki her sayfayı eşleştirmek için *.example.com/* yazın"
+   },
+   "opt_msg19": {
+      "message": "Auto Refresh Plus eylemleri için özel klavye kısayollarınızı ayarlayın"
+   },
+   "opt_msg2": {
+      "message": "Bu URL'lerden herhangi biri açıldığında yenilemeyi otomatik başlat"
+   },
+   "opt_msg20": {
+      "message": "Auto Refresh Plus ayarlarını sıfırlayın"
+   },
+   "opt_msg21": {
+      "message": "Tüm Auto Refresh Plus ayarlarını varsayılanlarına geri yüklemek istediğinizden \u003Cb>emin misiniz\u003C/b>?"
+   },
+   "opt_msg22": {
+      "message": "Tebrikler! Auto Refresh Plus Başarılı Bir Şekilde Kuruldu"
+   },
+   "opt_msg3": {
+      "message": "Buraya bir veya daha fazla anahtar kelime girin ve web sayfasında herhangi biri bulunur bulunmaz Auto Refresh Plus, varsayılan aralık sıklığına göre sayfaları otomatik yenilemeye başlayacaktır."
+   },
+   "opt_msg4": {
+      "message": "Bu URL'yi yenilemek için kullandığınız geçerli sekme yerine buraya belirli bir URL girin. Örneğin, Google.com'u ayarlara kaydederseniz ve ardından siz Yahoo.com'dayken otomatik yenilemeyi başlatırsanız, bulunduğunuz sayfa yerine Google.com yenilenir."
+   },
+   "opt_msg5": {
+      "message": "Geri sayım modunu etkinleştir"
+   },
+   "opt_msg6": {
+      "message": "Belirli bir süre geçtikten sonra belirli bir sayfada sayfa yenileme gerçekleştirin. Auto Refresh Plus'ın geri sayım sayacı bunu yapmanızı sağlar. Basitçe etkinleştirip saati ayarlayın, geri sayım sayacı başlayacaktır. Geri sayım sıfıra ulaştığında, Auto Refresh Plus, belirlenen varsayılan aralıklarla sayfayı yeniden yenilemeye başlar."
+   },
+   "opt_msg7": {
+      "message": "Auto Refresh Plus açılır penceresine geri sayım modu eklendi"
+   },
+   "opt_msg8": {
+      "message": "Varsayılan izleme anahtar sözcüklerini buraya ekleyin. Uzantı penceresinden her web sitesi için özel anahtar kelimeler de ekleyebilirsiniz."
+   },
+   "opt_msg9": {
+      "message": "Herhangi bir web sayfası, tanımladığınız anahtar kelimeyi bulduğunda veya kaybettiğinde otomatik olarak haberdar olun"
+   },
+   "options": {
+      "message": "Seçenekler"
+   },
+   "other_options": {
+      "message": "Diğer seçenekler"
+   },
+   "other_products": {
+      "message": "Diğer Ürünler"
+   },
+   "page_monitor": {
+      "message": "Sayfa Takibi"
+   },
+   "paused": {
+      "message": "Duraklatıldı"
+   },
+   "play_for": {
+      "message": "Çal"
+   },
+   "play_onlyonce": {
+      "message": "Sadece bir kez çal"
+   },
+   "play_sound": {
+      "message": "Push Bildirim Sesi Oynatma Ayarları"
+   },
+   "playsound_candidate": {
+      "message": "Aday ses 1'i çal (1 saniye)"
+   },
+   "playsound_candidate2": {
+      "message": "Aday ses 2'yi çal (6 saniye)"
+   },
+   "playsound_msg1": {
+      "message": "URL'den sesi çal"
+   },
+   "please_rateus": {
+      "message": "Lütfen bizi değerlendirin"
+   },
+   "please_upgrade": {
+      "message": "Lütfen planınızı yükseltin."
+   },
+   "pm_input1": {
+      "message": "Örneğin: satıldı sona erdi süresi doldu"
+   },
+   "pm_msg2": {
+      "message": "Ben bildirim kutusuna tıklayana kadar çal"
+   },
+   "pmp": {
+      "message": "Sayfa Takip Kalıbı"
+   },
+   "pmp_msg1": {
+      "message": "Hedef metni (veya normal ifadeyi) \u003Cb>BULDUĞUNDA\u003C/b> Açılır Bildirim"
+   },
+   "pmp_msg2": {
+      "message": "Hedef metni (veya normal ifadeyi) \u003Cb>KAYBOLDUĞUNDA\u003C/b> Açılır Bildirim"
+   },
+   "predefined": {
+      "message": "Önceden tanımlanmış"
+   },
+   "predefined_text": {
+      "message": "Önceden tanımlanmış metin"
+   },
+   "predefined_url": {
+      "message": "Önceden tanımlanmış URL"
+   },
+   "predefined_url_alert": {
+      "message": "\"Önceden Tanımlanmış URL'yi Yenile\" özelliğini etkinleştirmek, tüm otomatik yenileme işlevlerini yalnızca bu giriş alanına yazdığınız belirtilen URL ile sınırlayacaktır. Bu özellik etkin olduğunda başka URL'leri yenileyemezsiniz."
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "r_browser": {
+      "message": "Tarayıcı Yeniden Başlatıldığında Yenile"
+   },
+   "random_interval": {
+      "message": "Rastgele Aralık"
+   },
+   "random_interval_warning": {
+      "message": "Minimum değer maksimum değerden küçük olmalıdır."
+   },
+   "rate_us": {
+      "message": "Bizi değerlendir"
+   },
+   "rateus_title": {
+      "message": "Bu Uzantıyı Değerlendir"
+   },
+   "ratings": {
+      "message": "Değerlendirmeler"
+   },
+   "ratings_msg": {
+      "message": "Lütfen webstore'da bize beş yıldız verin"
+   },
+   "ratings_msg2": {
+      "message": "Tabi! hadi başlayalım"
+   },
+   "read_more": {
+      "message": "Daha fazla oku"
+   },
+   "receive_emails_alerts": {
+      "message": "E-posta Bildirimleri Al"
+   },
+   "refresh_number": {
+      "message": "Yenileme Sayısını Ayarla"
+   },
+   "refresh_number_msg": {
+      "message": "(Kaç kez yenilemek istediğinizi ayarlayın)"
+   },
+   "refresh_type": {
+      "message": "Yenileme Türü"
+   },
+   "remove_email": {
+      "message": "E-postayı Kaldır"
+   },
+   "reset": {
+      "message": "Ayarları sıfırla"
+   },
+   "reset_alert_msg": {
+      "message": "Tüm ayarları varsayılan değerlere sıfırlamak istediğinizden emin misiniz? Bu işlem geri alınamaz. Eğer emin iseniz, lütfen aşağıdaki giriş alanına \u003Cb>RESET\u003C/b> yazın."
+   },
+   "restart_msg": {
+      "message": "Anahtar Kelime Algılandığında Yenilemeye Devam Edin"
+   },
+   "restart_opt_msg": {
+      "message": "Auto Refresh Plus, izlenen anahtar kelimeyi bulsa da kaybetse de sayfayı yenilemeye devam eder. Sayfa izleyicinizin ayarlarına bağlı olarak yine de bir bildirim, e-posta veya zil tetiklenir."
+   },
+   "retain_desc": {
+      "message": "Otomatik olarak kaybolmadan önce Uyarılan Sekmelerin kaydını saklamak için zaman süresini seçin"
+   },
+   "retain_title": {
+      "message": "Uyarılan Sekmeleri Sakla"
+   },
+   "rpp": {
+      "message": "Ön tanımlı sayfayı yenile"
+   },
+   "rpp_body": {
+      "message": "Ön Tanımlı Sayfa İçeriğini Yenile"
+   },
+   "rpp_msg1": {
+      "message": "(örn. google.com)"
+   },
+   "rpp_title": {
+      "message": "Ön Tanımlı Sayfayı Yenile"
+   },
+   "rpt": {
+      "message": "Ön tanımlı metni yenile"
+   },
+   "rpt_body": {
+      "message": "Ön Tanımlı Metin İçeriğini Yenile"
+   },
+   "rpt_input1": {
+      "message": "Çoklu metin/regex desteklenir, bir tane daha eklemek için enter düğmesine basın"
+   },
+   "rpt_title": {
+      "message": "Ön Tanımlı Metni Yenile"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "scroll_to_keyword": {
+      "message": "Anahtar Kelime Konumuna Kaydır"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "Belirtilen anahtar kelime bulunduğunda sayfayı otomatik olarak anahtar kelimenin konumuna kaydırın."
+   },
+   "seconds": {
+      "message": "Saniye"
+   },
+   "select_countdown": {
+      "message": "Geri sayımı seç"
+   },
+   "select_date": {
+      "message": "Tarihi seç"
+   },
+   "select_time": {
+      "message": "Zamanı seç"
+   },
+   "sendtopm": {
+      "message": "Sayfa İzleyiciye Gönder"
+   },
+   "set_autoclick": {
+      "message": "Otomatik Tıklamayı Ayarla"
+   },
+   "set_hotkey": {
+      "message": "Kısayol Tuşunu Ayarla"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "settings_exported": {
+      "message": "Ayarlar Başarıyla Dışa Aktarıldı"
+   },
+   "settings_imported": {
+      "message": "Ayarlar Başarıyla İçe Aktarıldı"
+   },
+   "show_tab": {
+      "message": "Sekmeyi göster"
+   },
+   "sign_in": {
+      "message": "Giriş Yap"
+   },
+   "sign_up": {
+      "message": "Kaydol"
+   },
+   "sign_up_desc": {
+      "message": "Aşağıdakilerin kilidini açmak için şimdi kaydolun:"
+   },
+   "sound_length": {
+      "message": "Ses uzunluğu"
+   },
+   "source": {
+      "message": "Kaynak"
+   },
+   "source_msg": {
+      "message": "(HTML kaynak kodundaki satır içi metnin içini bulun)"
+   },
+   "specific_timemode": {
+      "message": "Belirli Zaman Modu (ör. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Başla"
+   },
+   "start_timer": {
+      "message": "Zamanlayıcıyı başlat"
+   },
+   "start_timer_body": {
+      "message": "İçerik Zamanlayıcıyı Başlat"
+   },
+   "start_timer_title": {
+      "message": "Zamanlayıcıyı Başlat"
+   },
+   "status": {
+      "message": "Durum"
+   },
+   "stop": {
+      "message": "Dur"
+   },
+   "stop_refresh_click": {
+      "message": "Fare Tıklamasıyla Yenilemeyi Durdur"
+   },
+   "stop_refresh_click_desc": {
+      "message": "Fareyi her tıkladığınızda otomatik yenilemeyi durdurun."
+   },
+   "stop_refresh_keyboard": {
+      "message": "Klavye Kullanımıyla Yenilemeyi Durdur"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "Herhangi bir tuşa bastığınızda otomatik yenilemeyi durdurun."
+   },
+   "stop_sound": {
+      "message": "Sesi Durdur"
+   },
+   "subscribe_pay": {
+      "message": "Abone Ol ve Öde"
+   },
+   "success": {
+      "message": "Ayarlar başarıyla kaydedildi"
+   },
+   "supported_expressions": {
+      "message": "Desteklenen İfadeler"
+   },
+   "tabs_alerts": {
+      "message": "Uyarılarla Sekmeler"
+   },
+   "tabs_refreshing": {
+      "message": "Etkin Sekmeleri Yenileme"
+   },
+   "temporary_pause": {
+      "message": "Belirtilen Süre İçin Etkileşimde Otomatik Yenilemeyi Geçici Olarak Durdurun"
+   },
+   "temporary_pause_desc": {
+      "message": "Fare tıklaması veya klavye etkinliği durumunda otomatik yenilemeyi belirtilen süre boyunca durdurun ve bu süre zarfında etkileşim algılanmazsa otomatik olarak yeniden etkinleştirin."
+   },
+   "test_play": {
+      "message": "Oynatma testi"
+   },
+   "thankyou": {
+      "message": "Teşekkür ederim"
+   },
+   "ti_msg1": {
+      "message": "Her sayfa yenileme için varsayılan zamanı ayarlayın. Önceden tanımlanmış zaman aralıklarını seçebilir veya uzantı penceresinden özel zaman aralığınızı girebilirsiniz."
+   },
+   "ti_msg2": {
+      "message": "Auto Refresh Plus'ın yaptığı her sayfa yenilemesinin zaman aralığını rastgele ayarlayın. Tek yapmanız gereken bir minimum ve maksimum süre seçmektir ve uzantı, tanımlanan aralık arasında otomatik sayfa yenilemelerini gerçekleştirir."
+   },
+   "ti_msg3": {
+      "message": "Auto Refresh Plus açılır penceresine Rastgele Aralık işlevi eklendi"
+   },
+   "time": {
+      "message": "Zaman"
+   },
+   "time_interval": {
+      "message": "Zaman aralığı"
+   },
+   "timer_mode": {
+      "message": "Zamanlayıcı modu"
+   },
+   "unlimited": {
+      "message": "Sınırsız"
+   },
+   "unsubscribe": {
+      "message": "Aboneliği İptal Et"
+   },
+   "unsubscribe_alert": {
+      "message": "Aboneliği iptal etmek istediğinizden emin misiniz?"
+   },
+   "unsubscribe_success": {
+      "message": "Başarıyla Abonelikten Çıkıldı"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus sürüme güncellendi"
+   },
+   "up_msg2": {
+      "message": "Seçeneklere Yeniden Başlatma Modu ekleyin"
+   },
+   "up_msg3": {
+      "message": "Seçeneklere Etkileşim Modu Ekle"
+   },
+   "up_msg4": {
+      "message": "Sayfa monitörüne metin eklemek için Bağlam-Menüsü"
+   },
+   "up_msg5": {
+      "message": "Sayfada Tam Yenileme olmadan Yenile"
+   },
+   "up_msg6": {
+      "message": "Sekme Monitörü Eklendi"
+   },
+   "up_msg7": {
+      "message": "Görsel Sayaç Eklendi"
+   },
+   "up_msg8": {
+      "message": "Normal ifadeyi AutoClick İşlevi ile birleştirirken hata hatası"
+   },
+   "up_msg9": {
+      "message": "Anlıyorum"
+   },
+   "use_default": {
+      "message": "Varsayılan kullan"
+   },
+   "verify": {
+      "message": "Doğrula"
+   },
+   "verify_email_msg": {
+      "message": "E-posta Başarıyla Doğrulandı"
+   },
+   "visual": {
+      "message": "Görsel"
+   },
+   "visual_msg": {
+      "message": "(Görsel ekranda gördüğünüz metnin içini bulun)"
+   },
+   "visual_timer_desc": {
+      "message": "Görsel zamanlayıcının sayfada göründüğü yeri kontrol edin. Görsel sayacın gösterilmesi için size en uygun konumu seçin."
+   },
+   "visual_timer_msg": {
+      "message": "Web sayfasında görsel zamanlayıcıyı göster"
+   },
+   "visual_timer_msg_opt": {
+      "message": "Varsayılan olarak, yenileyeceğiniz tüm sayfalar için görsel zamanlayıcıyı etkinleştirin. Devre dışı bırakılırsa, bu özelliği uzantı açılır penceresinden ayrı ayrı etkinleştirebilirsiniz."
+   },
+   "visual_timer_title": {
+      "message": "Görsel Zamanlayıcı Konum Kontrolü"
+   },
+   "visual_timer_title_opt": {
+      "message": "Varsayılan olarak Görsel Zamanlayıcıyı Etkinleştir"
+   },
+   "volume": {
+      "message": "Ses"
+   },
+   "whats_new": {
+      "message": "Yeni ne var?"
+   },
+   "whitelist": {
+      "message": "İstek listesi"
+   },
+   "wildcard_not_supported": {
+      "message": "Genel URL'ler tarayıcı yeniden başlatıldığında desteklenmez."
+   },
+   "without_full": {
+      "message": "XHR Yenileme"
+   },
+   "without_msg1": {
+      "message": "sıfır"
+   },
+   "without_msg2": {
+      "message": "Otomatik bir düğmeyi nasıl tıklar?"
+   },
+   "xhr_page_help": {
+      "message": "Tam sayfa yenilemesi yapmak zorunda kalmadan bir URL'den veri alın. Bu, bir Web sayfasının, kullanıcının yaptıklarını kesintiye uğratmadan sayfanın yalnızca bir bölümünü güncellemesini sağlar."
+   },
+   "xhr_refresh": {
+      "message": "XHR Yenileme"
+   },
+   "year": {
+      "message": "Yıl"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "Bu özelliğin sınırını aştınız."
+   },
+   "you_have_an_account": {
+      "message": "Bir Hesabınız Var mı?"
+   },
+   "your_plan": {
+      "message": "Planınız"
+   }
+}

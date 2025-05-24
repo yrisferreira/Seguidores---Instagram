@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "Account"
+   },
+   "active": {
+      "message": "Actieve tabbladen"
+   },
+   "active_subscription": {
+      "message": "Actief"
+   },
+   "active_title": {
+      "message": "Lijst met actieve tabbladen"
+   },
+   "add_email": {
+      "message": "E-mail toevoegen"
+   },
+   "add_keywords": {
+      "message": "Standaard doel trefwoorden toevoegen"
+   },
+   "add_new": {
+      "message": "Nieuw toevoegen"
+   },
+   "advanced": {
+      "message": "Geavanceerd"
+   },
+   "alert_msg1": {
+      "message": "Instellingen succesvol gereset"
+   },
+   "alert_msg2": {
+      "message": "Gefeliciteerd! Auto Refresh Plus succesvol geïnstalleerd"
+   },
+   "alert_tabs_desc": {
+      "message": "Toon alarmtabbladen in de extensie popup om updates of wijzigingen te zien die door de pagina monitor zijn gemaakt. Deze functie biedt een handige manier om op de hoogte te blijven, vooral wanneer u veel tabbladen open heeft."
+   },
+   "alert_tabs_title": {
+      "message": "Toon Alarmtabbladen in Extensie Popup"
+   },
+   "all": {
+      "message": "Alle"
+   },
+   "allow_incognito": {
+      "message": "Toestaan in incognitomodus"
+   },
+   "annual_plan": {
+      "message": "Jaarplan"
+   },
+   "any_change": {
+      "message": "Elke wijziging"
+   },
+   "any_msg": {
+      "message": "Auto Refresh Plus zal u op de hoogte stellen van elke wijziging op deze website."
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Ververs de pagina automatisch met krachtige pagina-monitorfuncties."
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Paginamonitor"
+   },
+   "are_you_sure": {
+      "message": "Weet je zeker dat je wilt verwijderen?"
+   },
+   "as_msg4": {
+      "message": "Auto Refresh Plus zal automatisch de functie voor pagina-herladen starten wanneer deze URL's in uw browser worden geopend. Het opent ook al deze URL's wanneer de browser opnieuw wordt gestart en begint met automatisch verversen met het gewenste interval."
+   },
+   "as_title": {
+      "message": "Automatisch starten URL's"
+   },
+   "assign_hotkeys": {
+      "message": "Sneltoetsen toewijzen"
+   },
+   "ast": {
+      "message": "Afteltimer"
+   },
+   "ast_msg1": {
+      "message": "Automatisch verversen starten bij het openen van deze URL's. Eén URL per regel, bijvoorbeeld,"
+   },
+   "ast_msg2": {
+      "message": "Automatisch verversen starten voor deze URL's bij het opnieuw opstarten van de browser."
+   },
+   "ast_specific_time": {
+      "message": "Kies specifieke tijd"
+   },
+   "auto_clicker": {
+      "message": "Automatisch klikken"
+   },
+   "auto_clicker_msg1": {
+      "message": "Automatisch op de link klikken"
+   },
+   "auto_clicker_msg2": {
+      "message": "(Als de monitortekst of reguliere expressie een link heeft)"
+   },
+   "auto_start": {
+      "message": "Automatisch starten"
+   },
+   "bad": {
+      "message": "Slecht"
+   },
+   "blacklist": {
+      "message": "Zwarte lijst"
+   },
+   "bulk_keywords_msg": {
+      "message": "Gebruik een spatie na elke komma voor bulk trefwoorden"
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "cancel_timer": {
+      "message": "Timer annuleren"
+   },
+   "canonical_url": {
+      "message": "Canonieke URL"
+   },
+   "change_site_desc": {
+      "message": "Als de URL van de website verandert terwijl Auto Refresh Plus actief is, wordt deze automatisch bijgewerkt om de nieuwe URL te volgen of op de originele URL te blijven. Dit zorgt ervoor dat de pagina correct blijft vernieuwen zonder onderbrekingen."
+   },
+   "change_site_title": {
+      "message": "URL Wijzigingen / Omleiding Verwerking"
+   },
+   "choose_plan": {
+      "message": "Kies uw plan"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "nl"
+   },
+   "congratulations": {
+      "message": "Gefeliciteerd"
+   },
+   "contact_us": {
+      "message": "Neem Contact Op"
+   },
+   "continue_without_login": {
+      "message": "Doorgaan zonder inloggen"
+   },
+   "contribution": {
+      "message": "Bijdrage"
+   },
+   "copyright": {
+      "message": "Alle rechten voorbehouden."
+   },
+   "countdown": {
+      "message": "Aftellen"
+   },
+   "countdown_mode": {
+      "message": "Aftelmodus"
+   },
+   "cs_t1": {
+      "message": "Bij het openen van de URL"
+   },
+   "cs_t2": {
+      "message": "Bij elke pagina-verversing"
+   },
+   "cs_t3": {
+      "message": "Wanneer de paginamonitor de doeltekst vindt"
+   },
+   "cs_t4": {
+      "message": "Wanneer de paginamonitor de doeltekst verliest"
+   },
+   "cs_t5": {
+      "message": "Bij elke wijziging"
+   },
+   "cs_t6": {
+      "message": "Injecteer voor paginaladen"
+   },
+   "cs_t7": {
+      "message": "Injecteer na paginaladen"
+   },
+   "custom": {
+      "message": "Aangepast"
+   },
+   "custom_monitor": {
+      "message": "Aangepaste monitor"
+   },
+   "custom_scripts": {
+      "message": "Aangepaste scripts"
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "deep_source": {
+      "message": "Diepe bron"
+   },
+   "default_target_input": {
+      "message": "Ondersteunt meerdere teksten/regelmatige expressies, druk op Enter om een andere toe te voegen."
+   },
+   "default_target_text": {
+      "message": "Standaard doeltekst"
+   },
+   "default_timerinterval": {
+      "message": "Standaard tijdsinterval"
+   },
+   "delete": {
+      "message": "Verwijderen"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus heeft een wijziging op deze website gedetecteerd."
+   },
+   "detect_any_change_title": {
+      "message": "Paginamonitor"
+   },
+   "developer_mode": {
+      "message": "Ontwikkelaarsmodus is niet toegestaan."
+   },
+   "developer_mode_msg": {
+      "message": "Om veiligheids- en stabiliteitsredenen is ontwikkelaarsmodus niet toegestaan.\u003Cbr> Download en installeer de extensie vanuit de officiële store om ervoor te zorgen dat u de nieuwste en meest veilige versie heeft."
+   },
+   "devices": {
+      "message": "Apparaten"
+   },
+   "dismiss": {
+      "message": "Negeren"
+   },
+   "domain": {
+      "message": "Domein"
+   },
+   "donate": {
+      "message": "Doneren"
+   },
+   "donation": {
+      "message": "Donatie"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>Groeten van het Auto Refresh Plus-team.\u003C/b> \u003Cbr>Als u Auto Refresh Plus nuttig vindt, overweeg dan een donatie aan de auteur."
+   },
+   "donation_msg2": {
+      "message": "Dat heb ik al gedaan."
+   },
+   "done": {
+      "message": "Gedaan"
+   },
+   "download_in_store": {
+      "message": "Download in de winkel"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_alert": {
+      "message": "E-mail Meldingen"
+   },
+   "email_msg": {
+      "message": "Houd er rekening mee dat deze instelling alleen is om een e-mail toe te voegen. Om e-mailmeldingen te ontvangen, schakel \u003Cb>Ontvang e-mailmelding\u003C/b> in de extensiepopup > Paginamonitorsectie voor elke webpagina in."
+   },
+   "email_sent_to": {
+      "message": "Een verificatiecode is verzonden naar"
+   },
+   "enable_ri": {
+      "message": "Schakel willekeurig interval in"
+   },
+   "enable_tf": {
+      "message": "Schakel deze functie in"
+   },
+   "enter_code_title": {
+      "message": "Verificatiecode invoeren"
+   },
+   "enter_email": {
+      "message": "E-mailadres invoeren"
+   },
+   "exact": {
+      "message": "Exacte URL"
+   },
+   "expire": {
+      "message": "Verloopt"
+   },
+   "export": {
+      "message": "Exporteren"
+   },
+   "export_desc": {
+      "message": "Om uw instellingen te behouden, exporteer uw Auto Refresh Plus-configuratie en herstel deze later op dezelfde of een andere computer."
+   },
+   "export_option": {
+      "message": "Exportoptie"
+   },
+   "export_settings": {
+      "message": "Instellingen Back-up"
+   },
+   "extension_updated": {
+      "message": "Extensie bijgewerkt naar"
+   },
+   "feature_1": {
+      "message": "Synchroniseer instellingen op meerdere apparaten"
+   },
+   "feature_2": {
+      "message": "Toon visuele timer"
+   },
+   "feature_3": {
+      "message": "Ondersteuning voor aangepaste scripts"
+   },
+   "feature_4": {
+      "message": "En meer..."
+   },
+   "feature_request": {
+      "message": "Functieaanvragen"
+   },
+   "find_mtr_msg": {
+      "message": "Zoek monitortekst in"
+   },
+   "focus_description": {
+      "message": "Schakel vensterfocus in wanneer Pagina Monitor een trefwoord vindt of verliest. Deze functie zorgt ervoor dat het venster automatisch naar de voorgrond van uw scherm komt telkens wanneer het opgegeven trefwoord wordt gedetecteerd of verloren gaat."
+   },
+   "focus_title": {
+      "message": "Activeer Vensterfocus bij Detectie van Trefwoord"
+   },
+   "found": {
+      "message": "Gevonden"
+   },
+   "free": {
+      "message": "Gratis"
+   },
+   "full_page": {
+      "message": "Volledige paginavernieuwing"
+   },
+   "full_page_help": {
+      "message": "Auto Refresh Plus zal u op de hoogte stellen wanneer er een wijziging plaatsvindt op deze webpagina."
+   },
+   "good": {
+      "message": "Goed"
+   },
+   "great": {
+      "message": "Geweldig!"
+   },
+   "hard_refresh": {
+      "message": "Hard vernieuwen"
+   },
+   "hard_refresh_msg": {
+      "message": "(Herlaad de pagina zonder gebruik te maken van gecachte gegevens)"
+   },
+   "help_center": {
+      "message": "Helpcentrum"
+   },
+   "home": {
+      "message": "Startpagina"
+   },
+   "hotkeys": {
+      "message": "Sneltoetsen"
+   },
+   "hotkeys_msg1": {
+      "message": "Start tijdinterval"
+   },
+   "hotkeys_msg2": {
+      "message": "Start willekeurig interval"
+   },
+   "hotkeys_msg3": {
+      "message": "Start timermodus"
+   },
+   "hotkeys_msg4": {
+      "message": "Stop interval"
+   },
+   "hotkeys_msg5": {
+      "message": "Dood notificatiegeluid"
+   },
+   "hotkeys_title": {
+      "message": "Sneltoetsen toewijzen"
+   },
+   "hour": {
+      "message": "Uur"
+   },
+   "hours": {
+      "message": "Uren"
+   },
+   "howto": {
+      "message": "Hoe te"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plus biedt maatwerkoplossingen voor de unieke vereisten van uw bedrijf. Ons team kan aangepaste scripts maken om specifieke acties op webpagina's uit te voeren. Houd er rekening mee dat maatwerkoplossingen tegen extra kosten worden geleverd, met prijzen op basis van complexiteit. Neem contact met ons op om uw behoeften verder te bespreken."
+   },
+   "idea_cs_general_desc": {
+      "message": "Als uw script ook voldoet aan de behoeften van andere gebruikers, schrijven we het gratis en publiceren het publiekelijk op de Auto Refresh Plus scriptmarktplaats."
+   },
+   "idea_cs_title": {
+      "message": "Heeft u ideeën voor aangepaste scripts?"
+   },
+   "idea_custom_scripts_business": {
+      "message": "Aangepaste Oplossingen voor Bedrijven met Unieke Behoeften"
+   },
+   "idea_custom_scripts_general": {
+      "message": "Algemeen Publiek Idee"
+   },
+   "ignore_input_field": {
+      "message": "Interactie met Invoervelden Negeren"
+   },
+   "ignore_input_field_desc": {
+      "message": "Blijf vernieuwen, zelfs wanneer u op invoervelden klikt of typt."
+   },
+   "images": {
+      "message": "Afbeeldingen"
+   },
+   "import": {
+      "message": "Importeren"
+   },
+   "import_desc": {
+      "message": "Om uw instellingen te behouden, importeer uw Auto Refresh Plus-configuratie met behulp van de importknop. Dit stelt u in staat uw instellingen te herstellen op dezelfde of een andere computer."
+   },
+   "import_option": {
+      "message": "Importoptie"
+   },
+   "interactions_msg": {
+      "message": "Auto Refresh Plus zal het vernieuwen van de pagina pauzeren als u met de muis klikt of het toetsenbord gebruikt. Schakel deze functie hier in voor alle websites, of schakel het in voor individuele pagina's/websites vanuit de extensie-popup."
+   },
+   "interactions_msg_opt": {
+      "message": "Automatisch vernieuwen pauzeren als u interactie heeft met de pagina of begint te typen in een invoerveld."
+   },
+   "interactions_title_opt": {
+      "message": "Stop met Vernieuwen bij Gebruikersinteractie"
+   },
+   "invalid_code_email": {
+      "message": "De opgegeven verificatiecode is ongeldig."
+   },
+   "just_now": {
+      "message": "Zojuist"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus is actief, maar belangrijke functies ontbreken."
+   },
+   "keyword_found": {
+      "message": "Trefwoord gevonden"
+   },
+   "lang_code": {
+      "message": "nl"
+   },
+   "logout": {
+      "message": "Uitloggen"
+   },
+   "lost": {
+      "message": "Verloren"
+   },
+   "loved": {
+      "message": "Ik vond het geweldig!"
+   },
+   "manage_plan": {
+      "message": "Plan beheren"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "Minuut"
+   },
+   "minutes": {
+      "message": "Minuten"
+   },
+   "monitor_full_page": {
+      "message": "Monitor volledige pagina"
+   },
+   "month": {
+      "message": "Maand"
+   },
+   "monthly_plan": {
+      "message": "Maandplan"
+   },
+   "msg_pm": {
+      "message": "Geen tabbladen om te tonen"
+   },
+   "name_required": {
+      "message": "Naam is verplicht."
+   },
+   "never_playsound": {
+      "message": "Speel nooit geluid af"
+   },
+   "new_url": {
+      "message": "Nieuwe URL"
+   },
+   "no_credit_card": {
+      "message": "Geen creditcard vereist"
+   },
+   "not_allowed": {
+      "message": "Je hebt geen toestemming om dit hier te gebruiken."
+   },
+   "not_allowed_to_use": {
+      "message": "Je hebt geen toestemming om deze functie te gebruiken."
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus heeft $action$ uw doeltekst.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "De doeltekst!"
+   },
+   "notification_settings": {
+      "message": "Meldingsinstellingen"
+   },
+   "notifications": {
+      "message": "Meldingen"
+   },
+   "notifications_moved_msg": {
+      "message": "De meldingsinstellingen zijn verplaatst naar een apart gedeelte"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "okay": {
+      "message": "Oké"
+   },
+   "open_link_tab": {
+      "message": "Open link in nieuw tabblad"
+   },
+   "opt_msg1": {
+      "message": "Vernieuwen bij het openen van URL's"
+   },
+   "opt_msg10": {
+      "message": "Wanneer een melding binnenkomt, wordt er een kort geluid afgespeeld om u te waarschuwen. U kunt deze instelling aanpassen door het geluid uit te schakelen of een ander geluid te kiezen om af te spelen voor meldingen."
+   },
+   "opt_msg11": {
+      "message": "Pas de maximale duur van het geluid aan dat wordt afgespeeld wanneer een melding binnenkomt."
+   },
+   "opt_msg12": {
+      "message": "Ontvang e-mailmeldingen wanneer een website verandert volgens de instellingen van uw pagina monitor. Dit zorgt ervoor dat u op de hoogte blijft van eventuele wijzigingen zonder de site constant te controleren."
+   },
+   "opt_msg13": {
+      "message": "Voer aangepaste scripts uit op de pagina"
+   },
+   "opt_msg14": {
+      "message": "Als je graag speelt met automatisering, scraping, het veranderen van het standaardgedrag van websites en je hebt enige basiskennis van JavaScript, dan kun je hier veel doen."
+   },
+   "opt_msg15": {
+      "message": "Welke URL-patronen zijn toegestaan"
+   },
+   "opt_msg16": {
+      "message": "Om zowel HTTP als HTTPS te matchen, schrijf gewoon example.com"
+   },
+   "opt_msg17": {
+      "message": "Om elke pagina in een domein te matchen, schrijf example.com/*"
+   },
+   "opt_msg18": {
+      "message": "Om elke pagina in een domein en zijn subdomeinen te matchen, schrijf *.example.com/*"
+   },
+   "opt_msg19": {
+      "message": "Stel uw aangepaste sneltoetsen in voor Auto Refresh Plus-acties"
+   },
+   "opt_msg2": {
+      "message": "Automatisch starten van verversen bij het openen van een van deze URL's"
+   },
+   "opt_msg20": {
+      "message": "Reset Auto Refresh Plus-instellingen"
+   },
+   "opt_msg21": {
+      "message": "\u003Cb>Weet je zeker\u003C/b> dat je alle Auto Refresh Plus-instellingen wilt terugzetten naar hun standaardwaarden?"
+   },
+   "opt_msg22": {
+      "message": "Gefeliciteerd! Auto Refresh Plus is succesvol geïnstalleerd"
+   },
+   "opt_msg3": {
+      "message": "Voer hier een of meer trefwoorden in, en zodra een van hen op de webpagina wordt gevonden, begint Auto Refresh Plus automatisch met het verversen van de pagina met de standaardintervalfrequentie."
+   },
+   "opt_msg4": {
+      "message": "Voer hier een specifieke URL in om deze URL te verversen, in plaats van het huidige tabblad dat je gebruikt. Dus bijvoorbeeld, als je Google.com opslaat in de instellingen en vervolgens begint met automatisch verversen terwijl je op Yahoo.com bent, zal Google.com worden ververst in plaats van de pagina die je bekijkt."
+   },
+   "opt_msg5": {
+      "message": "Schakel aftelmodus in"
+   },
+   "opt_msg6": {
+      "message": "Voer een paginavernieuwing uit op een specifieke pagina na een bepaalde tijd, de afteltimer van Auto Refresh Plus laat je dit doen. Schakel het gewoon in en stel de tijd in, en de afteltimer begint. Zodra het aftellen nul bereikt, begint Auto Refresh Plus opnieuw met het verversen van de pagina met de ingestelde standaardintervallen."
+   },
+   "opt_msg7": {
+      "message": "Aftelmodus toegevoegd in Auto Refresh Plus-popup"
+   },
+   "opt_msg8": {
+      "message": "Voeg hier de standaard monitoringtrefwoorden toe. U kunt ook aangepaste trefwoorden toevoegen voor elke website vanuit de extensiepopup."
+   },
+   "opt_msg9": {
+      "message": "Ontvang automatisch een melding wanneer een bepaalde webpagina uw gedefinieerde trefwoord heeft gevonden of verloren."
+   },
+   "options": {
+      "message": "Opties"
+   },
+   "other_options": {
+      "message": "Andere opties"
+   },
+   "other_products": {
+      "message": "Andere producten"
+   },
+   "page_monitor": {
+      "message": "Paginamonitor"
+   },
+   "paused": {
+      "message": "Gepauzeerd"
+   },
+   "play_for": {
+      "message": "Speel voor"
+   },
+   "play_onlyonce": {
+      "message": "Speel slechts één keer af"
+   },
+   "play_sound": {
+      "message": "Instellingen voor Afspelen van Pushmeldingsgeluiden"
+   },
+   "playsound_candidate": {
+      "message": "Geluid afspelen Kandidaat 1 (1 seconde)"
+   },
+   "playsound_candidate2": {
+      "message": "Geluid afspelen Kandidaat 2 (6 seconden)"
+   },
+   "playsound_msg1": {
+      "message": "Geluid afspelen van URL"
+   },
+   "please_rateus": {
+      "message": "Beoordeel ons alstublieft"
+   },
+   "please_upgrade": {
+      "message": "Upgrade je plan."
+   },
+   "pm_input1": {
+      "message": "Voorbeeld: verkocht geëindigd verlopen"
+   },
+   "pm_msg2": {
+      "message": "Speel totdat ik op het meldingsvak klik"
+   },
+   "pmp": {
+      "message": "Paginamonitor patroon"
+   },
+   "pmp_msg1": {
+      "message": "Popup-melding zodra het \u003Cb>VINDT\u003C/b> de doeltekst (of regex)"
+   },
+   "pmp_msg2": {
+      "message": "Popup-melding zodra het \u003Cb>VERLIEST\u003C/b> de doeltekst (of regex)"
+   },
+   "predefined": {
+      "message": "Vooraf gedefinieerd"
+   },
+   "predefined_text": {
+      "message": "Vooraf gedefinieerde tekst"
+   },
+   "predefined_url": {
+      "message": "Vooraf gedefinieerde URL"
+   },
+   "predefined_url_alert": {
+      "message": "Het inschakelen van de functie \"Vernieuwen voorbepaalde URL\" zal alle automatische vernieuwing functies beperken tot de opgegeven URL die u in dit invoerveld schrijft. U kunt geen andere URL's vernieuwen wanneer deze functie actief is."
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "r_browser": {
+      "message": "Vernieuw bij herstarten browser"
+   },
+   "random_interval": {
+      "message": "Willekeurig interval"
+   },
+   "random_interval_warning": {
+      "message": "De minimale waarde moet kleiner zijn dan de maximale waarde."
+   },
+   "rate_us": {
+      "message": "Beoordeel ons"
+   },
+   "rateus_title": {
+      "message": "Beoordeel deze extensie"
+   },
+   "ratings": {
+      "message": "Beoordelingen"
+   },
+   "ratings_msg": {
+      "message": "Beoordeel ons alsjeblieft met vijf sterren in de webwinkel."
+   },
+   "ratings_msg2": {
+      "message": "Natuurlijk! Laten we beginnen"
+   },
+   "read_more": {
+      "message": "Lees meer"
+   },
+   "receive_emails_alerts": {
+      "message": "Ontvang e-mailmeldingen"
+   },
+   "refresh_number": {
+      "message": "Stel vernieuwingsnummer in"
+   },
+   "refresh_number_msg": {
+      "message": "(Stel in hoe vaak je wilt vernieuwen.)"
+   },
+   "refresh_type": {
+      "message": "Vernieuwtype"
+   },
+   "remove_email": {
+      "message": "E-mail verwijderen"
+   },
+   "reset": {
+      "message": "Reset instellingen"
+   },
+   "reset_alert_msg": {
+      "message": "Weet je zeker dat je alle instellingen wilt resetten naar de standaardwaarden? Deze actie kan niet ongedaan worden gemaakt. Als je zeker bent, typ \u003Cb>RESET\u003C/b> in het invoerveld hieronder."
+   },
+   "restart_msg": {
+      "message": "Blijf Vernieuwen bij Detectie van Trefwoord"
+   },
+   "restart_opt_msg": {
+      "message": "Auto Refresh Plus blijft de pagina vernieuwen, zelfs als het het gecontroleerde trefwoord vindt of verliest. Het zal nog steeds een melding, e-mail of bel triggeren, afhankelijk van uw pagina monitor instellingen."
+   },
+   "retain_desc": {
+      "message": "Selecteer de tijdsduur om het record van gemelde tabbladen te behouden voordat ze automatisch verdwijnen."
+   },
+   "retain_title": {
+      "message": "Meldingsbladen behouden"
+   },
+   "rpp": {
+      "message": "Vernieuw vooraf gedefinieerde pagina"
+   },
+   "rpp_body": {
+      "message": "Vernieuw vooraf gedefinieerde paginainhoud"
+   },
+   "rpp_msg1": {
+      "message": "(bijv. google.com)"
+   },
+   "rpp_title": {
+      "message": "Vernieuw vooraf gedefinieerde pagina"
+   },
+   "rpt": {
+      "message": "Vernieuw vooraf gedefinieerde tekst"
+   },
+   "rpt_body": {
+      "message": "Vernieuw vooraf gedefinieerde tekstinhoud"
+   },
+   "rpt_input1": {
+      "message": "Meerdere teksten/regex ondersteund, druk op Enter om een andere toe te voegen."
+   },
+   "rpt_title": {
+      "message": "Vernieuw vooraf gedefinieerde tekst"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "scroll_to_keyword": {
+      "message": "Scroll naar Locatie van Trefwoord"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "Scroll automatisch de pagina naar de locatie van het opgegeven trefwoord wanneer het wordt gevonden."
+   },
+   "seconds": {
+      "message": "Seconden"
+   },
+   "select_countdown": {
+      "message": "Selecteer aftellen"
+   },
+   "select_date": {
+      "message": "Selecteer datum"
+   },
+   "select_time": {
+      "message": "Selecteer tijd"
+   },
+   "sendtopm": {
+      "message": "Verzenden naar Paginamonitor"
+   },
+   "set_autoclick": {
+      "message": "Automatisch klikken instellen"
+   },
+   "set_hotkey": {
+      "message": "Sneltoets instellen"
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "settings_exported": {
+      "message": "Instellingen succesvol geëxporteerd"
+   },
+   "settings_imported": {
+      "message": "Instellingen succesvol geïmporteerd"
+   },
+   "show_tab": {
+      "message": "Toon tabblad"
+   },
+   "sign_in": {
+      "message": "Inloggen"
+   },
+   "sign_up": {
+      "message": "Aanmelden"
+   },
+   "sign_up_desc": {
+      "message": "Meld je nu aan om het volgende te ontgrendelen:"
+   },
+   "sound_length": {
+      "message": "Duur van het geluid"
+   },
+   "source": {
+      "message": "Bron"
+   },
+   "source_msg": {
+      "message": "(Zoek in de inline tekst in HTML-broncode.)"
+   },
+   "specific_timemode": {
+      "message": "Specifieke tijdfunctie (bijv. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Start"
+   },
+   "start_timer": {
+      "message": "Start timer"
+   },
+   "start_timer_body": {
+      "message": "Start timer inhoud"
+   },
+   "start_timer_title": {
+      "message": "Start timer"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "stop_refresh_click": {
+      "message": "Stop met Vernieuwen bij Muis Klik"
+   },
+   "stop_refresh_click_desc": {
+      "message": "Pauzeer de automatische vernieuwing telkens wanneer u met de muis klikt."
+   },
+   "stop_refresh_keyboard": {
+      "message": "Stop met Vernieuwen bij Gebruik van Toetsenbord"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "Pauzeer de automatische vernieuwing telkens wanneer u een toets indrukt."
+   },
+   "stop_sound": {
+      "message": "Stop geluid"
+   },
+   "subscribe_pay": {
+      "message": "Abonneren en betalen"
+   },
+   "success": {
+      "message": "Instellingen succesvol opgeslagen"
+   },
+   "supported_expressions": {
+      "message": "Ondersteunde uitdrukkingen"
+   },
+   "tabs_alerts": {
+      "message": "Tabbladen met meldingen"
+   },
+   "tabs_refreshing": {
+      "message": "Actieve tabbladen vernieuwen"
+   },
+   "temporary_pause": {
+      "message": "Tijdelijk Automatisch Vernieuwen Pauzeren bij Interactie voor een Bepaalde Periode"
+   },
+   "temporary_pause_desc": {
+      "message": "Pauzeer de automatische vernieuwing bij muisklikken of toetsenbordactiviteit voor een bepaalde periode en schakel deze automatisch weer in als er tijdens die tijd geen interactie wordt gedetecteerd."
+   },
+   "test_play": {
+      "message": "Test afspelen"
+   },
+   "thankyou": {
+      "message": "Dank je"
+   },
+   "ti_msg1": {
+      "message": "Stel de standaardtijd in voor elke paginavernieuwing. Je kunt kiezen uit vooraf gedefinieerde tijdsintervallen of je eigen tijdsinterval instellen vanuit het extensiepopup."
+   },
+   "ti_msg2": {
+      "message": "Willekeurig het tijdsinterval van elke paginavernieuwing die Auto Refresh Plus uitvoert. Alles wat je hoeft te doen is een minimale en maximale tijdsduur kiezen, en de extensie zal automatische paginavernieuwingen uitvoeren binnen het gedefinieerde bereik."
+   },
+   "ti_msg3": {
+      "message": "Willekeurige intervalfunctie toegevoegd in Auto Refresh Plus popup"
+   },
+   "time": {
+      "message": "Tijd"
+   },
+   "time_interval": {
+      "message": "Tijdsinterval"
+   },
+   "timer_mode": {
+      "message": "Tijdfunctie"
+   },
+   "unlimited": {
+      "message": "Onbeperkt"
+   },
+   "unsubscribe": {
+      "message": "Uitschrijven"
+   },
+   "unsubscribe_alert": {
+      "message": "Weet u zeker dat u zich wilt uitschrijven?"
+   },
+   "unsubscribe_success": {
+      "message": "Succesvol uitgeschreven"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus bijgewerkt naar versie"
+   },
+   "up_msg2": {
+      "message": "Voeg herstartmodus toe in opties"
+   },
+   "up_msg3": {
+      "message": "Voeg interactiemodus toe in opties"
+   },
+   "up_msg4": {
+      "message": "Contextmenu voor het toevoegen van tekst aan paginamonitor"
+   },
+   "up_msg5": {
+      "message": "Vernieuwen zonder volledige vernieuwing van de pagina"
+   },
+   "up_msg6": {
+      "message": "Tabmonitor toegevoegd"
+   },
+   "up_msg7": {
+      "message": "Visuele teller toegevoegd"
+   },
+   "up_msg8": {
+      "message": "Kleine bugs verholpen"
+   },
+   "up_msg9": {
+      "message": "Ik begrijp het"
+   },
+   "use_default": {
+      "message": "Gebruik standaard trefwoorden"
+   },
+   "verify": {
+      "message": "Verifiëren"
+   },
+   "verify_email_msg": {
+      "message": "E-mail succesvol geverifieerd"
+   },
+   "visual": {
+      "message": "Visueel"
+   },
+   "visual_msg": {
+      "message": "(Zoek in de tekst die je op het visuele scherm ziet.)"
+   },
+   "visual_timer_desc": {
+      "message": "Controleer waar de visuele timer op de pagina verschijnt. Kies de weergavepositie die het beste bij u past voor het weergeven van de visuele teller."
+   },
+   "visual_timer_msg": {
+      "message": "Toon visuele timer op de webpagina"
+   },
+   "visual_timer_msg_opt": {
+      "message": "Schakel standaard de visuele timer in voor alle pagina's die u zult vernieuwen. Indien uitgeschakeld, kunt u deze functie afzonderlijk inschakelen vanuit de extensie-popup."
+   },
+   "visual_timer_title": {
+      "message": "Positie Controle van Visuele Timer"
+   },
+   "visual_timer_title_opt": {
+      "message": "Visuele timer standaard inschakelen"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "whats_new": {
+      "message": "Wat is nieuw?"
+   },
+   "whitelist": {
+      "message": "Witte lijst"
+   },
+   "wildcard_not_supported": {
+      "message": "Wildcard URL's worden niet ondersteund bij het opnieuw opstarten van de browser."
+   },
+   "without_full": {
+      "message": "XHR Vernieuwen"
+   },
+   "without_msg1": {
+      "message": "Geen"
+   },
+   "without_msg2": {
+      "message": "Hoe werkt automatisch op een knop klikken?"
+   },
+   "xhr_page_help": {
+      "message": "Haal gegevens op van een URL zonder een volledige paginavernieuwing uit te voeren. Dit stelt een webpagina in staat om slechts een deel van een pagina bij te werken zonder de acties van de gebruiker te verstoren."
+   },
+   "xhr_refresh": {
+      "message": "XHR Vernieuwen"
+   },
+   "year": {
+      "message": "Jaar"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "Je hebt de limiet van deze functie overschreden."
+   },
+   "you_have_an_account": {
+      "message": "Heb je een account?"
+   },
+   "your_plan": {
+      "message": "Uw plan"
+   }
+}

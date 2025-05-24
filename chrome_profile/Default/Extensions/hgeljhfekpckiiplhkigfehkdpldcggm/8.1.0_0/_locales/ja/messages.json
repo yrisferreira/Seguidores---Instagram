@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "アカウント"
+   },
+   "active": {
+      "message": "アクティブタブ"
+   },
+   "active_subscription": {
+      "message": "アクティブ"
+   },
+   "active_title": {
+      "message": "アクティブタブのリスト"
+   },
+   "add_email": {
+      "message": "メールを追加"
+   },
+   "add_keywords": {
+      "message": "デフォルトのキーワードを追加"
+   },
+   "add_new": {
+      "message": "新規追加"
+   },
+   "advanced": {
+      "message": "高度な"
+   },
+   "alert_msg1": {
+      "message": "設定が正常にリセットされました"
+   },
+   "alert_msg2": {
+      "message": "おめでとうございます！ Auto Refresh Plus が正常にインストールされました"
+   },
+   "alert_tabs_desc": {
+      "message": "ページモニターによって行われた更新や変更を見るために、拡張機能のポップアップにアラートタブを表示します。この機能は、多くのタブを開いているときに特に便利で、情報を把握するのに便利な方法を提供します。"
+   },
+   "alert_tabs_title": {
+      "message": "拡張機能のポップアップにアラートタブを表示"
+   },
+   "all": {
+      "message": "すべて"
+   },
+   "allow_incognito": {
+      "message": "シークレットモードで許可する"
+   },
+   "annual_plan": {
+      "message": "年間プラン"
+   },
+   "any_change": {
+      "message": "任意の変更"
+   },
+   "any_msg": {
+      "message": "Auto Refresh Plus は、このサイトに変更があったときに通知します。"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "強力なページモニタリング機能を備えた自動ページ更新。"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | ページモニター"
+   },
+   "are_you_sure": {
+      "message": "本当に削除しますか？"
+   },
+   "as_msg4": {
+      "message": "Auto Refresh Plus は、これらの URL がブラウザで開かれると自動的にページのリロード機能を開始します。また、ブラウザが再起動したときにもこれらの URL を開き、指定された間隔で自動的に更新を開始します。"
+   },
+   "as_title": {
+      "message": "自動起動 URL"
+   },
+   "assign_hotkeys": {
+      "message": "ホットキーを割り当てる"
+   },
+   "ast": {
+      "message": "タイマー"
+   },
+   "ast_msg1": {
+      "message": "これらの URL が開かれると自動的に更新を開始します。1 行に 1 つの URL 例:"
+   },
+   "ast_msg2": {
+      "message": "ブラウザが再起動したときにこれらの URL の更新を自動的に開始します。"
+   },
+   "ast_specific_time": {
+      "message": "特定の時間を選択"
+   },
+   "auto_clicker": {
+      "message": "自動クリック"
+   },
+   "auto_clicker_msg1": {
+      "message": "リンクを自動クリック"
+   },
+   "auto_clicker_msg2": {
+      "message": "(監視対象のテキストまたは正規表現にリンクがある場合)"
+   },
+   "auto_start": {
+      "message": "自動開始"
+   },
+   "bad": {
+      "message": "悪い"
+   },
+   "blacklist": {
+      "message": "ブラックリスト"
+   },
+   "bulk_keywords_msg": {
+      "message": "大量のキーワードの場合、各コンマの後にスペースを使用してください"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cancel_timer": {
+      "message": "タイマーをキャンセル"
+   },
+   "canonical_url": {
+      "message": "カノニカル URL"
+   },
+   "change_site_desc": {
+      "message": "Auto Refresh Plusが実行中にウェブサイトのURLが変更された場合、新しいURLに従うか元のURLに留まるように自動的に更新されます。これにより、中断なくページが正しく更新され続けます。"
+   },
+   "change_site_title": {
+      "message": "URL変更/リダイレクトの処理"
+   },
+   "choose_plan": {
+      "message": "プランを選択"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "ja"
+   },
+   "congratulations": {
+      "message": "おめでとうございます"
+   },
+   "contact_us": {
+      "message": "お問い合わせ"
+   },
+   "continue_without_login": {
+      "message": "ログインせずに続行"
+   },
+   "contribution": {
+      "message": "貢献"
+   },
+   "copyright": {
+      "message": "全著作権所有。"
+   },
+   "countdown": {
+      "message": "カウントダウン"
+   },
+   "countdown_mode": {
+      "message": "カウントダウンモード"
+   },
+   "cs_t1": {
+      "message": "URL が開かれたとき"
+   },
+   "cs_t2": {
+      "message": "ページが更新されるたびに"
+   },
+   "cs_t3": {
+      "message": "ページモニターがターゲットテキストを検出したとき"
+   },
+   "cs_t4": {
+      "message": "ページモニターがターゲットテキストを見失ったとき"
+   },
+   "cs_t5": {
+      "message": "任意の変更があったとき"
+   },
+   "cs_t6": {
+      "message": "ページの読み込み前に注入"
+   },
+   "cs_t7": {
+      "message": "ページの読み込み後に注入"
+   },
+   "custom": {
+      "message": "カスタム"
+   },
+   "custom_monitor": {
+      "message": "カスタムモニター"
+   },
+   "custom_scripts": {
+      "message": "カスタムスクリプト"
+   },
+   "date": {
+      "message": "日付"
+   },
+   "deep_source": {
+      "message": "ディープソース"
+   },
+   "default_target_input": {
+      "message": "複数のテキスト/正規表現をサポートし、Enter を押して別のものを追加します。"
+   },
+   "default_target_text": {
+      "message": "デフォルトのターゲットテキスト"
+   },
+   "default_timerinterval": {
+      "message": "デフォルトの時間間隔"
+   },
+   "delete": {
+      "message": "削除"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus は、このサイトに変更があったときに検出しました。"
+   },
+   "detect_any_change_title": {
+      "message": "ページモニター"
+   },
+   "developer_mode": {
+      "message": "開発者モードは許可されていません。"
+   },
+   "developer_mode_msg": {
+      "message": "セキュリティと安定性のため、開発者モードは許可されていません。\u003Cbr> 最新で最も安全なバージョンを確保するために、公式ストアから拡張機能をダウンロードしてインストールしてください。"
+   },
+   "devices": {
+      "message": "デバイス"
+   },
+   "dismiss": {
+      "message": "閉じる"
+   },
+   "domain": {
+      "message": "ドメイン"
+   },
+   "donate": {
+      "message": "寄付する"
+   },
+   "donation": {
+      "message": "寄付"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>Auto Refresh Plus チームからのご挨拶。\u003C/b> \u003Cbr>Auto Refresh Plus が役立つと感じた場合は、作者に寄付を検討してください。"
+   },
+   "donation_msg2": {
+      "message": "すでに寄付しました。"
+   },
+   "done": {
+      "message": "完了"
+   },
+   "download_in_store": {
+      "message": "ストアでダウンロード"
+   },
+   "email": {
+      "message": "メール"
+   },
+   "email_alert": {
+      "message": "メール通知アラート"
+   },
+   "email_msg": {
+      "message": "この設定はメールを追加するためのものです。メール通知を受け取るには、各ウェブページの拡張ポップアップ > ページモニターセクションで \u003Cb>メール通知を受け取る\u003C/b> を有効にします。"
+   },
+   "email_sent_to": {
+      "message": "確認コードが送信されました:"
+   },
+   "enable_ri": {
+      "message": "ランダム間隔を有効にする"
+   },
+   "enable_tf": {
+      "message": "この機能を有効にする"
+   },
+   "enter_code_title": {
+      "message": "確認コードを入力"
+   },
+   "enter_email": {
+      "message": "メールアドレスを入力"
+   },
+   "exact": {
+      "message": "正確な URL"
+   },
+   "expire": {
+      "message": "有効期限"
+   },
+   "export": {
+      "message": "エクスポート"
+   },
+   "export_desc": {
+      "message": "設定を保存するために、Auto Refresh Plus の設定をエクスポートして、後で同じコンピュータまたは別のコンピュータに復元します。"
+   },
+   "export_option": {
+      "message": "エクスポートオプション"
+   },
+   "export_settings": {
+      "message": "設定のバックアップ"
+   },
+   "extension_updated": {
+      "message": "拡張機能が更新されました"
+   },
+   "feature_1": {
+      "message": "複数のデバイスで設定を同期"
+   },
+   "feature_2": {
+      "message": "視覚タイマーを表示"
+   },
+   "feature_3": {
+      "message": "カスタムスクリプトのサポート"
+   },
+   "feature_4": {
+      "message": "その他..."
+   },
+   "feature_request": {
+      "message": "機能リクエスト"
+   },
+   "find_mtr_msg": {
+      "message": "テキストをモニター内で見つける"
+   },
+   "focus_description": {
+      "message": "ページモニターがキーワードを見つけた場合や失った場合にウィンドウフォーカスを有効にします。この機能により、指定されたキーワードが検出または失われるたびにウィンドウが自動的に画面の最前面に表示されます。"
+   },
+   "focus_title": {
+      "message": "キーワード検出時にウィンドウフォーカスを有効にする"
+   },
+   "found": {
+      "message": "見つかりました"
+   },
+   "free": {
+      "message": "無料"
+   },
+   "full_page": {
+      "message": "ページ全体の更新"
+   },
+   "full_page_help": {
+      "message": "Auto Refresh Plus は、このページに変更があったときに通知します。"
+   },
+   "good": {
+      "message": "良い"
+   },
+   "great": {
+      "message": "素晴らしい!"
+   },
+   "hard_refresh": {
+      "message": "ハードリフレッシュ"
+   },
+   "hard_refresh_msg": {
+      "message": "(キャッシュされたデータに依存せずにページをリロードする)"
+   },
+   "help_center": {
+      "message": "ヘルプセンター"
+   },
+   "home": {
+      "message": "ホーム"
+   },
+   "hotkeys": {
+      "message": "ホットキー"
+   },
+   "hotkeys_msg1": {
+      "message": "時間間隔を開始"
+   },
+   "hotkeys_msg2": {
+      "message": "ランダム間隔を開始"
+   },
+   "hotkeys_msg3": {
+      "message": "タイマーモードを開始"
+   },
+   "hotkeys_msg4": {
+      "message": "時間間隔を停止"
+   },
+   "hotkeys_msg5": {
+      "message": "通知音を停止"
+   },
+   "hotkeys_title": {
+      "message": "ホットキーを割り当てる"
+   },
+   "hour": {
+      "message": "時間"
+   },
+   "hours": {
+      "message": "時間"
+   },
+   "howto": {
+      "message": "方法"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plusは、企業の特定のニーズに合わせたソリューションを提供します。私たちのチームは、特定のウェブページ上で特定のアクションを実行するためのカスタムスクリプトを作成できます。カスタムソリューションは追加料金が発生し、料金は複雑さに基づいて決定されます。詳細なニーズを話し合うためにご連絡ください。"
+   },
+   "idea_cs_general_desc": {
+      "message": "あなたのスクリプトが他のユーザーのニーズも満たす場合、無料で作成し、Auto Refresh Plusスクリプトマーケットプレイスに公開します。"
+   },
+   "idea_cs_title": {
+      "message": "カスタムスクリプトのアイデアはありますか？"
+   },
+   "idea_custom_scripts_business": {
+      "message": "独自のニーズを持つ企業向けのカスタムソリューション"
+   },
+   "idea_custom_scripts_general": {
+      "message": "一般公開アイデア"
+   },
+   "ignore_input_field": {
+      "message": "入力フィールドの操作を無視"
+   },
+   "ignore_input_field_desc": {
+      "message": "入力フィールドをクリックしたり入力したりしても更新を続行します。"
+   },
+   "images": {
+      "message": "画像"
+   },
+   "import": {
+      "message": "インポート"
+   },
+   "import_desc": {
+      "message": "設定を保存するために、Auto Refresh Plus の設定をインポートボタンを使用して復元します。これにより、同じコンピュータまたは別のコンピュータで設定を復元できます。"
+   },
+   "import_option": {
+      "message": "インポートオプション"
+   },
+   "interactions_msg": {
+      "message": "Auto Refresh Plusは、マウスをクリックしたりキーボードを使用したりするとページの更新を一時停止します。この機能をすべてのウェブサイトに対してここで有効にするか、拡張機能のポップアップから個々のページ/ウェブサイトに対して有効にします。"
+   },
+   "interactions_msg_opt": {
+      "message": "ページとやり取りしたり、入力フィールドに入力を開始した場合、自動的に更新を一時停止します。"
+   },
+   "interactions_title_opt": {
+      "message": "ユーザーの操作で更新を停止"
+   },
+   "invalid_code_email": {
+      "message": "提供された確認コードが無効です。"
+   },
+   "just_now": {
+      "message": "たった今"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus はアクティブですが、主要機能が不足しています。"
+   },
+   "keyword_found": {
+      "message": "キーワードが見つかりました"
+   },
+   "lang_code": {
+      "message": "ja"
+   },
+   "logout": {
+      "message": "ログアウト"
+   },
+   "lost": {
+      "message": "見失った"
+   },
+   "loved": {
+      "message": "大好き!"
+   },
+   "manage_plan": {
+      "message": "プランを管理"
+   },
+   "max": {
+      "message": "最大"
+   },
+   "min": {
+      "message": "最小"
+   },
+   "minute": {
+      "message": "分"
+   },
+   "minutes": {
+      "message": "分"
+   },
+   "monitor_full_page": {
+      "message": "ページ全体を監視"
+   },
+   "month": {
+      "message": "月"
+   },
+   "monthly_plan": {
+      "message": "月間プラン"
+   },
+   "msg_pm": {
+      "message": "表示するタブがありません"
+   },
+   "name_required": {
+      "message": "名前が必要です。"
+   },
+   "never_playsound": {
+      "message": "通知音を再生しない"
+   },
+   "new_url": {
+      "message": "新しい URL"
+   },
+   "no_credit_card": {
+      "message": "クレジットカードは不要"
+   },
+   "not_allowed": {
+      "message": "ここでの使用は許可されていません。"
+   },
+   "not_allowed_to_use": {
+      "message": "この機能を使用することは許可されていません。"
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus は $action$ ターゲットテキストを検出しました。",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "ターゲットテキスト！"
+   },
+   "notification_settings": {
+      "message": "通知設定"
+   },
+   "notifications": {
+      "message": "通知"
+   },
+   "notifications_moved_msg": {
+      "message": "通知設定は別のセクションに移動されました"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "okay": {
+      "message": "まあまあ"
+   },
+   "open_link_tab": {
+      "message": "新しいタブでリンクを開く"
+   },
+   "opt_msg1": {
+      "message": "URL が開かれるときに更新"
+   },
+   "opt_msg10": {
+      "message": "通知が届くと、短い音が再生されて通知されます。この設定をカスタマイズして、音をオフにするか、通知用に再生する別の音を選択できます。"
+   },
+   "opt_msg11": {
+      "message": "通知が届いたときに再生される音の最大持続時間をカスタマイズします。"
+   },
+   "opt_msg12": {
+      "message": "ウェブサイトがページモニターの設定に従って変更されたときにメール通知を受け取ります。これにより、サイトを常に確認することなく、変更内容を最新の状態に保つことができます。"
+   },
+   "opt_msg13": {
+      "message": "ページ上でカスタムスクリプトを実行"
+   },
+   "opt_msg14": {
+      "message": "自動化やスクレイピング、ウェブサイトのデフォルト動作を変更することが好きで、JavaScript の基本知識を持っている場合、ここで多くのことができます。"
+   },
+   "opt_msg15": {
+      "message": "許可される URL パターン"
+   },
+   "opt_msg16": {
+      "message": "HTTP と HTTPS の両方に一致させるには、example.com と入力します"
+   },
+   "opt_msg17": {
+      "message": "ドメイン内のすべてのページに一致させるには、example.com/* と入力します"
+   },
+   "opt_msg18": {
+      "message": "ドメインおよびそのサブドメイン内のすべてのページに一致させるには、*.example.com/* と入力します"
+   },
+   "opt_msg19": {
+      "message": "Auto Refresh Plus のアクションに対してカスタムキーボードショートカットを設定"
+   },
+   "opt_msg2": {
+      "message": "これらの URL が開かれると自動的に更新を開始"
+   },
+   "opt_msg20": {
+      "message": "Auto Refresh Plus の設定をリセット"
+   },
+   "opt_msg21": {
+      "message": "\u003Cb>本当に\u003C/b> Auto Refresh Plus のすべての設定をデフォルト値に戻しますか？"
+   },
+   "opt_msg22": {
+      "message": "おめでとうございます！ Auto Refresh Plus が正常にインストールされました"
+   },
+   "opt_msg3": {
+      "message": "ここに 1 つまたは複数のキーワードを挿入し、ウェブページに表示されたときに Auto Refresh Plus が自動的にデフォルトの間隔でページを更新し始めます。"
+   },
+   "opt_msg4": {
+      "message": "特定の URL をここに入力して、現在使用しているタブの代わりにその URL を更新します。例えば、設定に Google.com を保存して、Yahoo.com にいるときに自動更新を開始すると、Google.com が更新され、表示しているページが更新されるのではなくなります。"
+   },
+   "opt_msg5": {
+      "message": "カウントダウンモードを有効にする"
+   },
+   "opt_msg6": {
+      "message": "特定の時間が経過した後に特定のページでページの更新を実行する、Auto Refresh Plus のカウントダウンタイマーがこれを可能にします。有効にして時間を設定すると、カウントダウンタイマーが開始されます。カウントダウンがゼロに達すると、Auto Refresh Plus が再びページをデフォルトの間隔で更新し始めます。"
+   },
+   "opt_msg7": {
+      "message": "Auto Refresh Plus のポップアップにカウントダウンモードが追加されました"
+   },
+   "opt_msg8": {
+      "message": "ここにデフォルトの監視キーワードを追加します。拡張機能のポップアップから各ウェブサイトごとにカスタムキーワードも追加できます。"
+   },
+   "opt_msg9": {
+      "message": "特定のウェブページが定義されたキーワードを見つけたり失ったりしたときに自動的に通知を受け取ります。"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "other_options": {
+      "message": "その他のオプション"
+   },
+   "other_products": {
+      "message": "他の製品"
+   },
+   "page_monitor": {
+      "message": "ページモニター"
+   },
+   "paused": {
+      "message": "一時停止中"
+   },
+   "play_for": {
+      "message": "再生時間"
+   },
+   "play_onlyonce": {
+      "message": "一度だけ再生"
+   },
+   "play_sound": {
+      "message": "プッシュ通知のサウンド再生設定"
+   },
+   "playsound_candidate": {
+      "message": "サウンド候補 1 (1 秒)"
+   },
+   "playsound_candidate2": {
+      "message": "サウンド候補 2 (6 秒)"
+   },
+   "playsound_msg1": {
+      "message": "URL から音を再生"
+   },
+   "please_rateus": {
+      "message": "評価をお願いします"
+   },
+   "please_upgrade": {
+      "message": "プランをアップグレードしてください。"
+   },
+   "pm_input1": {
+      "message": "例：sold out, expired, out of stock"
+   },
+   "pm_msg2": {
+      "message": "通知ボックスをクリックするまで再生"
+   },
+   "pmp": {
+      "message": "ページモニターパターン"
+   },
+   "pmp_msg1": {
+      "message": "\u003Cb>見つかった\u003C/b> ターゲットテキスト (または正規表現) のポップアップ通知"
+   },
+   "pmp_msg2": {
+      "message": "\u003Cb>失われた\u003C/b> ターゲットテキスト (または正規表現) のポップアップ通知"
+   },
+   "predefined": {
+      "message": "事前定義"
+   },
+   "predefined_text": {
+      "message": "事前定義テキスト"
+   },
+   "predefined_url": {
+      "message": "事前定義 URL"
+   },
+   "predefined_url_alert": {
+      "message": "「事前定義されたURLの更新」機能を有効にすると、すべての自動更新機能がこの入力フィールドに記載された指定されたURLに制限されます。この機能がアクティブな場合、他のURLを更新することはできません。"
+   },
+   "premium": {
+      "message": "プレミアム"
+   },
+   "r_browser": {
+      "message": "ブラウザの再起動時に更新"
+   },
+   "random_interval": {
+      "message": "ランダム間隔"
+   },
+   "random_interval_warning": {
+      "message": "最小値は最大値より小さくする必要があります。"
+   },
+   "rate_us": {
+      "message": "評価する"
+   },
+   "rateus_title": {
+      "message": "この拡張機能を評価する"
+   },
+   "ratings": {
+      "message": "評価"
+   },
+   "ratings_msg": {
+      "message": "ウェブストアで五つ星評価をお願いします。"
+   },
+   "ratings_msg2": {
+      "message": "もちろん！ 始めましょう"
+   },
+   "read_more": {
+      "message": "もっと読む"
+   },
+   "receive_emails_alerts": {
+      "message": "メールアラートを受け取る"
+   },
+   "refresh_number": {
+      "message": "更新回数を設定"
+   },
+   "refresh_number_msg": {
+      "message": "(何回更新するかを設定します。)"
+   },
+   "refresh_type": {
+      "message": "更新タイプ"
+   },
+   "remove_email": {
+      "message": "メールを削除"
+   },
+   "reset": {
+      "message": "設定をリセット"
+   },
+   "reset_alert_msg": {
+      "message": "すべての設定をデフォルト値にリセットしてもよろしいですか？ この操作は取り消せません。確実な場合は、以下の入力フィールドに \u003Cb>RESET\u003C/b> と入力してください。"
+   },
+   "restart_msg": {
+      "message": "キーワード検出時の更新を続行"
+   },
+   "restart_opt_msg": {
+      "message": "Auto Refresh Plusは、監視されたキーワードが見つかった場合や失われた場合でもページの更新を続行します。ページモニターの設定に応じて、通知、メール、ベルがトリガーされます。"
+   },
+   "retain_desc": {
+      "message": "アラートタブの記録を自動的に消える前に保持する時間を選択します。"
+   },
+   "retain_title": {
+      "message": "アラートタブを保持"
+   },
+   "rpp": {
+      "message": "事前定義ページを更新"
+   },
+   "rpp_body": {
+      "message": "事前定義ページの内容を更新"
+   },
+   "rpp_msg1": {
+      "message": "(例: google.com)"
+   },
+   "rpp_title": {
+      "message": "事前定義ページを更新"
+   },
+   "rpt": {
+      "message": "事前定義テキストを更新"
+   },
+   "rpt_body": {
+      "message": "事前定義テキストの内容を更新"
+   },
+   "rpt_input1": {
+      "message": "複数のテキスト/正規表現をサポートし、Enter を押して別のものを追加します。"
+   },
+   "rpt_title": {
+      "message": "事前定義テキストを更新"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "scroll_to_keyword": {
+      "message": "キーワード位置にスクロール"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "指定されたキーワードが見つかったときにページを自動的にその位置にスクロールします。"
+   },
+   "seconds": {
+      "message": "秒"
+   },
+   "select_countdown": {
+      "message": "カウントダウンを選択"
+   },
+   "select_date": {
+      "message": "日付を選択"
+   },
+   "select_time": {
+      "message": "時間を選択"
+   },
+   "sendtopm": {
+      "message": "ページモニターに送信"
+   },
+   "set_autoclick": {
+      "message": "AutoClick を設定"
+   },
+   "set_hotkey": {
+      "message": "ホットキーを設定"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "settings_exported": {
+      "message": "設定が正常にエクスポートされました"
+   },
+   "settings_imported": {
+      "message": "設定が正常にインポートされました"
+   },
+   "show_tab": {
+      "message": "タブを表示"
+   },
+   "sign_in": {
+      "message": "サインイン"
+   },
+   "sign_up": {
+      "message": "サインアップ"
+   },
+   "sign_up_desc": {
+      "message": "次の特典を解除するために今すぐ登録してください："
+   },
+   "sound_length": {
+      "message": "サウンドの長さ"
+   },
+   "source": {
+      "message": "ソース"
+   },
+   "source_msg": {
+      "message": "(HTML ソースコード内のインラインテキストを検索します。)"
+   },
+   "specific_timemode": {
+      "message": "特定の時間モード (例: 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "開始"
+   },
+   "start_timer": {
+      "message": "タイマーを開始"
+   },
+   "start_timer_body": {
+      "message": "タイマー内容を開始"
+   },
+   "start_timer_title": {
+      "message": "タイマーを開始"
+   },
+   "status": {
+      "message": "ステータス"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "stop_refresh_click": {
+      "message": "マウスクリックで更新を停止"
+   },
+   "stop_refresh_click_desc": {
+      "message": "マウスをクリックするたびに自動更新を一時停止します。"
+   },
+   "stop_refresh_keyboard": {
+      "message": "キーボード操作で更新を停止"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "任意のキーを押すたびに自動更新を一時停止します。"
+   },
+   "stop_sound": {
+      "message": "サウンドを停止"
+   },
+   "subscribe_pay": {
+      "message": "サブスクライブして支払う"
+   },
+   "success": {
+      "message": "設定が正常に保存されました"
+   },
+   "supported_expressions": {
+      "message": "サポートされる式"
+   },
+   "tabs_alerts": {
+      "message": "アラートのあるタブ"
+   },
+   "tabs_refreshing": {
+      "message": "アクティブな更新タブ"
+   },
+   "temporary_pause": {
+      "message": "指定された期間の操作で自動更新を一時停止"
+   },
+   "temporary_pause_desc": {
+      "message": "マウスクリックやキーボードのアクティビティで自動更新を一時停止し、その期間中に操作が検出されなければ自動的に再開します。"
+   },
+   "test_play": {
+      "message": "テスト再生"
+   },
+   "thankyou": {
+      "message": "ありがとうございます"
+   },
+   "ti_msg1": {
+      "message": "各ページ更新のデフォルト時間を設定します。拡張機能のポップアップから事前定義された時間間隔を選択するか、カスタム時間間隔を提供できます。"
+   },
+   "ti_msg2": {
+      "message": "Auto Refresh Plus が実行する各ページ更新の時間間隔をランダム化します。最小時間と最大時間を選択するだけで、拡張機能が定義された範囲内で自動ページ更新を実行します。"
+   },
+   "ti_msg3": {
+      "message": "Auto Refresh Plus のポップアップにランダム間隔機能が追加されました"
+   },
+   "time": {
+      "message": "時間"
+   },
+   "time_interval": {
+      "message": "時間間隔"
+   },
+   "timer_mode": {
+      "message": "タイマーモード"
+   },
+   "unlimited": {
+      "message": "無制限"
+   },
+   "unsubscribe": {
+      "message": "登録解除"
+   },
+   "unsubscribe_alert": {
+      "message": "登録を解除してもよろしいですか？"
+   },
+   "unsubscribe_success": {
+      "message": "正常に登録解除されました"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus がバージョンに更新されました"
+   },
+   "up_msg2": {
+      "message": "オプションにリスタートモードを追加"
+   },
+   "up_msg3": {
+      "message": "オプションにインタラクションモードを追加"
+   },
+   "up_msg4": {
+      "message": "ページモニターにテキストを追加するコンテキストメニュー"
+   },
+   "up_msg5": {
+      "message": "ページの完全更新なしで更新"
+   },
+   "up_msg6": {
+      "message": "タブモニターを追加"
+   },
+   "up_msg7": {
+      "message": "視覚カウンターを追加"
+   },
+   "up_msg8": {
+      "message": "軽微なバグ修正"
+   },
+   "up_msg9": {
+      "message": "理解しました"
+   },
+   "use_default": {
+      "message": "デフォルトのキーワードを使用"
+   },
+   "verify": {
+      "message": "確認する"
+   },
+   "verify_email_msg": {
+      "message": "メールが正常に確認されました"
+   },
+   "visual": {
+      "message": "視覚的"
+   },
+   "visual_msg": {
+      "message": "(画面上で見えるテキスト内を検索します。)"
+   },
+   "visual_timer_desc": {
+      "message": "視覚タイマーがページ上に表示される位置を制御します。視覚カウンターを表示するための最適な位置を選択してください。"
+   },
+   "visual_timer_msg": {
+      "message": "ウェブページに視覚タイマーを表示"
+   },
+   "visual_timer_msg_opt": {
+      "message": "デフォルトでは、更新するすべてのページに視覚タイマーを有効にします。無効にした場合、この機能を拡張機能のポップアップから個別に有効にすることができます。"
+   },
+   "visual_timer_title": {
+      "message": "視覚タイマーの位置制御"
+   },
+   "visual_timer_title_opt": {
+      "message": "デフォルトで視覚タイマーを有効にする"
+   },
+   "volume": {
+      "message": "音量"
+   },
+   "whats_new": {
+      "message": "新着情報"
+   },
+   "whitelist": {
+      "message": "ホワイトリスト"
+   },
+   "wildcard_not_supported": {
+      "message": "ワイルドカードURLはブラウザの再起動時にはサポートされません。"
+   },
+   "without_full": {
+      "message": "XHR 更新"
+   },
+   "without_msg1": {
+      "message": "なし"
+   },
+   "without_msg2": {
+      "message": "ボタンを自動クリックするにはどうすればいいですか？"
+   },
+   "xhr_page_help": {
+      "message": "ページ全体を更新せずに URL からデータを取得します。これにより、ユーザーの操作を妨げることなくページの一部を更新できます。"
+   },
+   "xhr_refresh": {
+      "message": "XHR 更新"
+   },
+   "year": {
+      "message": "年"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "この機能の制限を超えました。"
+   },
+   "you_have_an_account": {
+      "message": "アカウントをお持ちですか？"
+   },
+   "your_plan": {
+      "message": "あなたのプラン"
+   }
+}

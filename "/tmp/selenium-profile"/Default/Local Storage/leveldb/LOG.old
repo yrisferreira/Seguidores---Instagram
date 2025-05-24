@@ -1,0 +1,8 @@
+2025/05/23-23:07:52.153 4e70d Creating DB /Users/yrisfereira/Documents/automacao/"/tmp/selenium-profile"/Default/Local Storage/leveldb since it was missing.
+2025/05/23-23:07:52.165 4e70d Reusing MANIFEST /Users/yrisfereira/Documents/automacao/"/tmp/selenium-profile"/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/23-23:09:26.458 4e710 Level-0 table #5: started
+2025/05/23-23:09:26.469 4e710 Level-0 table #5: 111835 bytes OK
+2025/05/23-23:09:26.490 4e710 Delete type=0 #3
+2025/05/23-23:09:34.726 4e710 Level-0 table #7: started
+2025/05/23-23:09:34.742 4e710 Level-0 table #7: 105069 bytes OK
+2025/05/23-23:09:34.769 4e710 Delete type=0 #4

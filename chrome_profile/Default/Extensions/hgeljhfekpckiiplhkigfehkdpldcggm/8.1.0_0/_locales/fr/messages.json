@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "Compte"
+   },
+   "active": {
+      "message": "Onglets actifs"
+   },
+   "active_subscription": {
+      "message": "Actif"
+   },
+   "active_title": {
+      "message": "Liste des onglets actifs"
+   },
+   "add_email": {
+      "message": "Ajouter un e-mail"
+   },
+   "add_keywords": {
+      "message": "Ajouter des mots-clés cibles par défaut"
+   },
+   "add_new": {
+      "message": "Ajouter nouveau"
+   },
+   "advanced": {
+      "message": "Avancé"
+   },
+   "alert_msg1": {
+      "message": "Paramètres réinitialisés avec succès"
+   },
+   "alert_msg2": {
+      "message": "Félicitations ! Auto Refresh Plus installé avec succès"
+   },
+   "alert_tabs_desc": {
+      "message": "Affichez les onglets d'alerte dans le popup de l'extension pour voir les mises à jour ou les changements effectués par le moniteur de page. Cette fonction offre un moyen pratique de rester informé, surtout lorsque vous avez de nombreux onglets ouverts."
+   },
+   "alert_tabs_title": {
+      "message": "Afficher les Onglets d'Alerte dans le Popup de l'Extension"
+   },
+   "all": {
+      "message": "Tout"
+   },
+   "allow_incognito": {
+      "message": "Autoriser en mode incognito"
+   },
+   "annual_plan": {
+      "message": "Plan annuel"
+   },
+   "any_change": {
+      "message": "Tout changement"
+   },
+   "any_msg": {
+      "message": "Auto Refresh Plus vous notifiera lorsque des changements se produisent sur ce site web."
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Actualisez automatiquement la page avec des fonctionnalités puissantes de surveillance de page."
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Moniteur de page"
+   },
+   "are_you_sure": {
+      "message": "Êtes-vous sûr de vouloir supprimer ?"
+   },
+   "as_msg4": {
+      "message": "Auto Refresh Plus démarrera automatiquement la fonction de rechargement de la page lorsque ces URL seront ouvertes dans votre navigateur. Il ouvre également toutes ces URL lorsque votre navigateur redémarre et commence à actualiser automatiquement à l'intervalle souhaité."
+   },
+   "as_title": {
+      "message": "URLs de démarrage automatique"
+   },
+   "assign_hotkeys": {
+      "message": "Attribuer des raccourcis clavier"
+   },
+   "ast": {
+      "message": "Minuteur"
+   },
+   "ast_msg1": {
+      "message": "Commencez automatiquement à actualiser lorsque ces URL sont ouvertes. Une URL par ligne, par ex."
+   },
+   "ast_msg2": {
+      "message": "Commencez automatiquement à actualiser ces URL lorsque le navigateur redémarre."
+   },
+   "ast_specific_time": {
+      "message": "Sélectionnez l'heure spécifique"
+   },
+   "auto_clicker": {
+      "message": "Cliqueur automatique"
+   },
+   "auto_clicker_msg1": {
+      "message": "Cliquez automatiquement sur le lien"
+   },
+   "auto_clicker_msg2": {
+      "message": "(Si le texte ou regex surveillé a un lien)"
+   },
+   "auto_start": {
+      "message": "Démarrage automatique"
+   },
+   "bad": {
+      "message": "Mauvais"
+   },
+   "blacklist": {
+      "message": "Liste noire"
+   },
+   "bulk_keywords_msg": {
+      "message": "Pour les mots-clés en masse, utilisez un espace après chaque virgule"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "cancel_timer": {
+      "message": "Annuler le minuteur"
+   },
+   "canonical_url": {
+      "message": "URL canonique"
+   },
+   "change_site_desc": {
+      "message": "Si l'URL du site web change pendant que Auto Refresh Plus est en cours d'exécution, il se mettra automatiquement à jour pour suivre la nouvelle URL ou restera sur l'URL d'origine. Cela garantit que la page continue de se rafraîchir correctement sans interruption."
+   },
+   "change_site_title": {
+      "message": "Gestion des Changements d'URL / Redirections"
+   },
+   "choose_plan": {
+      "message": "Choisissez votre plan"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "fr"
+   },
+   "congratulations": {
+      "message": "Félicitations"
+   },
+   "contact_us": {
+      "message": "Contactez-nous"
+   },
+   "continue_without_login": {
+      "message": "Continuer sans se connecter"
+   },
+   "contribution": {
+      "message": "Contribution"
+   },
+   "copyright": {
+      "message": "Tous droits réservés."
+   },
+   "countdown": {
+      "message": "Compte à rebours"
+   },
+   "countdown_mode": {
+      "message": "Mode compte à rebours"
+   },
+   "cs_t1": {
+      "message": "Lorsque l'URL s'ouvre"
+   },
+   "cs_t2": {
+      "message": "À chaque actualisation de la page"
+   },
+   "cs_t3": {
+      "message": "Lorsque le moniteur de page trouve le texte cible"
+   },
+   "cs_t4": {
+      "message": "Lorsque le moniteur de page perd le texte cible"
+   },
+   "cs_t5": {
+      "message": "Lorsque tout changement se produit"
+   },
+   "cs_t6": {
+      "message": "Injecter avant le chargement de la page"
+   },
+   "cs_t7": {
+      "message": "Injecter après le chargement de la page"
+   },
+   "custom": {
+      "message": "Personnalisé"
+   },
+   "custom_monitor": {
+      "message": "Moniteur personnalisé"
+   },
+   "custom_scripts": {
+      "message": "Scripts personnalisés"
+   },
+   "date": {
+      "message": "Date"
+   },
+   "deep_source": {
+      "message": "Source profonde"
+   },
+   "default_target_input": {
+      "message": "Texte/regex multiples pris en charge, appuyez sur Entrée pour en ajouter un autre."
+   },
+   "default_target_text": {
+      "message": "Texte cible par défaut"
+   },
+   "default_timerinterval": {
+      "message": "Intervalle de temps par défaut"
+   },
+   "delete": {
+      "message": "Supprimer"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus a détecté un changement sur ce site web."
+   },
+   "detect_any_change_title": {
+      "message": "Moniteur de page"
+   },
+   "developer_mode": {
+      "message": "Le mode développeur n'est pas autorisé."
+   },
+   "developer_mode_msg": {
+      "message": "Pour des raisons de sécurité et de stabilité, le mode développeur n'est pas autorisé.\u003Cbr> Veuillez télécharger et installer l'extension depuis le magasin officiel pour vous assurer d'avoir la version la plus récente et la plus sécurisée."
+   },
+   "devices": {
+      "message": "Appareils"
+   },
+   "dismiss": {
+      "message": "Ignorer"
+   },
+   "domain": {
+      "message": "Domaine"
+   },
+   "donate": {
+      "message": "Faire un don"
+   },
+   "donation": {
+      "message": "Don"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>Bonjour de l'équipe Auto Refresh Plus.\u003C/b> \u003Cbr>Si vous avez trouvé Auto Refresh Plus utile, envisagez de faire un don à l'auteur."
+   },
+   "donation_msg2": {
+      "message": "Je l'ai déjà fait."
+   },
+   "done": {
+      "message": "Fait"
+   },
+   "download_in_store": {
+      "message": "Télécharger dans le magasin"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_alert": {
+      "message": "Alertes de Notification par E-mail"
+   },
+   "email_msg": {
+      "message": "Veuillez noter que ce paramètre est uniquement destiné à ajouter un e-mail. Pour recevoir des alertes par e-mail, activez \u003Cb>Recevoir une alerte par e-mail\u003C/b> dans le popup de l'extension > section du moniteur de page pour chaque page web."
+   },
+   "email_sent_to": {
+      "message": "Un code de vérification a été envoyé à"
+   },
+   "enable_ri": {
+      "message": "Activer l'intervalle aléatoire"
+   },
+   "enable_tf": {
+      "message": "Activer cette fonctionnalité"
+   },
+   "enter_code_title": {
+      "message": "Entrer le code de vérification"
+   },
+   "enter_email": {
+      "message": "Entrez l'adresse e-mail"
+   },
+   "exact": {
+      "message": "URL exacte"
+   },
+   "expire": {
+      "message": "Expiration"
+   },
+   "export": {
+      "message": "Exporter"
+   },
+   "export_desc": {
+      "message": "Pour conserver vos paramètres, exportez votre configuration Auto Refresh Plus et restaurez-la plus tard sur le même ou un autre ordinateur."
+   },
+   "export_option": {
+      "message": "Option d'exportation"
+   },
+   "export_settings": {
+      "message": "Sauvegarde des Paramètres"
+   },
+   "extension_updated": {
+      "message": "Extension mise à jour vers"
+   },
+   "feature_1": {
+      "message": "Synchroniser les paramètres sur plusieurs appareils"
+   },
+   "feature_2": {
+      "message": "Afficher le minuteur visuel"
+   },
+   "feature_3": {
+      "message": "Prise en charge des scripts personnalisés"
+   },
+   "feature_4": {
+      "message": "Et plus encore..."
+   },
+   "feature_request": {
+      "message": "Demandes de fonctionnalités"
+   },
+   "find_mtr_msg": {
+      "message": "Trouver le texte du moniteur dans"
+   },
+   "focus_description": {
+      "message": "Activez la mise au point de la fenêtre lorsque le Moniteur de Page trouve ou perd un mot-clé. Cette fonction assure que la fenêtre arrive automatiquement au premier plan de votre écran chaque fois que le mot-clé spécifié est détecté ou perdu."
+   },
+   "focus_title": {
+      "message": "Activer la Mise au Point de la Fenêtre lors de la Détection du Mot-Clé"
+   },
+   "found": {
+      "message": "Trouvé"
+   },
+   "free": {
+      "message": "Gratuit"
+   },
+   "full_page": {
+      "message": "Actualisation de page complète"
+   },
+   "full_page_help": {
+      "message": "Auto Refresh Plus vous notifiera lorsque des changements se produisent sur cette page web."
+   },
+   "good": {
+      "message": "Bon"
+   },
+   "great": {
+      "message": "Génial !"
+   },
+   "hard_refresh": {
+      "message": "Actualisation complète"
+   },
+   "hard_refresh_msg": {
+      "message": "(Recharger la page sans utiliser les données en cache)"
+   },
+   "help_center": {
+      "message": "Centre d'aide"
+   },
+   "home": {
+      "message": "Accueil"
+   },
+   "hotkeys": {
+      "message": "Raccourcis clavier"
+   },
+   "hotkeys_msg1": {
+      "message": "Démarrer l'intervalle de temps"
+   },
+   "hotkeys_msg2": {
+      "message": "Démarrer l'intervalle aléatoire"
+   },
+   "hotkeys_msg3": {
+      "message": "Démarrer le mode minuterie"
+   },
+   "hotkeys_msg4": {
+      "message": "Arrêter l'intervalle"
+   },
+   "hotkeys_msg5": {
+      "message": "Arrêter le son de notification"
+   },
+   "hotkeys_title": {
+      "message": "Attribuer des raccourcis clavier"
+   },
+   "hour": {
+      "message": "Heure"
+   },
+   "hours": {
+      "message": "Heures"
+   },
+   "howto": {
+      "message": "Comment"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plus offre des solutions sur mesure pour les besoins uniques de votre entreprise. Notre équipe peut créer des scripts personnalisés pour exécuter des actions spécifiques sur les pages Web. Veuillez noter que les solutions personnalisées sont fournies à un coût supplémentaire, avec des prix basés sur la complexité. Contactez-nous pour discuter plus en détail de vos besoins."
+   },
+   "idea_cs_general_desc": {
+      "message": "Si votre script répond également aux besoins d'autres utilisateurs, nous l'écrirons gratuitement et le publierons publiquement sur le marché des scripts Auto Refresh Plus."
+   },
+   "idea_cs_title": {
+      "message": "Avez-vous des idées pour des scripts personnalisés ?"
+   },
+   "idea_custom_scripts_business": {
+      "message": "Solutions Personnalisées pour les Entreprises ayant des Besoins Uniques"
+   },
+   "idea_custom_scripts_general": {
+      "message": "Idée Générale du Public"
+   },
+   "ignore_input_field": {
+      "message": "Ignorer les Interactions avec les Champs de Saisie"
+   },
+   "ignore_input_field_desc": {
+      "message": "Continuez à rafraîchir même lorsque vous cliquez ou tapez dans des champs de saisie."
+   },
+   "images": {
+      "message": "Images"
+   },
+   "import": {
+      "message": "Importer"
+   },
+   "import_desc": {
+      "message": "Pour conserver vos paramètres, importez votre configuration Auto Refresh Plus en utilisant le bouton d'importation. Cela vous permet de restaurer vos paramètres sur le même ordinateur ou un autre."
+   },
+   "import_option": {
+      "message": "Option d'importation"
+   },
+   "interactions_msg": {
+      "message": "Auto Refresh Plus suspendra le rafraîchissement de la page si vous cliquez avec la souris ou utilisez le clavier. Activez cette fonction ici pour tous les sites Web, ou activez-la pour des pages/sites Web individuels depuis le popup de l'extension."
+   },
+   "interactions_msg_opt": {
+      "message": "Mettre automatiquement en pause l'actualisation si vous interagissez avec la page ou commencez à taper dans un champ de saisie."
+   },
+   "interactions_title_opt": {
+      "message": "Arrêter le Rafraîchissement lors de l'Interaction de l'Utilisateur"
+   },
+   "invalid_code_email": {
+      "message": "Le code de vérification fourni est invalide."
+   },
+   "just_now": {
+      "message": "À l'instant"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus est actif, mais des fonctionnalités clés manquent."
+   },
+   "keyword_found": {
+      "message": "Mot-clé trouvé"
+   },
+   "lang_code": {
+      "message": "fr"
+   },
+   "logout": {
+      "message": "Se déconnecter"
+   },
+   "lost": {
+      "message": "Perdu"
+   },
+   "loved": {
+      "message": "J'ai adoré !"
+   },
+   "manage_plan": {
+      "message": "Gérer le plan"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "Minute"
+   },
+   "minutes": {
+      "message": "Minutes"
+   },
+   "monitor_full_page": {
+      "message": "Surveiller la page entière"
+   },
+   "month": {
+      "message": "Mois"
+   },
+   "monthly_plan": {
+      "message": "Plan mensuel"
+   },
+   "msg_pm": {
+      "message": "Aucun onglet à afficher"
+   },
+   "name_required": {
+      "message": "Le nom est requis."
+   },
+   "never_playsound": {
+      "message": "Ne jamais jouer de son"
+   },
+   "new_url": {
+      "message": "Nouvelle URL"
+   },
+   "no_credit_card": {
+      "message": "Aucune carte de crédit requise"
+   },
+   "not_allowed": {
+      "message": "Vous n'êtes pas autorisé à l'utiliser ici."
+   },
+   "not_allowed_to_use": {
+      "message": "Vous n'êtes pas autorisé à utiliser cette fonctionnalité."
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus a $action$ votre texte cible.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "Le texte cible !"
+   },
+   "notification_settings": {
+      "message": "Paramètres de Notification"
+   },
+   "notifications": {
+      "message": "Notifications"
+   },
+   "notifications_moved_msg": {
+      "message": "Les paramètres de notification ont été déplacés dans une section séparée"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "okay": {
+      "message": "Correct"
+   },
+   "open_link_tab": {
+      "message": "Ouvrir le lien dans un nouvel onglet"
+   },
+   "opt_msg1": {
+      "message": "Actualiser lors de l'ouverture des URL"
+   },
+   "opt_msg10": {
+      "message": "Lorsqu'une notification arrive, un court son sera joué pour vous alerter. Vous pouvez personnaliser ce paramètre en désactivant le son ou en choisissant un son différent à jouer pour les notifications."
+   },
+   "opt_msg11": {
+      "message": "Personnalisez la durée maximale du son qui se joue lorsqu'une notification arrive."
+   },
+   "opt_msg12": {
+      "message": "Recevez des notifications par e-mail lorsque un site web change selon les paramètres de votre moniteur de page. Cela vous assure de rester informé des modifications sans avoir à vérifier constamment le site."
+   },
+   "opt_msg13": {
+      "message": "Exécuter des scripts personnalisés sur la page"
+   },
+   "opt_msg14": {
+      "message": "Si vous aimez jouer avec l'automatisation, le scraping, changer le comportement par défaut du site web, et avez des connaissances de base en JavaScript, il y a beaucoup à faire ici."
+   },
+   "opt_msg15": {
+      "message": "Quels modèles d'URL sont autorisés"
+   },
+   "opt_msg16": {
+      "message": "Pour correspondre à HTTP et HTTPS, écrivez simplement example.com"
+   },
+   "opt_msg17": {
+      "message": "Pour correspondre à chaque page d'un domaine, écrivez example.com/*"
+   },
+   "opt_msg18": {
+      "message": "Pour correspondre à chaque page d'un domaine et de ses sous-domaines, écrivez *.example.com/*"
+   },
+   "opt_msg19": {
+      "message": "Définissez vos raccourcis clavier personnalisés pour les actions Auto Refresh Plus"
+   },
+   "opt_msg2": {
+      "message": "Démarrer automatiquement l'actualisation lorsque ces URL s'ouvrent"
+   },
+   "opt_msg20": {
+      "message": "Réinitialiser les paramètres d'Auto Refresh Plus"
+   },
+   "opt_msg21": {
+      "message": "\u003Cb>Êtes-vous sûr\u003C/b> de vouloir restaurer tous les paramètres d'Auto Refresh Plus à leurs valeurs par défaut ?"
+   },
+   "opt_msg22": {
+      "message": "Félicitations ! Auto Refresh Plus installé avec succès"
+   },
+   "opt_msg3": {
+      "message": "Insérez un ou plusieurs mots-clés ici, et dès que l'un d'eux est trouvé sur la page web, Auto Refresh Plus commencera à actualiser automatiquement la page à la fréquence de l'intervalle par défaut."
+   },
+   "opt_msg4": {
+      "message": "Entrez une URL spécifique ici pour actualiser cette URL, plutôt que l'onglet actuel que vous utilisez. Par exemple, si vous enregistrez Google.com dans les paramètres et commencez ensuite l'actualisation automatique tout en étant sur Yahoo.com, Google.com sera actualisé, plutôt que la page que vous regardez."
+   },
+   "opt_msg5": {
+      "message": "Activer le mode compte à rebours"
+   },
+   "opt_msg6": {
+      "message": "Effectuez une actualisation de page sur une page spécifique après un certain temps, le minuteur de compte à rebours d'Auto Refresh Plus vous permet de le faire. Il suffit de l'activer et de régler le temps, et le minuteur commencera. Une fois que le compte à rebours atteint zéro, Auto Refresh Plus commencera à actualiser la page à nouveau aux intervalles par défaut définis."
+   },
+   "opt_msg7": {
+      "message": "Mode compte à rebours ajouté dans le popup d'Auto Refresh Plus"
+   },
+   "opt_msg8": {
+      "message": "Ajoutez ici les mots-clés de surveillance par défaut. Vous pouvez également ajouter des mots-clés personnalisés pour chaque site web à partir du popup de l'extension."
+   },
+   "opt_msg9": {
+      "message": "Recevez automatiquement des notifications lorsqu'une page web donnée a trouvé ou perdu votre mot-clé défini."
+   },
+   "options": {
+      "message": "Options"
+   },
+   "other_options": {
+      "message": "Autres options"
+   },
+   "other_products": {
+      "message": "Autres produits"
+   },
+   "page_monitor": {
+      "message": "Moniteur de page"
+   },
+   "paused": {
+      "message": "En pause"
+   },
+   "play_for": {
+      "message": "Jouer pour"
+   },
+   "play_onlyonce": {
+      "message": "Jouer une seule fois"
+   },
+   "play_sound": {
+      "message": "Paramètres de Lecture des Sons de Notifications Push"
+   },
+   "playsound_candidate": {
+      "message": "Candidat au son 1 (1 seconde)"
+   },
+   "playsound_candidate2": {
+      "message": "Candidat au son 2 (6 secondes)"
+   },
+   "playsound_msg1": {
+      "message": "Jouer le son à partir de l'URL"
+   },
+   "please_rateus": {
+      "message": "Veuillez nous évaluer"
+   },
+   "please_upgrade": {
+      "message": "Veuillez mettre à niveau votre plan."
+   },
+   "pm_input1": {
+      "message": "Exemple : vendu terminé expiré"
+   },
+   "pm_msg2": {
+      "message": "Jouer jusqu'à ce que je clique sur la boîte de notification"
+   },
+   "pmp": {
+      "message": "Modèle de moniteur de page"
+   },
+   "pmp_msg1": {
+      "message": "Notification popup une fois qu'il \u003Cb>TROUVE\u003C/b> le texte cible (ou regex)"
+   },
+   "pmp_msg2": {
+      "message": "Notification popup une fois qu'il \u003Cb>PERD\u003C/b> le texte cible (ou regex)"
+   },
+   "predefined": {
+      "message": "Prédéfini"
+   },
+   "predefined_text": {
+      "message": "Texte prédéfini"
+   },
+   "predefined_url": {
+      "message": "URL prédéfinie"
+   },
+   "predefined_url_alert": {
+      "message": "Activer la fonction \"Rafraîchir l'URL Prédefinie\" limitera toutes les fonctions de rafraîchissement automatique uniquement à l'URL spécifiée que vous écrivez dans ce champ de saisie. Vous ne pourrez pas rafraîchir d'autres URL lorsque cette fonction est active."
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "r_browser": {
+      "message": "Actualiser au redémarrage du navigateur"
+   },
+   "random_interval": {
+      "message": "Intervalle aléatoire"
+   },
+   "random_interval_warning": {
+      "message": "La valeur minimale doit être inférieure à la valeur maximale."
+   },
+   "rate_us": {
+      "message": "Notez-nous"
+   },
+   "rateus_title": {
+      "message": "Évaluez cette extension"
+   },
+   "ratings": {
+      "message": "Évaluations"
+   },
+   "ratings_msg": {
+      "message": "Veuillez nous noter cinq étoiles sur le magasin web."
+   },
+   "ratings_msg2": {
+      "message": "Bien sûr! Commençons"
+   },
+   "read_more": {
+      "message": "Lire la suite"
+   },
+   "receive_emails_alerts": {
+      "message": "Recevoir des alertes par e-mail"
+   },
+   "refresh_number": {
+      "message": "Définir le nombre d'actualisations"
+   },
+   "refresh_number_msg": {
+      "message": "(Définissez combien de fois vous voulez actualiser.)"
+   },
+   "refresh_type": {
+      "message": "Type d'actualisation"
+   },
+   "remove_email": {
+      "message": "Supprimer l'e-mail"
+   },
+   "reset": {
+      "message": "Réinitialiser les paramètres"
+   },
+   "reset_alert_msg": {
+      "message": "Êtes-vous sûr de vouloir réinitialiser tous les paramètres à leurs valeurs par défaut ? Cette action ne peut pas être annulée. Si vous êtes sûr, veuillez taper \u003Cb>RESET\u003C/b> dans le champ ci-dessous."
+   },
+   "restart_msg": {
+      "message": "Continuer le Rafraîchissement lors de la Détection du Mot-Clé"
+   },
+   "restart_opt_msg": {
+      "message": "Auto Refresh Plus continuera à rafraîchir la page même s'il trouve ou perd le mot-clé surveillé. Il déclenchera toujours une notification, un e-mail ou une alerte selon les paramètres de votre moniteur de page."
+   },
+   "retain_desc": {
+      "message": "Sélectionnez la durée pour conserver l'enregistrement des onglets alertés avant qu'ils ne disparaissent automatiquement."
+   },
+   "retain_title": {
+      "message": "Conserver les onglets alertés"
+   },
+   "rpp": {
+      "message": "Actualiser la page prédéfinie"
+   },
+   "rpp_body": {
+      "message": "Actualiser le contenu de la page prédéfinie"
+   },
+   "rpp_msg1": {
+      "message": "(par ex. google.com)"
+   },
+   "rpp_title": {
+      "message": "Actualiser la page prédéfinie"
+   },
+   "rpt": {
+      "message": "Actualiser le texte prédéfini"
+   },
+   "rpt_body": {
+      "message": "Actualiser le contenu du texte prédéfini"
+   },
+   "rpt_input1": {
+      "message": "Texte/regex multiples pris en charge, appuyez sur Entrée pour en ajouter un autre."
+   },
+   "rpt_title": {
+      "message": "Actualiser le texte prédéfini"
+   },
+   "save": {
+      "message": "Enregistrer"
+   },
+   "scroll_to_keyword": {
+      "message": "Faire Défiler jusqu'à la Position du Mot-Clé"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "Faites automatiquement défiler la page jusqu'à la position du mot-clé spécifié lorsqu'il est trouvé."
+   },
+   "seconds": {
+      "message": "Secondes"
+   },
+   "select_countdown": {
+      "message": "Sélectionner le compte à rebours"
+   },
+   "select_date": {
+      "message": "Sélectionner la date"
+   },
+   "select_time": {
+      "message": "Sélectionner l'heure"
+   },
+   "sendtopm": {
+      "message": "Envoyer au moniteur de page"
+   },
+   "set_autoclick": {
+      "message": "Définir AutoClick"
+   },
+   "set_hotkey": {
+      "message": "Définir une touche de raccourci"
+   },
+   "settings": {
+      "message": "Paramètres"
+   },
+   "settings_exported": {
+      "message": "Paramètres exportés avec succès"
+   },
+   "settings_imported": {
+      "message": "Paramètres importés avec succès"
+   },
+   "show_tab": {
+      "message": "Afficher l'onglet"
+   },
+   "sign_in": {
+      "message": "Se connecter"
+   },
+   "sign_up": {
+      "message": "S'inscrire"
+   },
+   "sign_up_desc": {
+      "message": "Inscrivez-vous maintenant pour débloquer les avantages suivants :"
+   },
+   "sound_length": {
+      "message": "Durée du son"
+   },
+   "source": {
+      "message": "Source"
+   },
+   "source_msg": {
+      "message": "(Trouver à l'intérieur du texte en ligne dans le code source HTML.)"
+   },
+   "specific_timemode": {
+      "message": "Mode de temps spécifique (par ex. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Commencer"
+   },
+   "start_timer": {
+      "message": "Démarrer le minuteur"
+   },
+   "start_timer_body": {
+      "message": "Démarrer le contenu du minuteur"
+   },
+   "start_timer_title": {
+      "message": "Démarrer le minuteur"
+   },
+   "status": {
+      "message": "Statut"
+   },
+   "stop": {
+      "message": "Arrêter"
+   },
+   "stop_refresh_click": {
+      "message": "Arrêter le Rafraîchissement au Clic de la Souris"
+   },
+   "stop_refresh_click_desc": {
+      "message": "Suspendez le rafraîchissement automatique chaque fois que vous cliquez avec la souris."
+   },
+   "stop_refresh_keyboard": {
+      "message": "Arrêter le Rafraîchissement lors de l'Utilisation du Clavier"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "Suspendez le rafraîchissement automatique chaque fois que vous appuyez sur une touche."
+   },
+   "stop_sound": {
+      "message": "Arrêter le son"
+   },
+   "subscribe_pay": {
+      "message": "S'abonner et payer"
+   },
+   "success": {
+      "message": "Paramètres enregistrés avec succès"
+   },
+   "supported_expressions": {
+      "message": "Expressions prises en charge"
+   },
+   "tabs_alerts": {
+      "message": "Onglets avec alertes"
+   },
+   "tabs_refreshing": {
+      "message": "Onglets actifs en actualisation"
+   },
+   "temporary_pause": {
+      "message": "Suspendre Temporairement le Rafraîchissement Automatique lors d'une Interaction pour une Période Spécifiée"
+   },
+   "temporary_pause_desc": {
+      "message": "Suspendez le rafraîchissement automatique au clic de la souris ou à l'activité du clavier pour une période spécifiée, et réactivez-le automatiquement s'il n'y a pas d'interaction détectée pendant ce temps."
+   },
+   "test_play": {
+      "message": "Test de lecture"
+   },
+   "thankyou": {
+      "message": "Merci"
+   },
+   "ti_msg1": {
+      "message": "Définissez le temps par défaut pour chaque actualisation de page. Vous pouvez soit sélectionner les intervalles de temps prédéfinis soit fournir votre intervalle de temps personnalisé à partir du popup de l'extension."
+   },
+   "ti_msg2": {
+      "message": "Randomisez l'intervalle de temps de chaque actualisation de page effectuée par Auto Refresh Plus. Tout ce que vous devez faire est de choisir une durée minimale et maximale, et l'extension effectuera des actualisations automatiques de page dans la plage définie."
+   },
+   "ti_msg3": {
+      "message": "Fonction d'intervalle aléatoire ajoutée dans le popup d'Auto Refresh Plus"
+   },
+   "time": {
+      "message": "Temps"
+   },
+   "time_interval": {
+      "message": "Intervalle de temps"
+   },
+   "timer_mode": {
+      "message": "Mode minuterie"
+   },
+   "unlimited": {
+      "message": "Illimité"
+   },
+   "unsubscribe": {
+      "message": "Se désabonner"
+   },
+   "unsubscribe_alert": {
+      "message": "Êtes-vous sûr de vouloir vous désabonner ?"
+   },
+   "unsubscribe_success": {
+      "message": "Désabonné avec succès"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus mis à jour vers la version"
+   },
+   "up_msg2": {
+      "message": "Ajouter le mode de redémarrage dans les options"
+   },
+   "up_msg3": {
+      "message": "Ajouter le mode d'interaction dans les options"
+   },
+   "up_msg4": {
+      "message": "Menu contextuel pour ajouter du texte au moniteur de page"
+   },
+   "up_msg5": {
+      "message": "Actualiser sans actualisation complète de la page"
+   },
+   "up_msg6": {
+      "message": "Moniteur d'onglets ajouté"
+   },
+   "up_msg7": {
+      "message": "Compteur visuel ajouté"
+   },
+   "up_msg8": {
+      "message": "Corrections de bugs mineurs"
+   },
+   "up_msg9": {
+      "message": "Je comprends"
+   },
+   "use_default": {
+      "message": "Utiliser les mots-clés par défaut"
+   },
+   "verify": {
+      "message": "Vérifier"
+   },
+   "verify_email_msg": {
+      "message": "E-mail vérifié avec succès"
+   },
+   "visual": {
+      "message": "Visuel"
+   },
+   "visual_msg": {
+      "message": "(Trouver à l'intérieur du texte que vous voyez à l'écran visuel.)"
+   },
+   "visual_timer_desc": {
+      "message": "Contrôlez où le minuteur visuel apparaît sur la page. Choisissez la position d'affichage qui vous convient le mieux pour montrer le compteur visuel."
+   },
+   "visual_timer_msg": {
+      "message": "Afficher le minuteur visuel sur la page web"
+   },
+   "visual_timer_msg_opt": {
+      "message": "Par défaut, activer le minuteur visuel pour toutes les pages que vous allez actualiser. Si désactivé, vous pouvez activer cette fonction individuellement depuis le popup de l'extension."
+   },
+   "visual_timer_title": {
+      "message": "Contrôle de la Position du Minuteur Visuel"
+   },
+   "visual_timer_title_opt": {
+      "message": "Activer le minuteur visuel par défaut"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "whats_new": {
+      "message": "Quoi de neuf ?"
+   },
+   "whitelist": {
+      "message": "Liste blanche"
+   },
+   "wildcard_not_supported": {
+      "message": "Les URL génériques ne sont pas prises en charge lors du redémarrage du navigateur."
+   },
+   "without_full": {
+      "message": "Actualisation XHR"
+   },
+   "without_msg1": {
+      "message": "Aucun"
+   },
+   "without_msg2": {
+      "message": "Comment Auto Click un bouton ?"
+   },
+   "xhr_page_help": {
+      "message": "Récupérer des données d'une URL sans avoir à effectuer une actualisation complète de la page. Cela permet à une page web de mettre à jour seulement une partie de la page sans perturber ce que l'utilisateur fait."
+   },
+   "xhr_refresh": {
+      "message": "Actualisation XHR"
+   },
+   "year": {
+      "message": "Année"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "Vous avez dépassé la limite de cette fonctionnalité."
+   },
+   "you_have_an_account": {
+      "message": "Vous avez un compte ?"
+   },
+   "your_plan": {
+      "message": "Votre plan"
+   }
+}

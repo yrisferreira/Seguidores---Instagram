@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "active": {
+      "message": "Aktywne karty"
+   },
+   "active_subscription": {
+      "message": "Aktywna"
+   },
+   "active_title": {
+      "message": "Lista aktywnych kart"
+   },
+   "add_email": {
+      "message": "Dodaj e-mail"
+   },
+   "add_keywords": {
+      "message": "Dodaj domyślne słowa kluczowe"
+   },
+   "add_new": {
+      "message": "Dodaj nowe"
+   },
+   "advanced": {
+      "message": "Zaawansowane"
+   },
+   "alert_msg1": {
+      "message": "Ustawienia zresetowane pomyślnie"
+   },
+   "alert_msg2": {
+      "message": "Gratulacje! Auto Refresh Plus zainstalowane pomyślnie"
+   },
+   "alert_tabs_desc": {
+      "message": "Pokaż karty alertów w wyskakującym oknie rozszerzenia, aby zobaczyć wszelkie aktualizacje lub zmiany dokonane przez monitor strony. Ta funkcja zapewnia wygodny sposób na pozostanie na bieżąco, szczególnie gdy masz otwartych wiele kart."
+   },
+   "alert_tabs_title": {
+      "message": "Pokaż karty alertów w wyskakującym oknie rozszerzenia"
+   },
+   "all": {
+      "message": "Wszystkie"
+   },
+   "allow_incognito": {
+      "message": "Zezwól w trybie incognito"
+   },
+   "annual_plan": {
+      "message": "Plan roczny"
+   },
+   "any_change": {
+      "message": "Jakakolwiek zmiana"
+   },
+   "any_msg": {
+      "message": "Auto Refresh Plus powiadomi Cię o jakiejkolwiek zmianie na tej stronie internetowej."
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Automatycznie odświeżaj stronę z potężnymi funkcjami monitorowania stron."
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Monitor stron"
+   },
+   "are_you_sure": {
+      "message": "Czy na pewno chcesz usunąć?"
+   },
+   "as_msg4": {
+      "message": "Auto Refresh Plus automatycznie uruchomi funkcję przeładowania strony, gdy te adresy URL zostaną otwarte w Twojej przeglądarce. Otworzy również wszystkie te adresy URL po ponownym uruchomieniu przeglądarki i rozpocznie automatyczne odświeżanie w żądanym interwale."
+   },
+   "as_title": {
+      "message": "URL-e automatycznego uruchamiania"
+   },
+   "assign_hotkeys": {
+      "message": "Przypisz skróty klawiszowe"
+   },
+   "ast": {
+      "message": "Zegar odliczający"
+   },
+   "ast_msg1": {
+      "message": "Automatycznie rozpocznij odświeżanie po otwarciu tych adresów URL. Jeden adres URL na wiersz, np."
+   },
+   "ast_msg2": {
+      "message": "Automatycznie rozpocznij odświeżanie tych adresów URL po ponownym uruchomieniu przeglądarki."
+   },
+   "ast_specific_time": {
+      "message": "Wybierz konkretny czas"
+   },
+   "auto_clicker": {
+      "message": "Automatyczne klikanie"
+   },
+   "auto_clicker_msg1": {
+      "message": "Automatycznie klikaj link"
+   },
+   "auto_clicker_msg2": {
+      "message": "(Jeśli monitorowany tekst lub wyrażenie regularne ma link)"
+   },
+   "auto_start": {
+      "message": "Automatyczny start"
+   },
+   "bad": {
+      "message": "Złe"
+   },
+   "blacklist": {
+      "message": "Czarna lista"
+   },
+   "bulk_keywords_msg": {
+      "message": "Dla dużej ilości słów kluczowych użyj spacji po każdej przecinku"
+   },
+   "cancel": {
+      "message": "Anuluj"
+   },
+   "cancel_timer": {
+      "message": "Anuluj zegar"
+   },
+   "canonical_url": {
+      "message": "Kanoniczny URL"
+   },
+   "change_site_desc": {
+      "message": "Jeśli adres URL witryny zmieni się podczas działania Auto Refresh Plus, zostanie automatycznie zaktualizowany, aby śledzić nowy URL lub pozostać na oryginalnym URL. To zapewnia, że strona będzie się poprawnie odświeżać bez żadnych przerw."
+   },
+   "change_site_title": {
+      "message": "Obsługa zmian / przekierowań URL"
+   },
+   "choose_plan": {
+      "message": "Wybierz swój plan"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "pl"
+   },
+   "congratulations": {
+      "message": "Gratulacje"
+   },
+   "contact_us": {
+      "message": "Skontaktuj się z nami"
+   },
+   "continue_without_login": {
+      "message": "Kontynuuj bez logowania"
+   },
+   "contribution": {
+      "message": "Składka"
+   },
+   "copyright": {
+      "message": "Wszelkie prawa zastrzeżone."
+   },
+   "countdown": {
+      "message": "Odliczanie"
+   },
+   "countdown_mode": {
+      "message": "Tryb odliczania"
+   },
+   "cs_t1": {
+      "message": "Gdy otwierasz adres URL"
+   },
+   "cs_t2": {
+      "message": "Przy każdym odświeżeniu strony"
+   },
+   "cs_t3": {
+      "message": "Gdy monitor strony znajdzie docelowy tekst"
+   },
+   "cs_t4": {
+      "message": "Gdy monitor strony straci docelowy tekst"
+   },
+   "cs_t5": {
+      "message": "Gdy nastąpi jakakolwiek zmiana"
+   },
+   "cs_t6": {
+      "message": "Wstrzyknij przed załadowaniem strony"
+   },
+   "cs_t7": {
+      "message": "Wstrzyknij po załadowaniu strony"
+   },
+   "custom": {
+      "message": "Niestandardowy"
+   },
+   "custom_monitor": {
+      "message": "Niestandardowy monitor"
+   },
+   "custom_scripts": {
+      "message": "Niestandardowe skrypty"
+   },
+   "date": {
+      "message": "Data"
+   },
+   "deep_source": {
+      "message": "Głębokie źródło"
+   },
+   "default_target_input": {
+      "message": "Obsługuje wiele tekstów/wyrażeń regularnych, naciśnij Enter, aby dodać kolejne."
+   },
+   "default_target_text": {
+      "message": "Domyślny tekst docelowy"
+   },
+   "default_timerinterval": {
+      "message": "Domyślny interwał czasowy"
+   },
+   "delete": {
+      "message": "Usuń"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus wykrył zmianę na tej stronie internetowej."
+   },
+   "detect_any_change_title": {
+      "message": "Monitor stron"
+   },
+   "developer_mode": {
+      "message": "Tryb deweloperski jest niedozwolony."
+   },
+   "developer_mode_msg": {
+      "message": "Ze względów bezpieczeństwa i stabilności tryb deweloperski nie jest dozwolony.\u003Cbr> Pobierz i zainstaluj rozszerzenie z oficjalnego sklepu, aby mieć pewność, że masz najnowszą i najbezpieczniejszą wersję."
+   },
+   "devices": {
+      "message": "Urządzenia"
+   },
+   "dismiss": {
+      "message": "Odrzuć"
+   },
+   "domain": {
+      "message": "Domena"
+   },
+   "donate": {
+      "message": "Darowizna"
+   },
+   "donation": {
+      "message": "Darowizna"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>Pozdrowienia od zespołu Auto Refresh Plus.\u003C/b> \u003Cbr>Jeśli uważasz, że Auto Refresh Plus jest przydatny, rozważ przekazanie darowizny dla autora."
+   },
+   "donation_msg2": {
+      "message": "Już to zrobiłem."
+   },
+   "done": {
+      "message": "Gotowe"
+   },
+   "download_in_store": {
+      "message": "Pobierz w sklepie"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_alert": {
+      "message": "Powiadomienia e-mail"
+   },
+   "email_msg": {
+      "message": "Proszę zauważyć, to ustawienie jest tylko do dodawania e-maila. Aby otrzymywać powiadomienia e-mail, włącz \u003Cb>Otrzymuj powiadomienia e-mail\u003C/b> w oknie popup rozszerzenia > sekcja monitor stron dla każdej strony internetowej."
+   },
+   "email_sent_to": {
+      "message": "Kod weryfikacyjny został wysłany na"
+   },
+   "enable_ri": {
+      "message": "Włącz losowy interwał"
+   },
+   "enable_tf": {
+      "message": "Włącz tę funkcję"
+   },
+   "enter_code_title": {
+      "message": "Wprowadź kod weryfikacyjny"
+   },
+   "enter_email": {
+      "message": "Wprowadź adres e-mail"
+   },
+   "exact": {
+      "message": "Dokładny URL"
+   },
+   "expire": {
+      "message": "Wygasa"
+   },
+   "export": {
+      "message": "Eksportuj"
+   },
+   "export_desc": {
+      "message": "Aby zachować swoje ustawienia, eksportuj konfigurację Auto Refresh Plus i przywróć ją później na tym samym lub innym komputerze."
+   },
+   "export_option": {
+      "message": "Opcja eksportu"
+   },
+   "export_settings": {
+      "message": "Kopia zapasowa ustawień"
+   },
+   "extension_updated": {
+      "message": "Rozszerzenie zaktualizowane do"
+   },
+   "feature_1": {
+      "message": "Synchronizuj ustawienia na wielu urządzeniach"
+   },
+   "feature_2": {
+      "message": "Wyświetl wizualny licznik"
+   },
+   "feature_3": {
+      "message": "Wsparcie dla niestandardowych skryptów"
+   },
+   "feature_4": {
+      "message": "I więcej..."
+   },
+   "feature_request": {
+      "message": "Prośby o funkcje"
+   },
+   "find_mtr_msg": {
+      "message": "Znajdź tekst monitora"
+   },
+   "focus_description": {
+      "message": "Włącz okno focus, gdy monitor strony znajdzie lub straci słowo kluczowe. Ta funkcja zapewnia, że okno automatycznie pojawia się na przednim planie ekranu za każdym razem, gdy zostanie wykryte lub utracone określone słowo kluczowe."
+   },
+   "focus_title": {
+      "message": "Włącz okno focus przy wykrywaniu słowa kluczowego"
+   },
+   "found": {
+      "message": "Znaleziono"
+   },
+   "free": {
+      "message": "Darmowy"
+   },
+   "full_page": {
+      "message": "Pełne odświeżenie strony"
+   },
+   "full_page_help": {
+      "message": "Auto Refresh Plus powiadomi Cię o każdej zmianie na tej stronie internetowej."
+   },
+   "good": {
+      "message": "Dobre"
+   },
+   "great": {
+      "message": "Świetne!"
+   },
+   "hard_refresh": {
+      "message": "Twarde odświeżenie"
+   },
+   "hard_refresh_msg": {
+      "message": "(Przeładuj stronę bez polegania na danych z pamięci podręcznej)"
+   },
+   "help_center": {
+      "message": "Centrum pomocy"
+   },
+   "home": {
+      "message": "Strona główna"
+   },
+   "hotkeys": {
+      "message": "Skróty klawiszowe"
+   },
+   "hotkeys_msg1": {
+      "message": "Uruchom interwał czasowy"
+   },
+   "hotkeys_msg2": {
+      "message": "Uruchom losowy interwał"
+   },
+   "hotkeys_msg3": {
+      "message": "Uruchom tryb timera"
+   },
+   "hotkeys_msg4": {
+      "message": "Zatrzymaj interwał"
+   },
+   "hotkeys_msg5": {
+      "message": "Wyłącz dźwięk powiadomienia"
+   },
+   "hotkeys_title": {
+      "message": "Przypisz skróty klawiszowe"
+   },
+   "hour": {
+      "message": "Godzina"
+   },
+   "hours": {
+      "message": "Godziny"
+   },
+   "howto": {
+      "message": "Jak"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plus oferuje dostosowane rozwiązania dla unikalnych wymagań Twojej firmy. Nasz zespół może tworzyć niestandardowe skrypty do wykonywania określonych działań na stronach internetowych. Należy pamiętać, że niestandardowe rozwiązania są dostarczane za dodatkową opłatą, a ceny zależą od stopnia skomplikowania. Skontaktuj się z nami, aby omówić swoje potrzeby."
+   },
+   "idea_cs_general_desc": {
+      "message": "Jeśli Twój skrypt spełnia również potrzeby innych użytkowników, napiszemy go za darmo i opublikujemy publicznie na rynku skryptów Auto Refresh Plus."
+   },
+   "idea_cs_title": {
+      "message": "Masz pomysły na niestandardowe skrypty?"
+   },
+   "idea_custom_scripts_business": {
+      "message": "Niestandardowe rozwiązania dla firm z unikalnymi potrzebami"
+   },
+   "idea_custom_scripts_general": {
+      "message": "Ogólny pomysł publiczny"
+   },
+   "ignore_input_field": {
+      "message": "Ignoruj interakcje z polem wejściowym"
+   },
+   "ignore_input_field_desc": {
+      "message": "Kontynuuj odświeżanie nawet po kliknięciu lub wpisaniu w polach wejściowych."
+   },
+   "images": {
+      "message": "Obrazy"
+   },
+   "import": {
+      "message": "Importuj"
+   },
+   "import_desc": {
+      "message": "Aby zachować swoje ustawienia, importuj konfigurację Auto Refresh Plus za pomocą przycisku importu. To pozwala przywrócić swoje ustawienia na tym samym lub innym komputerze."
+   },
+   "import_option": {
+      "message": "Opcja importu"
+   },
+   "interactions_msg": {
+      "message": "Auto Refresh Plus wstrzyma odświeżanie strony, jeśli klikniesz myszą lub użyjesz klawiatury. Włącz tę funkcję tutaj dla wszystkich stron internetowych lub włącz ją dla poszczególnych stron/stron internetowych z poziomu wyskakującego okna rozszerzenia."
+   },
+   "interactions_msg_opt": {
+      "message": "Automatycznie wstrzymaj odświeżanie, jeśli wejdzie w interakcję ze stroną lub zacznie pisać w polu tekstowym."
+   },
+   "interactions_title_opt": {
+      "message": "Zatrzymaj odświeżanie przy interakcji użytkownika"
+   },
+   "invalid_code_email": {
+      "message": "Podany kod weryfikacyjny jest nieprawidłowy."
+   },
+   "just_now": {
+      "message": "Przed chwilą"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus jest aktywne, ale brakuje kluczowych funkcji."
+   },
+   "keyword_found": {
+      "message": "Znaleziono słowo kluczowe"
+   },
+   "lang_code": {
+      "message": "pl"
+   },
+   "logout": {
+      "message": "Wyloguj się"
+   },
+   "lost": {
+      "message": "Zgubione"
+   },
+   "loved": {
+      "message": "Uwielbiam to!"
+   },
+   "manage_plan": {
+      "message": "Zarządzaj planem"
+   },
+   "max": {
+      "message": "Maksymalny"
+   },
+   "min": {
+      "message": "Minimalny"
+   },
+   "minute": {
+      "message": "Minuta"
+   },
+   "minutes": {
+      "message": "Minuty"
+   },
+   "monitor_full_page": {
+      "message": "Monitorowanie całej strony"
+   },
+   "month": {
+      "message": "Miesiąc"
+   },
+   "monthly_plan": {
+      "message": "Plan miesięczny"
+   },
+   "msg_pm": {
+      "message": "Brak kart do wyświetlenia"
+   },
+   "name_required": {
+      "message": "Imię jest wymagane."
+   },
+   "never_playsound": {
+      "message": "Nigdy nie odtwarzaj dźwięku"
+   },
+   "new_url": {
+      "message": "Nowy URL"
+   },
+   "no_credit_card": {
+      "message": "Brak wymogu karty kredytowej"
+   },
+   "not_allowed": {
+      "message": "Nie masz uprawnień do korzystania z tego tutaj."
+   },
+   "not_allowed_to_use": {
+      "message": "Nie masz uprawnień do korzystania z tej funkcji."
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus $action$ Twój docelowy tekst.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "Docelowy tekst!"
+   },
+   "notification_settings": {
+      "message": "Ustawienia powiadomień"
+   },
+   "notifications": {
+      "message": "Powiadomienia"
+   },
+   "notifications_moved_msg": {
+      "message": "Ustawienia powiadomień zostały przeniesione do osobnej sekcji"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "okay": {
+      "message": "OK"
+   },
+   "open_link_tab": {
+      "message": "Otwórz link w nowej karcie"
+   },
+   "opt_msg1": {
+      "message": "Odświeżanie przy otwieraniu adresów URL"
+   },
+   "opt_msg10": {
+      "message": "Gdy nadejdzie powiadomienie, zostanie odtworzony krótki dźwięk, aby cię ostrzec. Możesz dostosować to ustawienie, wyłączając dźwięk lub wybierając inny dźwięk do odtwarzania powiadomień."
+   },
+   "opt_msg11": {
+      "message": "Dostosuj maksymalny czas trwania dźwięku, który odtwarzany jest po otrzymaniu powiadomienia."
+   },
+   "opt_msg12": {
+      "message": "Otrzymuj powiadomienia e-mail, gdy witryna zmienia się zgodnie z ustawieniami monitora strony. To zapewnia, że jesteś na bieżąco ze wszystkimi zmianami bez konieczności ciągłego sprawdzania witryny."
+   },
+   "opt_msg13": {
+      "message": "Wykonuj niestandardowe skrypty na stronie"
+   },
+   "opt_msg14": {
+      "message": "Jeśli lubisz bawić się automatyzacją, zeskrobywaniem, zmienianiem domyślnego zachowania strony i masz podstawową wiedzę z JavaScript, tutaj jest wiele do zrobienia."
+   },
+   "opt_msg15": {
+      "message": "Jakie wzory URL są dozwolone"
+   },
+   "opt_msg16": {
+      "message": "Aby dopasować zarówno HTTP, jak i HTTPS, wpisz example.com"
+   },
+   "opt_msg17": {
+      "message": "Aby dopasować każdą stronę w domenie, wpisz example.com/*"
+   },
+   "opt_msg18": {
+      "message": "Aby dopasować każdą stronę w domenie i jej subdomenach, wpisz *.example.com/*"
+   },
+   "opt_msg19": {
+      "message": "Ustaw swoje niestandardowe skróty klawiszowe dla działań Auto Refresh Plus"
+   },
+   "opt_msg2": {
+      "message": "Autostart odświeżania przy otwieraniu dowolnego z tych adresów URL"
+   },
+   "opt_msg20": {
+      "message": "Resetuj ustawienia Auto Refresh Plus"
+   },
+   "opt_msg21": {
+      "message": "\u003Cb>Czy jesteś pewien\u003C/b>, że chcesz przywrócić wszystkie ustawienia Auto Refresh Plus do domyślnych?"
+   },
+   "opt_msg22": {
+      "message": "Gratulacje! Auto Refresh Plus zainstalowane pomyślnie"
+   },
+   "opt_msg3": {
+      "message": "Wprowadź tutaj jedno lub więcej słów kluczowych, a gdy tylko któreś z nich zostanie znalezione na stronie, Auto Refresh Plus zacznie automatyczne odświeżanie strony z częstotliwością domyślnego interwału."
+   },
+   "opt_msg4": {
+      "message": "Wprowadź tutaj konkretny URL, aby odświeżyć ten adres, a nie bieżącą kartę, którą używasz. Na przykład, jeśli zapiszesz Google.com w ustawieniach, a następnie uruchomisz automatyczne odświeżanie podczas przeglądania Yahoo.com, Google.com będzie odświeżane, zamiast strony, którą przeglądasz."
+   },
+   "opt_msg5": {
+      "message": "Włącz tryb odliczania"
+   },
+   "opt_msg6": {
+      "message": "Wykonaj odświeżenie strony na konkretnej stronie po upływie określonego czasu, zegar odliczający Auto Refresh Plus pozwala to zrobić. Po prostu włącz i ustaw czas, a zegar odliczający zacznie działać. Gdy odliczanie osiągnie zero, Auto Refresh Plus ponownie zacznie odświeżać stronę z ustalonymi domyślnymi interwałami."
+   },
+   "opt_msg7": {
+      "message": "Tryb odliczania dodany do okna popup Auto Refresh Plus"
+   },
+   "opt_msg8": {
+      "message": "Dodaj domyślne słowa kluczowe monitorowania tutaj. Możesz także dodać niestandardowe słowa kluczowe dla każdej strony internetowej z okna popup rozszerzenia."
+   },
+   "opt_msg9": {
+      "message": "Automatycznie otrzymuj powiadomienia, gdy dowolna strona internetowa znajdzie lub straci zdefiniowane przez ciebie słowo kluczowe."
+   },
+   "options": {
+      "message": "Opcje"
+   },
+   "other_options": {
+      "message": "Inne opcje"
+   },
+   "other_products": {
+      "message": "Inne produkty"
+   },
+   "page_monitor": {
+      "message": "Monitor stron"
+   },
+   "paused": {
+      "message": "Wstrzymane"
+   },
+   "play_for": {
+      "message": "Odtwarzaj przez"
+   },
+   "play_onlyonce": {
+      "message": "Odtwórz tylko raz"
+   },
+   "play_sound": {
+      "message": "Ustawienia odtwarzania dźwięku powiadomienia push"
+   },
+   "playsound_candidate": {
+      "message": "Odtwórz dźwięk Kandydat 1 (1 sekunda)"
+   },
+   "playsound_candidate2": {
+      "message": "Odtwórz dźwięk Kandydat 2 (6 sekund)"
+   },
+   "playsound_msg1": {
+      "message": "Odtwórz dźwięk z URL"
+   },
+   "please_rateus": {
+      "message": "Prosimy, oceń nas"
+   },
+   "please_upgrade": {
+      "message": "Proszę zaktualizować swój plan."
+   },
+   "pm_input1": {
+      "message": "Przykład: sprzedano zakończono wygasło"
+   },
+   "pm_msg2": {
+      "message": "Odtwarzaj, dopóki nie kliknę pola powiadomienia"
+   },
+   "pmp": {
+      "message": "Wzorzec monitora stron"
+   },
+   "pmp_msg1": {
+      "message": "Popup powiadomienie, gdy \u003Cb>ZNAJDZIE\u003C/b> docelowy tekst (lub regex)"
+   },
+   "pmp_msg2": {
+      "message": "Popup powiadomienie, gdy \u003Cb>UTRACI\u003C/b> docelowy tekst (lub regex)"
+   },
+   "predefined": {
+      "message": "Wstępnie zdefiniowany"
+   },
+   "predefined_text": {
+      "message": "Wstępnie zdefiniowany tekst"
+   },
+   "predefined_url": {
+      "message": "Wstępnie zdefiniowany URL"
+   },
+   "predefined_url_alert": {
+      "message": "Włączenie funkcji „Odśwież określony URL” ograniczy wszystkie funkcje automatycznego odświeżania do określonego URL, który wpiszesz w tym polu. Nie będziesz mógł odświeżać żadnych innych URL-i, gdy ta funkcja jest aktywna."
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "r_browser": {
+      "message": "Odśwież przy ponownym uruchomieniu przeglądarki"
+   },
+   "random_interval": {
+      "message": "Losowy interwał"
+   },
+   "random_interval_warning": {
+      "message": "Wartość minimalna powinna być mniejsza niż wartość maksymalna."
+   },
+   "rate_us": {
+      "message": "Oceń nas"
+   },
+   "rateus_title": {
+      "message": "Oceń to rozszerzenie"
+   },
+   "ratings": {
+      "message": "Oceny"
+   },
+   "ratings_msg": {
+      "message": "Prosimy, oceń nas na pięć gwiazdek w sklepie internetowym."
+   },
+   "ratings_msg2": {
+      "message": "Oczywiście! Zaczynajmy"
+   },
+   "read_more": {
+      "message": "Czytaj więcej"
+   },
+   "receive_emails_alerts": {
+      "message": "Otrzymuj powiadomienia e-mail"
+   },
+   "refresh_number": {
+      "message": "Ustaw liczbę odświeżeń"
+   },
+   "refresh_number_msg": {
+      "message": "(Ustaw, ile razy chcesz odświeżyć.)"
+   },
+   "refresh_type": {
+      "message": "Typ odświeżania"
+   },
+   "remove_email": {
+      "message": "Usuń e-mail"
+   },
+   "reset": {
+      "message": "Resetuj ustawienia"
+   },
+   "reset_alert_msg": {
+      "message": "Czy na pewno chcesz zresetować wszystkie ustawienia do wartości domyślnych? Ta operacja nie może zostać cofnięta. Jeśli jesteś pewien, wpisz \u003Cb>RESET\u003C/b> w polu poniżej."
+   },
+   "restart_msg": {
+      "message": "Kontynuuj odświeżanie po wykryciu słowa kluczowego"
+   },
+   "restart_opt_msg": {
+      "message": "Auto Refresh Plus będzie nadal odświeżać stronę, nawet jeśli znajdzie lub straci monitorowane słowo kluczowe. Nadal wywoła powiadomienie, e-mail lub dzwonek w zależności od ustawień monitora strony."
+   },
+   "retain_desc": {
+      "message": "Wybierz czas trwania, aby zachować rekord kart z alertami przed ich automatycznym zniknięciem."
+   },
+   "retain_title": {
+      "message": "Zachowaj karty z alertami"
+   },
+   "rpp": {
+      "message": "Odśwież wstępnie zdefiniowaną stronę"
+   },
+   "rpp_body": {
+      "message": "Odśwież zawartość wstępnie zdefiniowanej strony"
+   },
+   "rpp_msg1": {
+      "message": "(np. google.com)"
+   },
+   "rpp_title": {
+      "message": "Odśwież wstępnie zdefiniowaną stronę"
+   },
+   "rpt": {
+      "message": "Odśwież wstępnie zdefiniowany tekst"
+   },
+   "rpt_body": {
+      "message": "Odśwież zawartość wstępnie zdefiniowanego tekstu"
+   },
+   "rpt_input1": {
+      "message": "Obsługiwanych jest wiele tekstów/wyrażeń regularnych, naciśnij Enter, aby dodać kolejny."
+   },
+   "rpt_title": {
+      "message": "Odśwież wstępnie zdefiniowany tekst"
+   },
+   "save": {
+      "message": "Zapisz"
+   },
+   "scroll_to_keyword": {
+      "message": "Przewiń do lokalizacji słowa kluczowego"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "Automatycznie przewiń stronę do lokalizacji określonego słowa kluczowego, gdy zostanie znalezione."
+   },
+   "seconds": {
+      "message": "Sekundy"
+   },
+   "select_countdown": {
+      "message": "Wybierz odliczanie"
+   },
+   "select_date": {
+      "message": "Wybierz datę"
+   },
+   "select_time": {
+      "message": "Wybierz czas"
+   },
+   "sendtopm": {
+      "message": "Wyślij do monitora stron"
+   },
+   "set_autoclick": {
+      "message": "Ustaw automatyczne klikanie"
+   },
+   "set_hotkey": {
+      "message": "Ustaw skrót klawiszowy"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "settings_exported": {
+      "message": "Ustawienia wyeksportowane pomyślnie"
+   },
+   "settings_imported": {
+      "message": "Ustawienia zaimportowane pomyślnie"
+   },
+   "show_tab": {
+      "message": "Pokaż kartę"
+   },
+   "sign_in": {
+      "message": "Zaloguj się"
+   },
+   "sign_up": {
+      "message": "Zarejestruj się"
+   },
+   "sign_up_desc": {
+      "message": "Zarejestruj się teraz, aby odblokować następujące funkcje:"
+   },
+   "sound_length": {
+      "message": "Długość dźwięku"
+   },
+   "source": {
+      "message": "Źródło"
+   },
+   "source_msg": {
+      "message": "(Znajdź wewnątrz tekstu osadzonego w kodzie źródłowym HTML.)"
+   },
+   "specific_timemode": {
+      "message": "Tryb określonego czasu (np. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Start"
+   },
+   "start_timer": {
+      "message": "Uruchom timer"
+   },
+   "start_timer_body": {
+      "message": "Zawartość timera startowego"
+   },
+   "start_timer_title": {
+      "message": "Uruchom timer"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "stop_refresh_click": {
+      "message": "Zatrzymaj odświeżanie przy kliknięciu myszą"
+   },
+   "stop_refresh_click_desc": {
+      "message": "Zatrzymaj automatyczne odświeżanie za każdym razem, gdy klikniesz myszą."
+   },
+   "stop_refresh_keyboard": {
+      "message": "Zatrzymaj odświeżanie przy użyciu klawiatury"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "Zatrzymaj automatyczne odświeżanie za każdym razem, gdy naciśniesz dowolny klawisz."
+   },
+   "stop_sound": {
+      "message": "Zatrzymaj dźwięk"
+   },
+   "subscribe_pay": {
+      "message": "Subskrybuj i zapłać"
+   },
+   "success": {
+      "message": "Ustawienia zapisane pomyślnie"
+   },
+   "supported_expressions": {
+      "message": "Obsługiwane wyrażenia"
+   },
+   "tabs_alerts": {
+      "message": "Karty z alertami"
+   },
+   "tabs_refreshing": {
+      "message": "Aktywne karty odświeżania"
+   },
+   "temporary_pause": {
+      "message": "Tymczasowo wstrzymaj automatyczne odświeżanie po interakcji na określony czas"
+   },
+   "temporary_pause_desc": {
+      "message": "Wstrzymaj automatyczne odświeżanie po kliknięciu myszą lub aktywności klawiatury na określony czas i automatycznie ponownie je włącz, jeśli w tym czasie nie zostanie wykryta żadna interakcja."
+   },
+   "test_play": {
+      "message": "Test odtwarzania"
+   },
+   "thankyou": {
+      "message": "Dziękujemy"
+   },
+   "ti_msg1": {
+      "message": "Ustaw domyślny czas dla każdego odświeżenia strony. Możesz wybrać albo zdefiniowane interwały czasowe, albo podać własny interwał czasowy z okna popup rozszerzenia."
+   },
+   "ti_msg2": {
+      "message": "Losuj interwał czasowy każdego odświeżenia strony, które wykonuje Auto Refresh Plus. Wystarczy, że wybierzesz minimalny i maksymalny czas trwania, a rozszerzenie będzie automatycznie odświeżać strony w określonym zakresie."
+   },
+   "ti_msg3": {
+      "message": "Funkcja losowego interwału dodana do okna popup Auto Refresh Plus"
+   },
+   "time": {
+      "message": "Czas"
+   },
+   "time_interval": {
+      "message": "Interwał czasowy"
+   },
+   "timer_mode": {
+      "message": "Tryb timera"
+   },
+   "unlimited": {
+      "message": "Nieograniczony"
+   },
+   "unsubscribe": {
+      "message": "Wypisz się"
+   },
+   "unsubscribe_alert": {
+      "message": "Czy na pewno chcesz się wypisać?"
+   },
+   "unsubscribe_success": {
+      "message": "Wypisano pomyślnie"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus zaktualizowane do wersji"
+   },
+   "up_msg2": {
+      "message": "Dodaj tryb restartu w opcjach"
+   },
+   "up_msg3": {
+      "message": "Dodaj tryb interakcji w opcjach"
+   },
+   "up_msg4": {
+      "message": "Menu kontekstowe do dodawania tekstu do monitora stron"
+   },
+   "up_msg5": {
+      "message": "Odśwież bez pełnego odświeżenia strony"
+   },
+   "up_msg6": {
+      "message": "Dodano monitor kart"
+   },
+   "up_msg7": {
+      "message": "Dodano wizualny licznik"
+   },
+   "up_msg8": {
+      "message": "Naprawiono drobne błędy"
+   },
+   "up_msg9": {
+      "message": "Rozumiem"
+   },
+   "use_default": {
+      "message": "Użyj domyślnych słów kluczowych"
+   },
+   "verify": {
+      "message": "Zweryfikuj"
+   },
+   "verify_email_msg": {
+      "message": "E-mail zweryfikowany pomyślnie"
+   },
+   "visual": {
+      "message": "Wizualny"
+   },
+   "visual_msg": {
+      "message": "(Znajdź wewnątrz tekstu, który widzisz na ekranie wizualnym.)"
+   },
+   "visual_timer_desc": {
+      "message": "Kontroluj, gdzie wizualny timer pojawia się na stronie. Wybierz pozycję wyświetlania, która najlepiej pasuje do wyświetlania wizualnego licznika."
+   },
+   "visual_timer_msg": {
+      "message": "Pokaż wizualny licznik na stronie internetowej"
+   },
+   "visual_timer_msg_opt": {
+      "message": "Domyślnie włącz licznik wizualny dla wszystkich stron, które będziesz odświeżać. Jeśli wyłączone, możesz włączyć tę funkcję indywidualnie z okna popup rozszerzenia."
+   },
+   "visual_timer_title": {
+      "message": "Kontrola położenia wizualnego timera"
+   },
+   "visual_timer_title_opt": {
+      "message": "Włącz licznik wizualny domyślnie"
+   },
+   "volume": {
+      "message": "Głośność"
+   },
+   "whats_new": {
+      "message": "Co nowego?"
+   },
+   "whitelist": {
+      "message": "Biała lista"
+   },
+   "wildcard_not_supported": {
+      "message": "URL z symbolami wieloznacznymi nie są obsługiwane po ponownym uruchomieniu przeglądarki."
+   },
+   "without_full": {
+      "message": "Odświeżenie XHR"
+   },
+   "without_msg1": {
+      "message": "Brak"
+   },
+   "without_msg2": {
+      "message": "Jak działa automatyczne klikanie przycisku?"
+   },
+   "xhr_page_help": {
+      "message": "Pobierz dane z URL bez konieczności pełnego odświeżania strony. To umożliwia stronie internetowej aktualizację tylko części strony bez zakłócania działań użytkownika."
+   },
+   "xhr_refresh": {
+      "message": "Odświeżenie XHR"
+   },
+   "year": {
+      "message": "Rok"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "Przekroczyłeś limit tej funkcji."
+   },
+   "you_have_an_account": {
+      "message": "Masz konto?"
+   },
+   "your_plan": {
+      "message": "Twój plan"
+   }
+}

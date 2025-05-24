@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "حساب"
+   },
+   "active": {
+      "message": "علامات التبويب النشطة"
+   },
+   "active_subscription": {
+      "message": "نشط"
+   },
+   "active_title": {
+      "message": "قائمة علامات التبويب النشطة"
+   },
+   "add_email": {
+      "message": "إضافة بريد إلكتروني"
+   },
+   "add_keywords": {
+      "message": "إضافة الكلمات الرئيسية الافتراضية"
+   },
+   "add_new": {
+      "message": "إضافة جديد"
+   },
+   "advanced": {
+      "message": "متقدم"
+   },
+   "alert_msg1": {
+      "message": "تمت إعادة تعيين الإعدادات بنجاح"
+   },
+   "alert_msg2": {
+      "message": "تهانينا! تم تثبيت Auto Refresh Plus بنجاح"
+   },
+   "alert_tabs_desc": {
+      "message": "إظهار علامات التبويب التنبيهية في نافذة الامتداد المنبثقة لعرض أي تحديثات أو تغييرات تم إجراؤها بواسطة مراقب الصفحة. توفر هذه الميزة طريقة ملائمة للبقاء على اطلاع خاصة عندما يكون لديك العديد من علامات التبويب المفتوحة."
+   },
+   "alert_tabs_title": {
+      "message": "إظهار علامات التبويب التنبيهية في نافذة الامتداد المنبثقة"
+   },
+   "all": {
+      "message": "الكل"
+   },
+   "allow_incognito": {
+      "message": "السماح في وضع التخفي"
+   },
+   "annual_plan": {
+      "message": "خطة سنوية"
+   },
+   "any_change": {
+      "message": "أي تغيير"
+   },
+   "any_msg": {
+      "message": "سيقوم Auto Refresh Plus بإخطارك عند حدوث أي تغيير على هذا الموقع."
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "تحديث الصفحة تلقائيًا مع ميزات مراقبة الصفحة القوية."
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | مراقب الصفحة"
+   },
+   "are_you_sure": {
+      "message": "هل أنت متأكد أنك تريد الحذف؟"
+   },
+   "as_msg4": {
+      "message": "سيبدأ Auto Refresh Plus تلقائيًا وظيفة إعادة تحميل الصفحة عندما يتم فتح هذه الروابط في متصفحك. كما يقوم بفتح جميع هذه الروابط عند إعادة تشغيل المتصفح ويبدأ في التحديث التلقائي بالفاصل الزمني المطلوب."
+   },
+   "as_title": {
+      "message": "روابط البدء التلقائي"
+   },
+   "assign_hotkeys": {
+      "message": "تعيين مفاتيح الاختصار"
+   },
+   "ast": {
+      "message": "مؤقت العد التنازلي"
+   },
+   "ast_msg1": {
+      "message": "ابدأ التحديث تلقائيًا عند فتح هذه الروابط. رابط واحد لكل سطر، على سبيل المثال،"
+   },
+   "ast_msg2": {
+      "message": "ابدأ التحديث تلقائيًا لهذه الروابط عند إعادة تشغيل المتصفح."
+   },
+   "ast_specific_time": {
+      "message": "اختر الوقت المحدد"
+   },
+   "auto_clicker": {
+      "message": "النقر التلقائي"
+   },
+   "auto_clicker_msg1": {
+      "message": "النقر التلقائي على الرابط"
+   },
+   "auto_clicker_msg2": {
+      "message": "(إذا كان النص المراقب أو التعبير النمطي يحتوي على رابط)"
+   },
+   "auto_start": {
+      "message": "بدء تلقائي"
+   },
+   "bad": {
+      "message": "سيء"
+   },
+   "blacklist": {
+      "message": "القائمة السوداء"
+   },
+   "bulk_keywords_msg": {
+      "message": "للكلمات المفتاحية الكثيرة، استخدم مسافة بعد كل فاصلة"
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "cancel_timer": {
+      "message": "إلغاء المؤقت"
+   },
+   "canonical_url": {
+      "message": "عنوان URL الأساسي"
+   },
+   "change_site_desc": {
+      "message": "إذا تغير عنوان URL الخاص بالموقع أثناء تشغيل Auto Refresh Plus، فسيتم تحديثه تلقائيًا لاتباع عنوان URL الجديد أو البقاء على العنوان الأصلي. يضمن هذا أن تستمر الصفحة في التحديث بشكل صحيح دون أي انقطاع."
+   },
+   "change_site_title": {
+      "message": "معالجة تغييرات / إعادة توجيه URL"
+   },
+   "choose_plan": {
+      "message": "اختر خطتك"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "ar"
+   },
+   "congratulations": {
+      "message": "تهانينا"
+   },
+   "contact_us": {
+      "message": "اتصل بنا"
+   },
+   "continue_without_login": {
+      "message": "استمر بدون تسجيل الدخول"
+   },
+   "contribution": {
+      "message": "مساهمة"
+   },
+   "copyright": {
+      "message": "جميع الحقوق محفوظة."
+   },
+   "countdown": {
+      "message": "العد التنازلي"
+   },
+   "countdown_mode": {
+      "message": "وضع العد التنازلي"
+   },
+   "cs_t1": {
+      "message": "عند فتح الرابط"
+   },
+   "cs_t2": {
+      "message": "عند تحديث كل صفحة"
+   },
+   "cs_t3": {
+      "message": "عند العثور على النص المستهدف"
+   },
+   "cs_t4": {
+      "message": "عند فقدان النص المستهدف"
+   },
+   "cs_t5": {
+      "message": "عند حدوث أي تغيير"
+   },
+   "cs_t6": {
+      "message": "حقن قبل تحميل الصفحة"
+   },
+   "cs_t7": {
+      "message": "حقن بعد تحميل الصفحة"
+   },
+   "custom": {
+      "message": "مخصص"
+   },
+   "custom_monitor": {
+      "message": "مراقب مخصص"
+   },
+   "custom_scripts": {
+      "message": "نصوص مخصصة"
+   },
+   "date": {
+      "message": "التاريخ"
+   },
+   "deep_source": {
+      "message": "المصدر العميق"
+   },
+   "default_target_input": {
+      "message": "يدعم نصوص/تعبيرات نمطية متعددة، اضغط على Enter لإضافة آخر."
+   },
+   "default_target_text": {
+      "message": "النص المستهدف الافتراضي"
+   },
+   "default_timerinterval": {
+      "message": "الفاصل الزمني الافتراضي"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "detect_any_change": {
+      "message": "اكتشف Auto Refresh Plus تغييرًا في هذا الموقع."
+   },
+   "detect_any_change_title": {
+      "message": "مراقب الصفحة"
+   },
+   "developer_mode": {
+      "message": "وضع المطور غير مسموح."
+   },
+   "developer_mode_msg": {
+      "message": "لأسباب أمنية واستقرار، لا يُسمح بوضع المطور.\u003Cbr> يرجى تنزيل وتثبيت الامتداد من المتجر الرسمي لضمان حصولك على أحدث إصدار وأكثره أمانًا."
+   },
+   "devices": {
+      "message": "الأجهزة"
+   },
+   "dismiss": {
+      "message": "تجاهل"
+   },
+   "domain": {
+      "message": "نطاق"
+   },
+   "donate": {
+      "message": "تبرع"
+   },
+   "donation": {
+      "message": "تبرع"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>تحية من فريق Auto Refresh Plus.\u003C/b> \u003Cbr>إذا وجدت Auto Refresh Plus مفيدًا، يرجى النظر في التبرع للمؤلف."
+   },
+   "donation_msg2": {
+      "message": "لقد قمت بذلك بالفعل."
+   },
+   "done": {
+      "message": "تم"
+   },
+   "download_in_store": {
+      "message": "تنزيل في المتجر"
+   },
+   "email": {
+      "message": "البريد الإلكتروني"
+   },
+   "email_alert": {
+      "message": "إشعارات البريد الإلكتروني"
+   },
+   "email_msg": {
+      "message": "يرجى ملاحظة أن هذا الإعداد مخصص فقط لإضافة بريد إلكتروني. لتلقي تنبيهات البريد الإلكتروني، قم بتمكين \u003Cb>تلقي تنبيه بالبريد الإلكتروني\u003C/b> في نافذة الإضافة المنبثقة > قسم مراقب الصفحة لكل صفحة ويب."
+   },
+   "email_sent_to": {
+      "message": "تم إرسال رمز التحقق إلى"
+   },
+   "enable_ri": {
+      "message": "تمكين الفاصل العشوائي"
+   },
+   "enable_tf": {
+      "message": "تمكين هذه الميزة"
+   },
+   "enter_code_title": {
+      "message": "أدخل رمز التحقق"
+   },
+   "enter_email": {
+      "message": "أدخل عنوان البريد الإلكتروني"
+   },
+   "exact": {
+      "message": "عنوان URL دقيق"
+   },
+   "expire": {
+      "message": "تنتهي"
+   },
+   "export": {
+      "message": "تصدير"
+   },
+   "export_desc": {
+      "message": "لحفظ إعداداتك، قم بتصدير تكوين Auto Refresh Plus واستعده لاحقًا على نفس الكمبيوتر أو كمبيوتر آخر."
+   },
+   "export_option": {
+      "message": "خيار التصدير"
+   },
+   "export_settings": {
+      "message": "نسخ الإعدادات احتياطيًا"
+   },
+   "extension_updated": {
+      "message": "تم تحديث الامتداد إلى"
+   },
+   "feature_1": {
+      "message": "مزامنة الإعدادات على أجهزة متعددة"
+   },
+   "feature_2": {
+      "message": "عرض المؤقت المرئي"
+   },
+   "feature_3": {
+      "message": "دعم النصوص المخصصة"
+   },
+   "feature_4": {
+      "message": "والمزيد..."
+   },
+   "feature_request": {
+      "message": "طلبات الميزات"
+   },
+   "find_mtr_msg": {
+      "message": "البحث في نص المراقب"
+   },
+   "focus_description": {
+      "message": "تمكين تركيز النافذة عندما يجد مراقب الصفحة الكلمة المفتاحية أو يفقدها. تضمن هذه الميزة أن النافذة تظهر تلقائيًا في مقدمة شاشتك كلما تم اكتشاف الكلمة المفتاحية المحددة أو فقدها."
+   },
+   "focus_title": {
+      "message": "تمكين تركيز النافذة عند اكتشاف الكلمة المفتاحية"
+   },
+   "found": {
+      "message": "تم العثور"
+   },
+   "free": {
+      "message": "مجاني"
+   },
+   "full_page": {
+      "message": "تحديث الصفحة الكاملة"
+   },
+   "full_page_help": {
+      "message": "سيقوم Auto Refresh Plus بإعلامك عند حدوث أي تغيير على هذه الصفحة."
+   },
+   "good": {
+      "message": "جيد"
+   },
+   "great": {
+      "message": "رائع!"
+   },
+   "hard_refresh": {
+      "message": "تحديث قوي"
+   },
+   "hard_refresh_msg": {
+      "message": "(إعادة تحميل الصفحة دون الاعتماد على البيانات المخبأة)"
+   },
+   "help_center": {
+      "message": "مركز المساعدة"
+   },
+   "home": {
+      "message": "الرئيسية"
+   },
+   "hotkeys": {
+      "message": "مفاتيح الاختصار"
+   },
+   "hotkeys_msg1": {
+      "message": "بدء الفاصل الزمني"
+   },
+   "hotkeys_msg2": {
+      "message": "بدء الفاصل العشوائي"
+   },
+   "hotkeys_msg3": {
+      "message": "بدء وضع المؤقت"
+   },
+   "hotkeys_msg4": {
+      "message": "إيقاف الفاصل الزمني"
+   },
+   "hotkeys_msg5": {
+      "message": "إيقاف صوت الإشعار"
+   },
+   "hotkeys_title": {
+      "message": "تعيين مفاتيح الاختصار"
+   },
+   "hour": {
+      "message": "ساعة"
+   },
+   "hours": {
+      "message": "ساعات"
+   },
+   "howto": {
+      "message": "كيفية"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "يقدم Auto Refresh Plus حلولاً مخصصة لمتطلبات عملك الفريدة. يمكن لفريقنا إنشاء برامج نصية مخصصة لتنفيذ إجراءات محددة على صفحات الويب. يرجى ملاحظة أن الحلول المخصصة يتم توفيرها بتكلفة إضافية، وتستند الأسعار إلى التعقيد. اتصل بنا لمناقشة احتياجاتك بشكل أكبر."
+   },
+   "idea_cs_general_desc": {
+      "message": "إذا كان النص البرمجي الخاص بك يلبي احتياجات المستخدمين الآخرين أيضًا، فسوف نقوم بكتابته مجانًا ونشره علنًا في سوق Auto Refresh Plus للبرامج النصية."
+   },
+   "idea_cs_title": {
+      "message": "هل لديك أي أفكار للبرامج النصية المخصصة؟"
+   },
+   "idea_custom_scripts_business": {
+      "message": "حلول مخصصة للشركات ذات الاحتياجات الفريدة"
+   },
+   "idea_custom_scripts_general": {
+      "message": "فكرة عامة"
+   },
+   "ignore_input_field": {
+      "message": "تجاهل تفاعلات حقل الإدخال"
+   },
+   "ignore_input_field_desc": {
+      "message": "تابع التحديث حتى عند النقر أو الكتابة داخل حقول الإدخال."
+   },
+   "images": {
+      "message": "الصور"
+   },
+   "import": {
+      "message": "استيراد"
+   },
+   "import_desc": {
+      "message": "لحفظ إعداداتك، قم باستيراد تكوين Auto Refresh Plus باستخدام زر الاستيراد. يتيح لك هذا استعادة إعداداتك على نفس الكمبيوتر أو كمبيوتر آخر."
+   },
+   "import_option": {
+      "message": "خيار الاستيراد"
+   },
+   "interactions_msg": {
+      "message": "سيقوم Auto Refresh Plus بإيقاف تحديث الصفحة مؤقتًا إذا نقرت بالماوس أو استخدمت لوحة المفاتيح. قم بتمكين هذه الميزة هنا لجميع المواقع، أو قم بتمكينها للصفحات / المواقع الفردية من نافذة الامتداد المنبثقة."
+   },
+   "interactions_msg_opt": {
+      "message": "إيقاف التحديث تلقائيًا إذا تفاعلت مع الصفحة أو بدأت الكتابة في حقل إدخال."
+   },
+   "interactions_title_opt": {
+      "message": "إيقاف التحديث عند تفاعل المستخدم"
+   },
+   "invalid_code_email": {
+      "message": "رمز التحقق المقدم غير صالح."
+   },
+   "just_now": {
+      "message": "الآن"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus نشط، ولكن الميزات الرئيسية مفقودة."
+   },
+   "keyword_found": {
+      "message": "تم العثور على الكلمة المفتاحية"
+   },
+   "lang_code": {
+      "message": "ar"
+   },
+   "logout": {
+      "message": "تسجيل الخروج"
+   },
+   "lost": {
+      "message": "مفقود"
+   },
+   "loved": {
+      "message": "أحببته!"
+   },
+   "manage_plan": {
+      "message": "إدارة الخطة"
+   },
+   "max": {
+      "message": "الحد الأقصى"
+   },
+   "min": {
+      "message": "الحد الأدنى"
+   },
+   "minute": {
+      "message": "دقيقة"
+   },
+   "minutes": {
+      "message": "دقائق"
+   },
+   "monitor_full_page": {
+      "message": "مراقبة الصفحة الكاملة"
+   },
+   "month": {
+      "message": "شهر"
+   },
+   "monthly_plan": {
+      "message": "خطة شهرية"
+   },
+   "msg_pm": {
+      "message": "لا توجد علامات تبويب لعرضها"
+   },
+   "name_required": {
+      "message": "الاسم مطلوب."
+   },
+   "never_playsound": {
+      "message": "لا تشغل الصوت أبداً"
+   },
+   "new_url": {
+      "message": "عنوان URL الجديد"
+   },
+   "no_credit_card": {
+      "message": "لا حاجة لبطاقة ائتمان"
+   },
+   "not_allowed": {
+      "message": "غير مسموح لك باستخدامها هنا."
+   },
+   "not_allowed_to_use": {
+      "message": "غير مسموح لك باستخدام هذه الميزة."
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus قد $action$ النص المستهدف الخاص بك.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "النص المستهدف!"
+   },
+   "notification_settings": {
+      "message": "إعدادات الإشعارات"
+   },
+   "notifications": {
+      "message": "الإشعارات"
+   },
+   "notifications_moved_msg": {
+      "message": "تم نقل إعدادات الإشعارات إلى قسم منفصل"
+   },
+   "ok": {
+      "message": "حسنًا"
+   },
+   "okay": {
+      "message": "جيد"
+   },
+   "open_link_tab": {
+      "message": "افتح الرابط في علامة تبويب جديدة"
+   },
+   "opt_msg1": {
+      "message": "تحديث عند فتح الروابط"
+   },
+   "opt_msg10": {
+      "message": "عندما يصل إشعار، سيتم تشغيل صوت قصير لتنبيهك. يمكنك تخصيص هذا الإعداد عن طريق إيقاف الصوت أو اختيار صوت مختلف للتشغيل للإشعارات."
+   },
+   "opt_msg11": {
+      "message": "خصص أقصى مدة للصوت الذي يتم تشغيله عند وصول الإشعار."
+   },
+   "opt_msg12": {
+      "message": "تلقي إشعارات البريد الإلكتروني عند تغيير الموقع وفقًا لإعدادات مراقب الصفحة. يضمن ذلك بقاءك محدثًا بأي تعديلات دون الحاجة إلى التحقق المستمر من الموقع."
+   },
+   "opt_msg13": {
+      "message": "تنفيذ نصوص مخصصة على الصفحة"
+   },
+   "opt_msg14": {
+      "message": "إذا كنت تحب اللعب مع الأتمتة، الكشط، تغيير سلوك الموقع الافتراضي، ولديك بعض المعرفة الأساسية بـ JavaScript، فهناك الكثير مما يمكنك فعله هنا."
+   },
+   "opt_msg15": {
+      "message": "ما هي أنماط URL المسموح بها"
+   },
+   "opt_msg16": {
+      "message": "لمطابقة كل من HTTP وHTTPS، اكتب example.com فقط"
+   },
+   "opt_msg17": {
+      "message": "لمطابقة كل صفحة على النطاق، اكتب example.com/*"
+   },
+   "opt_msg18": {
+      "message": "لمطابقة كل صفحة على النطاق والنطاقات الفرعية، اكتب *.example.com/*"
+   },
+   "opt_msg19": {
+      "message": "قم بتعيين اختصارات لوحة المفاتيح المخصصة لإجراءات Auto Refresh Plus"
+   },
+   "opt_msg2": {
+      "message": "البدء التلقائي عند فتح أي من هذه الروابط"
+   },
+   "opt_msg20": {
+      "message": "إعادة تعيين إعدادات Auto Refresh Plus"
+   },
+   "opt_msg21": {
+      "message": "\u003Cb>هل أنت متأكد\u003C/b> أنك تريد استعادة جميع إعدادات Auto Refresh Plus إلى قيمها الافتراضية؟"
+   },
+   "opt_msg22": {
+      "message": "تهانينا! تم تثبيت Auto Refresh Plus بنجاح"
+   },
+   "opt_msg3": {
+      "message": "أدخل هنا كلمة أو أكثر، وبمجرد العثور على أي منها في صفحة الويب، سيبدأ Auto Refresh Plus في تحديث الصفحة تلقائيًا بفاصل التردد الافتراضي."
+   },
+   "opt_msg4": {
+      "message": "أدخل عنوان URL محدد هنا لتحديث هذا العنوان، بدلاً من علامة التبويب الحالية التي تستخدمها. على سبيل المثال، إذا قمت بحفظ Google.com في الإعدادات ثم بدأت التحديث التلقائي أثناء التواجد على Yahoo.com، فسيتم تحديث Google.com بدلاً من الصفحة التي تنظر إليها."
+   },
+   "opt_msg5": {
+      "message": "تمكين وضع العد التنازلي"
+   },
+   "opt_msg6": {
+      "message": "قم بتنفيذ تحديث الصفحة على صفحة معينة بعد مرور وقت معين، يتيح لك مؤقت العد التنازلي لـ Auto Refresh Plus القيام بذلك. فقط قم بالتمكين واضبط الوقت، وسيبدأ مؤقت العد التنازلي. بمجرد أن يصل العد التنازلي إلى الصفر، سيبدأ Auto Refresh Plus في تحديث الصفحة مرة أخرى بفواصل زمنية افتراضية محددة."
+   },
+   "opt_msg7": {
+      "message": "تمت إضافة وضع العد التنازلي في نافذة Auto Refresh Plus المنبثقة"
+   },
+   "opt_msg8": {
+      "message": "أضف الكلمات الرئيسية للمراقبة الافتراضية هنا. يمكنك أيضًا إضافة كلمات رئيسية مخصصة لكل موقع ويب من النافذة المنبثقة للإضافة."
+   },
+   "opt_msg9": {
+      "message": "احصل على إشعار تلقائيًا عندما تجد أي صفحة ويب معينة أو تفقد الكلمة الرئيسية التي حددتها."
+   },
+   "options": {
+      "message": "خيارات"
+   },
+   "other_options": {
+      "message": "خيارات أخرى"
+   },
+   "other_products": {
+      "message": "منتجات أخرى"
+   },
+   "page_monitor": {
+      "message": "مراقب الصفحة"
+   },
+   "paused": {
+      "message": "موقوف مؤقتًا"
+   },
+   "play_for": {
+      "message": "تشغيل لمدة"
+   },
+   "play_onlyonce": {
+      "message": "تشغيل مرة واحدة فقط"
+   },
+   "play_sound": {
+      "message": "إعدادات تشغيل صوت الإشعارات"
+   },
+   "playsound_candidate": {
+      "message": "تشغيل مرشح الصوت 1 (1 ثانية)"
+   },
+   "playsound_candidate2": {
+      "message": "تشغيل مرشح الصوت 2 (6 ثوانٍ)"
+   },
+   "playsound_msg1": {
+      "message": "تشغيل الصوت من URL"
+   },
+   "please_rateus": {
+      "message": "يرجى تقييمنا"
+   },
+   "please_upgrade": {
+      "message": "يرجى ترقية خطتك."
+   },
+   "pm_input1": {
+      "message": "مثال: تم البيع انتهى انتهت الصلاحية"
+   },
+   "pm_msg2": {
+      "message": "التشغيل حتى أنقر على صندوق الإشعار"
+   },
+   "pmp": {
+      "message": "نمط مراقب الصفحة"
+   },
+   "pmp_msg1": {
+      "message": "إشعار منبثق بمجرد أن \u003Cb>يجد\u003C/b> النص المستهدف (أو التعبير النمطي)"
+   },
+   "pmp_msg2": {
+      "message": "إشعار منبثق بمجرد أن \u003Cb>يفقد\u003C/b> النص المستهدف (أو التعبير النمطي)"
+   },
+   "predefined": {
+      "message": "محدد مسبقًا"
+   },
+   "predefined_text": {
+      "message": "نص محدد مسبقًا"
+   },
+   "predefined_url": {
+      "message": "عنوان URL محدد مسبقًا"
+   },
+   "predefined_url_alert": {
+      "message": "تمكين ميزة \"تحديث URL المحددة مسبقًا\" سيقيد جميع وظائف التحديث التلقائي على عنوان URL المحدد الذي تكتبه في هذا الإدخال. لن تتمكن من تحديث أي عناوين URL أخرى عند تفعيل هذه الميزة."
+   },
+   "premium": {
+      "message": "بريميوم"
+   },
+   "r_browser": {
+      "message": "التحديث عند إعادة تشغيل المتصفح"
+   },
+   "random_interval": {
+      "message": "فاصل عشوائي"
+   },
+   "random_interval_warning": {
+      "message": "يجب أن تكون القيمة الدنيا أقل من القيمة القصوى."
+   },
+   "rate_us": {
+      "message": "قيّمنا"
+   },
+   "rateus_title": {
+      "message": "قيم هذه الإضافة"
+   },
+   "ratings": {
+      "message": "التقييمات"
+   },
+   "ratings_msg": {
+      "message": "يرجى تقييمنا بخمس نجوم على المتجر."
+   },
+   "ratings_msg2": {
+      "message": "بالطبع! لنبدأ"
+   },
+   "read_more": {
+      "message": "اقرأ المزيد"
+   },
+   "receive_emails_alerts": {
+      "message": "تلقي تنبيهات البريد الإلكتروني"
+   },
+   "refresh_number": {
+      "message": "تحديد عدد مرات التحديث"
+   },
+   "refresh_number_msg": {
+      "message": "(حدد عدد المرات التي تريد التحديث فيها.)"
+   },
+   "refresh_type": {
+      "message": "نوع التحديث"
+   },
+   "remove_email": {
+      "message": "إزالة البريد الإلكتروني"
+   },
+   "reset": {
+      "message": "إعادة تعيين الإعدادات"
+   },
+   "reset_alert_msg": {
+      "message": "هل أنت متأكد أنك تريد إعادة تعيين جميع الإعدادات إلى قيمها الافتراضية؟ لا يمكن التراجع عن هذا الإجراء. إذا كنت متأكدًا، يرجى كتابة \u003Cb>RESET\u003C/b> في حقل الإدخال أدناه."
+   },
+   "restart_msg": {
+      "message": "تابع التحديث عند اكتشاف الكلمة المفتاحية"
+   },
+   "restart_opt_msg": {
+      "message": "سيستمر Auto Refresh Plus في تحديث الصفحة حتى إذا عثر على الكلمة المفتاحية التي تتم مراقبتها أو فقدها. سيظل يطلق إشعارًا أو بريدًا إلكترونيًا أو جرسًا وفقًا لإعدادات مراقب الصفحة."
+   },
+   "retain_desc": {
+      "message": "حدد المدة الزمنية للاحتفاظ بسجل علامات التبويب المنبهة قبل أن تختفي تلقائيًا."
+   },
+   "retain_title": {
+      "message": "احتفاظ بعلامات التبويب المنبهة"
+   },
+   "rpp": {
+      "message": "تحديث الصفحة المحددة مسبقًا"
+   },
+   "rpp_body": {
+      "message": "تحديث محتوى الصفحة المحددة مسبقًا"
+   },
+   "rpp_msg1": {
+      "message": "(على سبيل المثال، google.com)"
+   },
+   "rpp_title": {
+      "message": "تحديث الصفحة المحددة مسبقًا"
+   },
+   "rpt": {
+      "message": "تحديث النص المحدد مسبقًا"
+   },
+   "rpt_body": {
+      "message": "تحديث محتوى النص المحدد مسبقًا"
+   },
+   "rpt_input1": {
+      "message": "يدعم النصوص/التعبيرات النمطية المتعددة، اضغط Enter لإضافة أخرى."
+   },
+   "rpt_title": {
+      "message": "تحديث النص المحدد مسبقًا"
+   },
+   "save": {
+      "message": "حفظ"
+   },
+   "scroll_to_keyword": {
+      "message": "التمرير إلى موقع الكلمة المفتاحية"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "قم بالتمرير تلقائيًا إلى موضع الكلمة المفتاحية المحددة عندما يتم العثور عليها."
+   },
+   "seconds": {
+      "message": "ثواني"
+   },
+   "select_countdown": {
+      "message": "حدد العد التنازلي"
+   },
+   "select_date": {
+      "message": "حدد التاريخ"
+   },
+   "select_time": {
+      "message": "حدد الوقت"
+   },
+   "sendtopm": {
+      "message": "إرسال إلى مراقب الصفحة"
+   },
+   "set_autoclick": {
+      "message": "تعيين النقر التلقائي"
+   },
+   "set_hotkey": {
+      "message": "تعيين مفتاح الاختصار"
+   },
+   "settings": {
+      "message": "الإعدادات"
+   },
+   "settings_exported": {
+      "message": "تم تصدير الإعدادات بنجاح"
+   },
+   "settings_imported": {
+      "message": "تم استيراد الإعدادات بنجاح"
+   },
+   "show_tab": {
+      "message": "عرض علامة التبويب"
+   },
+   "sign_in": {
+      "message": "تسجيل الدخول"
+   },
+   "sign_up": {
+      "message": "اشترك"
+   },
+   "sign_up_desc": {
+      "message": "سجل الآن لفتح الميزات التالية:"
+   },
+   "sound_length": {
+      "message": "طول الصوت"
+   },
+   "source": {
+      "message": "المصدر"
+   },
+   "source_msg": {
+      "message": "(البحث داخل النص المضمن في كود HTML المصدر.)"
+   },
+   "specific_timemode": {
+      "message": "وضع الوقت المحدد (على سبيل المثال، 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "بدء"
+   },
+   "start_timer": {
+      "message": "بدء المؤقت"
+   },
+   "start_timer_body": {
+      "message": "بدء محتوى المؤقت"
+   },
+   "start_timer_title": {
+      "message": "بدء المؤقت"
+   },
+   "status": {
+      "message": "الحالة"
+   },
+   "stop": {
+      "message": "إيقاف"
+   },
+   "stop_refresh_click": {
+      "message": "إيقاف التحديث عند النقر بالماوس"
+   },
+   "stop_refresh_click_desc": {
+      "message": "إيقاف التحديث التلقائي مؤقتًا كلما نقرت بالماوس."
+   },
+   "stop_refresh_keyboard": {
+      "message": "إيقاف التحديث عند استخدام لوحة المفاتيح"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "إيقاف التحديث التلقائي مؤقتًا كلما ضغطت على أي مفتاح."
+   },
+   "stop_sound": {
+      "message": "إيقاف الصوت"
+   },
+   "subscribe_pay": {
+      "message": "اشترك وادفع"
+   },
+   "success": {
+      "message": "تم حفظ الإعدادات بنجاح"
+   },
+   "supported_expressions": {
+      "message": "التعبيرات المدعومة"
+   },
+   "tabs_alerts": {
+      "message": "علامات التبويب مع التنبيهات"
+   },
+   "tabs_refreshing": {
+      "message": "تحديث علامات التبويب النشطة"
+   },
+   "temporary_pause": {
+      "message": "إيقاف التحديث التلقائي مؤقتًا عند التفاعل لفترة محددة"
+   },
+   "temporary_pause_desc": {
+      "message": "إيقاف التحديث التلقائي مؤقتًا عند النقر بالماوس أو نشاط لوحة المفاتيح لفترة محددة، وإعادة تمكينه تلقائيًا إذا لم يتم الكشف عن أي تفاعل خلال تلك الفترة."
+   },
+   "test_play": {
+      "message": "تشغيل الاختبار"
+   },
+   "thankyou": {
+      "message": "شكرًا لك"
+   },
+   "ti_msg1": {
+      "message": "حدد الوقت الافتراضي لكل تحديث للصفحة. يمكنك اختيار إما الفواصل الزمنية المحددة مسبقًا أو توفير الفاصل الزمني المخصص من نافذة الإضافة المنبثقة."
+   },
+   "ti_msg2": {
+      "message": "عشوائية الفاصل الزمني لكل تحديث صفحة يقوم به Auto Refresh Plus. كل ما تحتاج إلى فعله هو اختيار مدة زمنية دنيا وحدا أقصى، وستقوم الإضافة بتنفيذ تحديثات الصفحة التلقائية بين النطاق المحدد."
+   },
+   "ti_msg3": {
+      "message": "تمت إضافة وظيفة الفاصل الزمني العشوائي في نافذة Auto Refresh Plus المنبثقة"
+   },
+   "time": {
+      "message": "الوقت"
+   },
+   "time_interval": {
+      "message": "الفاصل الزمني"
+   },
+   "timer_mode": {
+      "message": "وضع المؤقت"
+   },
+   "unlimited": {
+      "message": "غير محدود"
+   },
+   "unsubscribe": {
+      "message": "إلغاء الاشتراك"
+   },
+   "unsubscribe_alert": {
+      "message": "هل أنت متأكد أنك تريد إلغاء الاشتراك؟"
+   },
+   "unsubscribe_success": {
+      "message": "تم إلغاء الاشتراك بنجاح"
+   },
+   "up_msg1": {
+      "message": "تم تحديث Auto Refresh Plus إلى الإصدار"
+   },
+   "up_msg2": {
+      "message": "إضافة وضع إعادة التشغيل في الخيارات"
+   },
+   "up_msg3": {
+      "message": "إضافة وضع التفاعل في الخيارات"
+   },
+   "up_msg4": {
+      "message": "قائمة السياق لإضافة النص إلى مراقب الصفحة"
+   },
+   "up_msg5": {
+      "message": "التحديث دون تحديث كامل في الصفحة"
+   },
+   "up_msg6": {
+      "message": "تمت إضافة مراقب العلامات"
+   },
+   "up_msg7": {
+      "message": "تمت إضافة عداد مرئي"
+   },
+   "up_msg8": {
+      "message": "تم إصلاح بعض الأخطاء الصغيرة"
+   },
+   "up_msg9": {
+      "message": "أفهم"
+   },
+   "use_default": {
+      "message": "استخدام الكلمات الرئيسية الافتراضية"
+   },
+   "verify": {
+      "message": "تحقق"
+   },
+   "verify_email_msg": {
+      "message": "تم التحقق من البريد الإلكتروني بنجاح"
+   },
+   "visual": {
+      "message": "مرئي"
+   },
+   "visual_msg": {
+      "message": "(البحث داخل النص الذي تراه على الشاشة المرئية.)"
+   },
+   "visual_timer_desc": {
+      "message": "تحكم في مكان ظهور المؤقت المرئي على الصفحة. اختر موضع العرض الذي يناسبك بشكل أفضل لعرض العداد المرئي."
+   },
+   "visual_timer_msg": {
+      "message": "عرض المؤقت المرئي على الصفحة"
+   },
+   "visual_timer_msg_opt": {
+      "message": "بشكل افتراضي، تمكين المؤقت المرئي لجميع الصفحات التي ستقوم بتحديثها. إذا تم تعطيله، يمكنك تمكين هذه الميزة فرديًا من نافذة الإضافة المنبثقة."
+   },
+   "visual_timer_title": {
+      "message": "التحكم في موضع المؤقت المرئي"
+   },
+   "visual_timer_title_opt": {
+      "message": "تمكين المؤقت المرئي بشكل افتراضي"
+   },
+   "volume": {
+      "message": "الصوت"
+   },
+   "whats_new": {
+      "message": "ما الجديد؟"
+   },
+   "whitelist": {
+      "message": "القائمة البيضاء"
+   },
+   "wildcard_not_supported": {
+      "message": "لا يتم دعم عناوين URL العامة عند إعادة تشغيل المتصفح."
+   },
+   "without_full": {
+      "message": "تحديث XHR"
+   },
+   "without_msg1": {
+      "message": "لا شيء"
+   },
+   "without_msg2": {
+      "message": "كيف يعمل النقر التلقائي على زر؟"
+   },
+   "xhr_page_help": {
+      "message": "استرجاع البيانات من عنوان URL دون الحاجة إلى تحديث كامل للصفحة. يمكن ذلك من تحديث جزء من الصفحة دون تعطيل ما يقوم به المستخدم."
+   },
+   "xhr_refresh": {
+      "message": "تحديث XHR"
+   },
+   "year": {
+      "message": "عام"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "لقد تجاوزت الحد المسموح لهذه الميزة."
+   },
+   "you_have_an_account": {
+      "message": "هل لديك حساب؟"
+   },
+   "your_plan": {
+      "message": "خطتك"
+   }
+}

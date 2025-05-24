@@ -1,0 +1,57 @@
+body {
+    background: linear-gradient(135deg, #353740, #353740);
+}
+
+.mainContainer {
+    padding: 5px 5px;
+    width: 350px;
+}
+
+.starsContainer,
+.starsAndTitleContainer,
+.titleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rateUsBtn {
+    background: #acff58;
+    border-radius: 4px;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.title {
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+}
+
+.starsAndTitleContainer {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.starsContainer {
+    margin-left: 1px;
+}
+
+.starIcon {
+    margin: 0px 3px;
+}
+
+.rateUsContainer {
+    display: flex;
+    justify-content: left;
+}
+
+.closeBtn {
+    border: none;
+    padding: 0px;
+    background: none;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+}

@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_popup": ""
+   },
+   "background": {
+      "service_worker": "BackgroundServiceWorker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "ContentMain.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*", "file://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "UiPath component for Studio Web automation",
+   "externally_connectable": {
+      "matches": [ "*://*.uipath.com/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "uiPath128.png",
+      "16": "uiPath16.png",
+      "32": "uiPath32.png",
+      "48": "uiPath48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArGJzjhz9rAF/zbnfgXvHmzyQemfhOA5tyCRE4+5Gz9W+fjF0HERTmxhFzW5wtMCDDnt+pAzsm9SPZuzWJ3T9s6ijTKwpO1Mr3+O9yDF1VmJ2z9wvZ3zlWVbHP45mYYPXzMO0z4eDJZbql7dv5EtKKi4JflzspbEu+WyiRZ0Gzh9QmWNJhXQLsNYvhuAX9qQFkxUr3iaT1oRxpkXd5JaAFbT2MgUpsa8Xsqa9xsC8a08j02a2oRfExO+FL4dwFGP/Z/MfPP9tXXJOtMRu5ejazsB4AK0wHrBAGUaO6A7sQCqr52FByHS989aKXl/oXLzwrDJW1sJBcDjcAdqa8BpkMwIDAQAB",
+   "manifest_version": 3,
+   "name": "UiPath Studio Web Automation",
+   "permissions": [ "management", "nativeMessaging", "tabs", "webNavigation", "debugger", "cookies", "scripting", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "24.10.2"
+}

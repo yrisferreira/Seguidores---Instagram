@@ -1,0 +1,974 @@
+{
+   "account": {
+      "message": "账户"
+   },
+   "active": {
+      "message": "活动标签页"
+   },
+   "active_subscription": {
+      "message": "活跃"
+   },
+   "active_title": {
+      "message": "活动标签页列表"
+   },
+   "add_email": {
+      "message": "添加电子邮件"
+   },
+   "add_keywords": {
+      "message": "添加默认目标关键字"
+   },
+   "add_new": {
+      "message": "新增"
+   },
+   "advanced": {
+      "message": "高级"
+   },
+   "alert_msg1": {
+      "message": "设置成功重置"
+   },
+   "alert_msg2": {
+      "message": "恭喜！Auto Refresh Plus 安装成功"
+   },
+   "alert_tabs_desc": {
+      "message": "在扩展弹出窗口中显示警报标签，以查看页面监控器进行的任何更新或更改。此功能提供了一种方便的方式来保持信息更新，特别是当您打开了许多标签页时。"
+   },
+   "alert_tabs_title": {
+      "message": "在扩展弹出窗口中显示警报标签"
+   },
+   "all": {
+      "message": "全部"
+   },
+   "allow_incognito": {
+      "message": "允许隐身模式"
+   },
+   "annual_plan": {
+      "message": "年度计划"
+   },
+   "any_change": {
+      "message": "任何更改"
+   },
+   "any_msg": {
+      "message": "当此网站发生任何变化时，Auto Refresh Plus 将通知您。"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "使用强大的页面监视功能自动刷新页面。"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | 页面监视器"
+   },
+   "are_you_sure": {
+      "message": "您确定要删除吗？"
+   },
+   "as_msg4": {
+      "message": "当这些 URL 在浏览器中打开时，Auto Refresh Plus 将自动启动页面重新加载功能。它还会在浏览器重新启动时打开所有这些 URL，并以所需的间隔开始自动刷新。"
+   },
+   "as_title": {
+      "message": "自动启动 URL"
+   },
+   "assign_hotkeys": {
+      "message": "分配快捷键"
+   },
+   "ast": {
+      "message": "倒计时计时器"
+   },
+   "ast_msg1": {
+      "message": "当这些 URL 打开时自动开始刷新。每行一个 URL，例如，"
+   },
+   "ast_msg2": {
+      "message": "当浏览器重新启动时自动开始刷新这些 URL。"
+   },
+   "ast_specific_time": {
+      "message": "选择特定时间"
+   },
+   "auto_clicker": {
+      "message": "自动点击器"
+   },
+   "auto_clicker_msg1": {
+      "message": "自动点击链接"
+   },
+   "auto_clicker_msg2": {
+      "message": "(如果监视的文本或正则表达式有链接)"
+   },
+   "auto_start": {
+      "message": "自动开始"
+   },
+   "bad": {
+      "message": "差"
+   },
+   "blacklist": {
+      "message": "黑名单"
+   },
+   "bulk_keywords_msg": {
+      "message": "对于大量关键词，请在每个逗号后使用空格"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancel_timer": {
+      "message": "取消计时器"
+   },
+   "canonical_url": {
+      "message": "规范 URL"
+   },
+   "change_site_desc": {
+      "message": "如果在Auto Refresh Plus运行时网站的URL发生更改，它将自动更新以跟随新URL或保留在原始URL。这确保页面能够正确刷新而不中断。"
+   },
+   "change_site_title": {
+      "message": "URL更改/重定向处理"
+   },
+   "choose_plan": {
+      "message": "选择您的计划"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "zh-CN"
+   },
+   "congratulations": {
+      "message": "恭喜"
+   },
+   "contact_us": {
+      "message": "联系我们"
+   },
+   "continue_without_login": {
+      "message": "不登录继续"
+   },
+   "contribution": {
+      "message": "贡献"
+   },
+   "copyright": {
+      "message": "版权所有。"
+   },
+   "countdown": {
+      "message": "倒计时"
+   },
+   "countdown_mode": {
+      "message": "倒计时模式"
+   },
+   "cs_t1": {
+      "message": "当 URL 打开时"
+   },
+   "cs_t2": {
+      "message": "每次页面刷新"
+   },
+   "cs_t3": {
+      "message": "当页面监视器找到目标文本时"
+   },
+   "cs_t4": {
+      "message": "当页面监视器失去目标文本时"
+   },
+   "cs_t5": {
+      "message": "当发生任何变化时"
+   },
+   "cs_t6": {
+      "message": "页面加载前注入"
+   },
+   "cs_t7": {
+      "message": "页面加载后注入"
+   },
+   "custom": {
+      "message": "自定义"
+   },
+   "custom_monitor": {
+      "message": "自定义监视器"
+   },
+   "custom_scripts": {
+      "message": "自定义脚本"
+   },
+   "date": {
+      "message": "日期"
+   },
+   "deep_source": {
+      "message": "深度来源"
+   },
+   "default_target_input": {
+      "message": "支持多文本/正则表达式，按回车键添加另一个。"
+   },
+   "default_target_text": {
+      "message": "默认目标文本"
+   },
+   "default_timerinterval": {
+      "message": "默认时间间隔"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "detect_any_change": {
+      "message": "Auto Refresh Plus 检测到此网站发生变化。"
+   },
+   "detect_any_change_title": {
+      "message": "页面监视器"
+   },
+   "developer_mode": {
+      "message": "不允许开发者模式。"
+   },
+   "developer_mode_msg": {
+      "message": "出于安全和稳定性原因，不允许使用开发者模式。\u003Cbr>请从官方商店下载并安装扩展，以确保您拥有最新和最安全的版本。"
+   },
+   "devices": {
+      "message": "设备"
+   },
+   "dismiss": {
+      "message": "忽略"
+   },
+   "domain": {
+      "message": "域名"
+   },
+   "donate": {
+      "message": "捐赠"
+   },
+   "donation": {
+      "message": "捐赠"
+   },
+   "donation_msg": {
+      "message": "\u003Cb>来自 Auto Refresh Plus 团队的问候。\u003C/b> \u003Cbr>如果您发现 Auto Refresh Plus 有用，请考虑向作者捐赠。"
+   },
+   "donation_msg2": {
+      "message": "我已经捐赠了。"
+   },
+   "done": {
+      "message": "完成"
+   },
+   "download_in_store": {
+      "message": "在商店下载"
+   },
+   "email": {
+      "message": "电子邮件"
+   },
+   "email_alert": {
+      "message": "电子邮件提醒通知"
+   },
+   "email_msg": {
+      "message": "请注意，此设置仅用于添加电子邮件。要接收电子邮件提醒，请在扩展弹出窗口 > 页面监视器部分为每个网页启用\u003Cb>接收电子邮件提醒\u003C/b>。"
+   },
+   "email_sent_to": {
+      "message": "验证代码已发送到"
+   },
+   "enable_ri": {
+      "message": "启用随机间隔"
+   },
+   "enable_tf": {
+      "message": "启用此功能"
+   },
+   "enter_code_title": {
+      "message": "输入验证码"
+   },
+   "enter_email": {
+      "message": "输入电子邮件地址"
+   },
+   "exact": {
+      "message": "精确 URL"
+   },
+   "expire": {
+      "message": "过期"
+   },
+   "export": {
+      "message": "导出"
+   },
+   "export_desc": {
+      "message": "为了保留您的设置，请导出您的 Auto Refresh Plus 配置并在同一台或另一台计算机上稍后恢复。"
+   },
+   "export_option": {
+      "message": "导出选项"
+   },
+   "export_settings": {
+      "message": "设置备份"
+   },
+   "extension_updated": {
+      "message": "扩展已更新到"
+   },
+   "feature_1": {
+      "message": "在多个设备中同步设置"
+   },
+   "feature_2": {
+      "message": "显示视觉计时器"
+   },
+   "feature_3": {
+      "message": "自定义脚本支持"
+   },
+   "feature_4": {
+      "message": "以及更多..."
+   },
+   "feature_request": {
+      "message": "功能请求"
+   },
+   "find_mtr_msg": {
+      "message": "查找监视文本"
+   },
+   "focus_description": {
+      "message": "当页面监控器找到或丢失关键词时启用窗口焦点。此功能可确保每次检测到或丢失指定关键词时，窗口自动显示在屏幕前端。"
+   },
+   "focus_title": {
+      "message": "在检测到关键词时启用窗口焦点"
+   },
+   "found": {
+      "message": "找到"
+   },
+   "free": {
+      "message": "免费"
+   },
+   "full_page": {
+      "message": "全页面刷新"
+   },
+   "full_page_help": {
+      "message": "当此网页发生任何变化时，Auto Refresh Plus 将通知您。"
+   },
+   "good": {
+      "message": "好"
+   },
+   "great": {
+      "message": "很棒！"
+   },
+   "hard_refresh": {
+      "message": "硬刷新"
+   },
+   "hard_refresh_msg": {
+      "message": "（重新加载页面而不依赖缓存数据）"
+   },
+   "help_center": {
+      "message": "帮助中心"
+   },
+   "home": {
+      "message": "主页"
+   },
+   "hotkeys": {
+      "message": "快捷键"
+   },
+   "hotkeys_msg1": {
+      "message": "启动时间间隔"
+   },
+   "hotkeys_msg2": {
+      "message": "启动随机间隔"
+   },
+   "hotkeys_msg3": {
+      "message": "启动计时模式"
+   },
+   "hotkeys_msg4": {
+      "message": "停止间隔"
+   },
+   "hotkeys_msg5": {
+      "message": "关闭通知声音"
+   },
+   "hotkeys_title": {
+      "message": "分配快捷键"
+   },
+   "hour": {
+      "message": "小时"
+   },
+   "hours": {
+      "message": "小时"
+   },
+   "howto": {
+      "message": "如何"
+   },
+   "idea_cs_bussiness_desc": {
+      "message": "Auto Refresh Plus为您的企业提供定制解决方案，以满足其独特需求。我们的团队可以创建自定义脚本以在网页上执行特定操作。请注意，定制解决方案需额外收费，价格根据复杂性而定。联系我们以进一步讨论您的需求。"
+   },
+   "idea_cs_general_desc": {
+      "message": "如果您的脚本也满足其他用户的需求，我们将免费编写并在Auto Refresh Plus脚本市场上公开发布。"
+   },
+   "idea_cs_title": {
+      "message": "您有自定义脚本的想法吗？"
+   },
+   "idea_custom_scripts_business": {
+      "message": "满足企业独特需求的定制解决方案"
+   },
+   "idea_custom_scripts_general": {
+      "message": "公共想法"
+   },
+   "ignore_input_field": {
+      "message": "忽略输入字段交互"
+   },
+   "ignore_input_field_desc": {
+      "message": "即使您点击或在输入字段中输入内容，也继续刷新。"
+   },
+   "images": {
+      "message": "图像"
+   },
+   "import": {
+      "message": "导入"
+   },
+   "import_desc": {
+      "message": "为了保留您的设置，请使用导入按钮导入您的 Auto Refresh Plus 配置。这允许您在同一台或另一台计算机上恢复您的设置。"
+   },
+   "import_option": {
+      "message": "导入选项"
+   },
+   "interactions_msg": {
+      "message": "如果您单击鼠标或使用键盘，Auto Refresh Plus将暂停刷新页面。在此处为所有网站启用此功能，或从扩展弹出窗口为单个页面/网站启用。"
+   },
+   "interactions_msg_opt": {
+      "message": "如果您与页面交互或开始在输入字段中键入，则自动暂停刷新。"
+   },
+   "interactions_title_opt": {
+      "message": "在用户交互时停止刷新"
+   },
+   "invalid_code_email": {
+      "message": "提供的验证码无效。"
+   },
+   "just_now": {
+      "message": "刚刚"
+   },
+   "key_missing": {
+      "message": "Auto Refresh Plus 正在运行，但缺少关键功能。"
+   },
+   "keyword_found": {
+      "message": "关键词已找到"
+   },
+   "lang_code": {
+      "message": "zh-CN"
+   },
+   "logout": {
+      "message": "注销"
+   },
+   "lost": {
+      "message": "丢失"
+   },
+   "loved": {
+      "message": "太爱了！"
+   },
+   "manage_plan": {
+      "message": "管理计划"
+   },
+   "max": {
+      "message": "最大"
+   },
+   "min": {
+      "message": "最小"
+   },
+   "minute": {
+      "message": "分钟"
+   },
+   "minutes": {
+      "message": "分钟"
+   },
+   "monitor_full_page": {
+      "message": "监视整个页面"
+   },
+   "month": {
+      "message": "月"
+   },
+   "monthly_plan": {
+      "message": "月度计划"
+   },
+   "msg_pm": {
+      "message": "没有标签页可显示"
+   },
+   "name_required": {
+      "message": "需要名称。"
+   },
+   "never_playsound": {
+      "message": "从不播放声音"
+   },
+   "new_url": {
+      "message": "新 URL"
+   },
+   "no_credit_card": {
+      "message": "不需要信用卡"
+   },
+   "not_allowed": {
+      "message": "您无权在此使用它。"
+   },
+   "not_allowed_to_use": {
+      "message": "您无权使用此功能。"
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus 已$action$您的目标文本。",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "目标文本！"
+   },
+   "notification_settings": {
+      "message": "通知设置"
+   },
+   "notifications": {
+      "message": "通知"
+   },
+   "notifications_moved_msg": {
+      "message": "通知设置已移至单独部分"
+   },
+   "ok": {
+      "message": "好的"
+   },
+   "okay": {
+      "message": "还行"
+   },
+   "open_link_tab": {
+      "message": "在新标签页中打开链接"
+   },
+   "opt_msg1": {
+      "message": "URL 打开时刷新"
+   },
+   "opt_msg10": {
+      "message": "当有通知到达时，将播放短促的声音以提醒您。您可以通过关闭声音或选择不同的声音来定制此设置。"
+   },
+   "opt_msg11": {
+      "message": "定制通知到达时播放的声音的最长持续时间。"
+   },
+   "opt_msg12": {
+      "message": "当网站根据您的页面监控器设置发生变化时接收电子邮件通知。这确保您可以在不需要不断检查网站的情况下保持更新。"
+   },
+   "opt_msg13": {
+      "message": "在页面上执行自定义脚本"
+   },
+   "opt_msg14": {
+      "message": "如果您喜欢自动化、抓取、更改默认网站行为并具备一些 JavaScript 基础知识，这里有很多您可以做的事情。"
+   },
+   "opt_msg15": {
+      "message": "允许哪些 URL 模式"
+   },
+   "opt_msg16": {
+      "message": "要匹配 HTTP 和 HTTPS，只需写 example.com"
+   },
+   "opt_msg17": {
+      "message": "要匹配域上的每个页面，请写 example.com/*"
+   },
+   "opt_msg18": {
+      "message": "要匹配域及其子域上的每个页面，请写 *.example.com/*"
+   },
+   "opt_msg19": {
+      "message": "为 Auto Refresh Plus 操作设置自定义键盘快捷键"
+   },
+   "opt_msg2": {
+      "message": "这些 URL 打开时自动开始刷新"
+   },
+   "opt_msg20": {
+      "message": "重置 Auto Refresh Plus 设置"
+   },
+   "opt_msg21": {
+      "message": "\u003Cb>您确定\u003C/b>要将所有 Auto Refresh Plus 设置恢复为默认值吗？"
+   },
+   "opt_msg22": {
+      "message": "恭喜！Auto Refresh Plus 安装成功"
+   },
+   "opt_msg3": {
+      "message": "在此处插入一个或多个关键字，一旦在网页上找到任何关键字，Auto Refresh Plus 将开始以默认间隔频率自动刷新页面。"
+   },
+   "opt_msg4": {
+      "message": "在此处输入特定 URL 以刷新此 URL，而不是当前使用的标签页。例如，如果您在设置中保存了 Google.com 然后在 Yahoo.com 上启动自动刷新，Google.com 将刷新，而不是您正在查看的页面。"
+   },
+   "opt_msg5": {
+      "message": "启用倒计时模式"
+   },
+   "opt_msg6": {
+      "message": "在特定时间后执行页面刷新，Auto Refresh Plus 的倒计时器让您可以做到这一点。只需启用并设置时间，倒计时器将开始。一旦倒计时到零，Auto Refresh Plus 将再次以设定的默认间隔刷新页面。"
+   },
+   "opt_msg7": {
+      "message": "在 Auto Refresh Plus 弹出窗口中添加了倒计时模式"
+   },
+   "opt_msg8": {
+      "message": "在此处添加默认监视关键字。您还可以从扩展弹出窗口为每个网站添加自定义关键字。"
+   },
+   "opt_msg9": {
+      "message": "当给定的网页找到或丢失您定义的关键字时自动获得通知。"
+   },
+   "options": {
+      "message": "选项"
+   },
+   "other_options": {
+      "message": "其他选项"
+   },
+   "other_products": {
+      "message": "其他产品"
+   },
+   "page_monitor": {
+      "message": "页面监视器"
+   },
+   "paused": {
+      "message": "已暂停"
+   },
+   "play_for": {
+      "message": "播放时长"
+   },
+   "play_onlyonce": {
+      "message": "只播放一次"
+   },
+   "play_sound": {
+      "message": "推送通知声音播放设置"
+   },
+   "playsound_candidate": {
+      "message": "播放声音候选 1（1 秒）"
+   },
+   "playsound_candidate2": {
+      "message": "播放声音候选 2（6 秒）"
+   },
+   "playsound_msg1": {
+      "message": "从 URL 播放声音"
+   },
+   "please_rateus": {
+      "message": "请评价我们"
+   },
+   "please_upgrade": {
+      "message": "请升级您的计划。"
+   },
+   "pm_input1": {
+      "message": "示例：售罄 结束 过期"
+   },
+   "pm_msg2": {
+      "message": "点击通知框前一直播放"
+   },
+   "pmp": {
+      "message": "页面监视模式"
+   },
+   "pmp_msg1": {
+      "message": "当\u003Cb>找到\u003C/b>目标文本（或正则表达式）时弹出通知"
+   },
+   "pmp_msg2": {
+      "message": "当\u003Cb>丢失\u003C/b>目标文本（或正则表达式）时弹出通知"
+   },
+   "predefined": {
+      "message": "预定义"
+   },
+   "predefined_text": {
+      "message": "预定义文本"
+   },
+   "predefined_url": {
+      "message": "预定义 URL"
+   },
+   "predefined_url_alert": {
+      "message": "启用\"刷新预定义URL\"功能将把所有自动刷新功能限制为您在此输入框中写入的指定URL。当此功能激活时，您将无法刷新任何其他URL。"
+   },
+   "premium": {
+      "message": "高级"
+   },
+   "r_browser": {
+      "message": "浏览器重启时刷新"
+   },
+   "random_interval": {
+      "message": "随机间隔"
+   },
+   "random_interval_warning": {
+      "message": "最小值应小于最大值。"
+   },
+   "rate_us": {
+      "message": "评价我们"
+   },
+   "rateus_title": {
+      "message": "评价此扩展"
+   },
+   "ratings": {
+      "message": "评价"
+   },
+   "ratings_msg": {
+      "message": "请在网上商店给我们五星好评。"
+   },
+   "ratings_msg2": {
+      "message": "当然！让我们开始吧"
+   },
+   "read_more": {
+      "message": "阅读更多"
+   },
+   "receive_emails_alerts": {
+      "message": "接收电子邮件提醒"
+   },
+   "refresh_number": {
+      "message": "设置刷新次数"
+   },
+   "refresh_number_msg": {
+      "message": "（设置您想要刷新的次数。）"
+   },
+   "refresh_type": {
+      "message": "刷新类型"
+   },
+   "remove_email": {
+      "message": "移除电子邮件"
+   },
+   "reset": {
+      "message": "重置设置"
+   },
+   "reset_alert_msg": {
+      "message": "您确定要将所有设置重置为默认值吗？此操作无法撤消。如果确定，请在下面的输入字段中输入\u003Cb>RESET\u003C/b>。"
+   },
+   "restart_msg": {
+      "message": "检测到关键词时继续刷新"
+   },
+   "restart_opt_msg": {
+      "message": "即使找到或丢失监控的关键词，Auto Refresh Plus也会继续刷新页面。根据您的页面监控器设置，它仍会触发通知、电子邮件或铃声。"
+   },
+   "retain_desc": {
+      "message": "选择保留警报标签记录的时间持续时间，然后它们会自动消失。"
+   },
+   "retain_title": {
+      "message": "保留警报标签"
+   },
+   "rpp": {
+      "message": "刷新预定义页面"
+   },
+   "rpp_body": {
+      "message": "刷新预定义页面内容"
+   },
+   "rpp_msg1": {
+      "message": "（例如，google.com）"
+   },
+   "rpp_title": {
+      "message": "刷新预定义页面"
+   },
+   "rpt": {
+      "message": "刷新预定义文本"
+   },
+   "rpt_body": {
+      "message": "刷新预定义文本内容"
+   },
+   "rpt_input1": {
+      "message": "支持多文本/正则表达式，按回车键添加另一个。"
+   },
+   "rpt_title": {
+      "message": "刷新预定义文本"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "scroll_to_keyword": {
+      "message": "滚动到关键词位置"
+   },
+   "scroll_to_keyword_desc": {
+      "message": "找到指定关键词时，自动滚动页面到该关键词的位置。"
+   },
+   "seconds": {
+      "message": "秒"
+   },
+   "select_countdown": {
+      "message": "选择倒计时"
+   },
+   "select_date": {
+      "message": "选择日期"
+   },
+   "select_time": {
+      "message": "选择时间"
+   },
+   "sendtopm": {
+      "message": "发送到页面监视器"
+   },
+   "set_autoclick": {
+      "message": "设置自动点击"
+   },
+   "set_hotkey": {
+      "message": "设置快捷键"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "settings_exported": {
+      "message": "设置成功导出"
+   },
+   "settings_imported": {
+      "message": "设置成功导入"
+   },
+   "show_tab": {
+      "message": "显示标签页"
+   },
+   "sign_in": {
+      "message": "登录"
+   },
+   "sign_up": {
+      "message": "注册"
+   },
+   "sign_up_desc": {
+      "message": "立即注册以解锁以下内容："
+   },
+   "sound_length": {
+      "message": "声音长度"
+   },
+   "source": {
+      "message": "来源"
+   },
+   "source_msg": {
+      "message": "（在 HTML 源代码中的内联文本内查找。）"
+   },
+   "specific_timemode": {
+      "message": "特定时间模式（例如，2012-01-01 20:10:00）"
+   },
+   "start_msg": {
+      "message": "开始"
+   },
+   "start_timer": {
+      "message": "启动计时器"
+   },
+   "start_timer_body": {
+      "message": "启动计时器内容"
+   },
+   "start_timer_title": {
+      "message": "启动计时器"
+   },
+   "status": {
+      "message": "状态"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "stop_refresh_click": {
+      "message": "单击鼠标时停止刷新"
+   },
+   "stop_refresh_click_desc": {
+      "message": "每当您单击鼠标时暂停自动刷新。"
+   },
+   "stop_refresh_keyboard": {
+      "message": "使用键盘时停止刷新"
+   },
+   "stop_refresh_keyboard_desc": {
+      "message": "每当您按下任何键时暂停自动刷新。"
+   },
+   "stop_sound": {
+      "message": "停止声音"
+   },
+   "subscribe_pay": {
+      "message": "订阅并支付"
+   },
+   "success": {
+      "message": "设置成功保存"
+   },
+   "supported_expressions": {
+      "message": "支持的表达式"
+   },
+   "tabs_alerts": {
+      "message": "带有警报的标签"
+   },
+   "tabs_refreshing": {
+      "message": "活动标签页正在刷新"
+   },
+   "temporary_pause": {
+      "message": "在指定期间内由于交互暂时暂停自动刷新"
+   },
+   "temporary_pause_desc": {
+      "message": "在鼠标点击或键盘活动时暂停自动刷新一段指定时间，如果在此期间未检测到交互，则自动重新启用。"
+   },
+   "test_play": {
+      "message": "测试播放"
+   },
+   "thankyou": {
+      "message": "谢谢"
+   },
+   "ti_msg1": {
+      "message": "设置每次页面刷新时的默认时间。您可以选择预定义的时间间隔，也可以在扩展弹出窗口中提供自定义时间间隔。"
+   },
+   "ti_msg2": {
+      "message": "随机化 Auto Refresh Plus 进行的每次页面刷新的时间间隔。您只需选择最短和最长时间，扩展程序将在定义的范围内执行自动页面刷新。"
+   },
+   "ti_msg3": {
+      "message": "在 Auto Refresh Plus 弹出窗口中添加了随机间隔功能"
+   },
+   "time": {
+      "message": "时间"
+   },
+   "time_interval": {
+      "message": "时间间隔"
+   },
+   "timer_mode": {
+      "message": "计时器模式"
+   },
+   "unlimited": {
+      "message": "无限"
+   },
+   "unsubscribe": {
+      "message": "取消订阅"
+   },
+   "unsubscribe_alert": {
+      "message": "您确定要取消订阅吗？"
+   },
+   "unsubscribe_success": {
+      "message": "成功取消订阅"
+   },
+   "up_msg1": {
+      "message": "Auto Refresh Plus 更新到版本"
+   },
+   "up_msg2": {
+      "message": "在选项中添加重启模式"
+   },
+   "up_msg3": {
+      "message": "在选项中添加交互模式"
+   },
+   "up_msg4": {
+      "message": "用于向页面监视器添加文本的上下文菜单"
+   },
+   "up_msg5": {
+      "message": "页面中不完全刷新地刷新"
+   },
+   "up_msg6": {
+      "message": "添加了标签页监视器"
+   },
+   "up_msg7": {
+      "message": "添加了视觉计数器"
+   },
+   "up_msg8": {
+      "message": "修复了一些小错误"
+   },
+   "up_msg9": {
+      "message": "我明白了"
+   },
+   "use_default": {
+      "message": "使用默认关键字"
+   },
+   "verify": {
+      "message": "验证"
+   },
+   "verify_email_msg": {
+      "message": "电子邮件验证成功"
+   },
+   "visual": {
+      "message": "视觉"
+   },
+   "visual_msg": {
+      "message": "（在您看到的视觉屏幕中的文本内查找。）"
+   },
+   "visual_timer_desc": {
+      "message": "控制视觉计时器在页面上的显示位置。选择适合显示视觉计数器的位置。"
+   },
+   "visual_timer_msg": {
+      "message": "在网页上显示视觉计时器"
+   },
+   "visual_timer_msg_opt": {
+      "message": "默认情况下，为所有您将刷新的页面启用视觉计时器。如果禁用，您可以从扩展弹出窗口单独启用此功能。"
+   },
+   "visual_timer_title": {
+      "message": "视觉计时器位置控制"
+   },
+   "visual_timer_title_opt": {
+      "message": "默认启用视觉计时器"
+   },
+   "volume": {
+      "message": "音量"
+   },
+   "whats_new": {
+      "message": "新功能"
+   },
+   "whitelist": {
+      "message": "白名单"
+   },
+   "wildcard_not_supported": {
+      "message": "浏览器重启时不支持通配符URL。"
+   },
+   "without_full": {
+      "message": "XHR 刷新"
+   },
+   "without_msg1": {
+      "message": "无"
+   },
+   "without_msg2": {
+      "message": "自动点击按钮如何工作？"
+   },
+   "xhr_page_help": {
+      "message": "从 URL 获取数据而无需完全刷新页面。这使网页可以在不打扰用户的情况下更新页面的一部分。"
+   },
+   "xhr_refresh": {
+      "message": "XHR 刷新"
+   },
+   "year": {
+      "message": "年"
+   },
+   "you_has_exceeded_the_limit": {
+      "message": "您已超出此功能的限制。"
+   },
+   "you_have_an_account": {
+      "message": "您有一个账户吗？"
+   },
+   "your_plan": {
+      "message": "您的计划"
+   }
+}
